@@ -4,6 +4,8 @@ declare(strict_types = 1);
 
 namespace Centrex\Courier;
 
+use Centrex\Courier\Services\{PathaoService, RedxService, RokomariService, SteadfastService, SundarbanService};
+use Illuminate\Http\Client\Factory as HttpFactory;
 use Illuminate\Support\ServiceProvider;
 
 class CourierServiceProvider extends ServiceProvider
@@ -13,13 +15,7 @@ class CourierServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        /*
-         * Optional methods to load your package assets
-         */
-        // $this->loadTranslationsFrom(__DIR__.'/../resources/lang', 'courier');
-        // $this->loadViewsFrom(__DIR__.'/../resources/views', 'courier');
-        // $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
-        // $this->loadRoutesFrom(__DIR__.'/routes.php');
+        $this->loadRoutesFrom(__DIR__ . '/../routes/api.php');
 
         if ($this->app->runningInConsole()) {
             $this->publishes([
@@ -56,12 +52,53 @@ class CourierServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        // Automatically apply the package configuration
         $this->mergeConfigFrom(__DIR__ . '/../config/config.php', 'courier');
 
-        // Register the main class to use with the facade
-        $this->app->singleton('courier', function () {
-            return new Courier();
+        $this->app->singleton(PathaoService::class, function ($app): PathaoService {
+            return new PathaoService(
+                $app->make(HttpFactory::class),
+                $app['config']->get('courier', []),
+            );
         });
+
+        $this->app->singleton(RokomariService::class, function ($app): RokomariService {
+            return new RokomariService(
+                $app->make(HttpFactory::class),
+                $app['config']->get('courier', []),
+            );
+        });
+
+        $this->app->singleton(RedxService::class, function ($app): RedxService {
+            return new RedxService(
+                $app->make(HttpFactory::class),
+                $app['config']->get('courier', []),
+            );
+        });
+
+        $this->app->singleton(SteadfastService::class, function ($app): SteadfastService {
+            return new SteadfastService(
+                $app->make(HttpFactory::class),
+                $app['config']->get('courier', []),
+            );
+        });
+
+        $this->app->singleton(SundarbanService::class, function ($app): SundarbanService {
+            return new SundarbanService(
+                $app->make(HttpFactory::class),
+                $app['config']->get('courier', []),
+            );
+        });
+
+        $this->app->singleton(Courier::class, function ($app): Courier {
+            return new Courier(
+                $app->make(PathaoService::class),
+                $app->make(RokomariService::class),
+                $app->make(RedxService::class),
+                $app->make(SteadfastService::class),
+                $app->make(SundarbanService::class),
+            );
+        });
+
+        $this->app->alias(Courier::class, 'courier');
     }
 }

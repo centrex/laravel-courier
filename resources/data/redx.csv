@@ -1,0 +1,2838 @@
+﻿District,Area,Post Code,Home Delivery,Lockdown,Charge(1kg),Charge(2kg),Charge(3kg),COD Charge
+Dhaka,Salimullah Road(Mohammadpur),1207,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Road 3,1209,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-1,1212,Yes,No,65,80,95,0%
+Dhaka,Kallyanpur(Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Shyamoli(Dhaka),1207,Yes,No,65,80,95,0%
+Dhaka,Adabor(Mohammadpur),1207,Yes,No,65,80,95,0%
+Dhaka,Darussalam (Technical-Kallayanpur),1216,Yes,No,65,80,95,0%
+Dhaka,Gabtoli (Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Pallabi(Mirpur-12),1216,Yes,No,65,80,95,0%
+Dhaka,Lalmatia(Dhaka),1207,Yes,No,65,80,95,0%
+Dhaka,Mirpur DOHS(Mirpur-12),1216,Yes,No,65,80,95,0%
+Dhaka,Kochukhet(Mirpur 14),1206,Yes,No,65,80,95,0%
+Dhaka,Gudaraghat (Badda Link Road),1212,Yes,No,65,80,95,0%
+Dhaka,Agargaon(Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Monipur(60-feet),1216,Yes,No,65,80,95,0%
+Dhaka,Sher-e-Bangla Agricultural University,1205,Yes,No,65,80,95,0%
+Dhaka,Ibrahimpur(Mirpur 14),1206,Yes,No,65,80,95,0%
+Dhaka,Kakoli(Banani),1212,Yes,No,65,80,95,0%
+Dhaka,Balughat Bazar Road(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,North Kafrul(Mirpur),1206,Yes,No,65,80,95,0%
+Dhaka,Vashantek(Mirpur),1206,Yes,No,65,80,95,0%
+Dhaka,Manikdi(Vasantek-Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Matikata(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Bangladesh Army Headquerters(Dhaka Cantonment),1212,Yes,No,65,80,95,0%
+Dhaka,Rupnagar Residential(Mirpur 7),1216,Yes,No,65,80,95,0%
+Dhaka,Duaripara-Pallabi(Mirpur 12),1216,Yes,No,65,80,95,0%
+Dhaka,Dhaka Dental College(Mirpur 14),1216,Yes,No,65,80,95,0%
+Dhaka,Bagbari (Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Mazar Road (Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Shagufta(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Bawnia Bazar(Uttara),1230,Yes,No,65,80,95,0%
+Dhaka,Baigertek-ECB(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Madina nagar(Mirpur 11),1216,Yes,No,65,80,95,0%
+Dhaka,Chuti Ghor Road (Nikunjo-Khilkhet),1229,Yes,No,65,80,95,0%
+Dhaka,Mastertek-Manikdi(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Balughat(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Barontek-Balughat(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Golartek(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Uttar Para (Khilkhet),1229,Yes,No,65,80,95,0%
+Dhaka,Shewra (Kuril-Dhaka),1229,Yes,No,65,80,95,0%
+Dhaka,Ainusbag(Dakshinkhan),1230,Yes,No,65,80,95,0%
+Dhaka,Uttarkhan(Dhaka),1230,Yes,No,65,80,95,0%
+Dhaka,Dakshinkhan(Dhaka),1230,Yes,No,65,80,95,0%
+Dhaka,TIC Colony(Uttara Sector-6),1230,Yes,No,65,80,95,0%
+Dhaka,Askona(Dhaka),1230,Yes,No,65,80,95,0%
+Dhaka,Tolna (Khikhet),1229,Yes,No,65,80,95,0%
+Dhaka,Moddho Para (Khilkhet),1229,Yes,No,65,80,95,0%
+Dhaka,Nikunja(Dhaka),1229,Yes,No,65,80,95,0%
+Dhaka,Moddhopara(Dakshinkhan),1230,Yes,No,65,80,95,0%
+Dhaka,Hajipara (Rampura),1219,Yes,No,65,80,95,0%
+Dhaka,Kawla(Dhaka),1230,Yes,No,65,80,95,0%
+Dhaka,Naddapara (Dakshinkhan),1230,Yes,No,65,80,95,0%
+Dhaka,Bashundhara R/A (Basundhara),1229,Yes,No,65,80,95,0%
+Dhaka,Dorji Bari (Khilkhet),1229,Yes,No,65,80,95,0%
+Dhaka,Nadda (Baridhara),1229,Yes,No,65,80,95,0%
+Dhaka,Baridhara Diplomatic Zone,1212,Yes,No,65,80,95,0%
+Dhaka,Baridhara DOHS,1212,Yes,No,65,80,95,0%
+Dhaka,Notun Bazar (Vatara),1229,Yes,No,65,80,95,0%
+Dhaka,Adarsha Nagar (Middle Badda),1212,Yes,No,65,80,95,0%
+Dhaka,Jhilpar (Shahajadpur),1212,Yes,No,65,80,95,0%
+Dhaka,Uttor Badda,1212,Yes,No,65,80,95,0%
+Dhaka,Middle Badda,1212,Yes,No,65,80,95,0%
+Dhaka,South Badda,1212,Yes,No,65,80,95,0%
+Dhaka,Merul Badda,1212,Yes,No,65,80,95,0%
+Dhaka,Niketon(Gulshan),1212,Yes,No,65,80,95,0%
+Dhaka,Banani Block A,1213,Yes,No,65,80,95,0%
+Dhaka,Banani DOHS,1213,Yes,No,65,80,95,0%
+Dhaka,Orion More(Tejgaon),1212,Yes,No,65,80,95,0%
+Dhaka,Mohakhali DOHS,1212,Yes,No,65,80,95,0%
+Dhaka,South Monipur(60-feet),1216,Yes,No,65,80,95,0%
+Dhaka,Shah ali bagh(Mirpur-1),1216,Yes,No,65,80,95,0%
+Dhaka,GMG More(Tejgaon),1212,Yes,No,65,80,95,0%
+Dhaka,Bashtola(Natun Bazar),1229,Yes,No,65,80,95,0%
+Dhaka,DIT Project (Merul Badda),1212,Yes,No,65,80,95,0%
+Dhaka,Aftabnagar(Dhaka),1212,Yes,No,65,80,95,0%
+Dhaka,Bijoy Shoroni(Dhaka),1215,Yes,No,65,80,95,0%
+Dhaka,Farmgate(Dhaka),1215,Yes,No,65,80,95,0%
+Dhaka,Indira Road(Firmgate),1215,Yes,No,65,80,95,0%
+Dhaka,Love Road (Tejgoan),1208,Yes,No,65,80,95,0%
+Dhaka,Tejkunipara(Farmgate),1215,Yes,No,65,80,95,0%
+Dhaka,Razabazar(Farmgate),1215,Yes,No,65,80,95,0%
+Dhaka,Sukrabad(Dhanmondi),1215,Yes,No,65,80,95,0%
+Dhaka,Panthopath(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Kalabagan(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Green Road(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Manik Mia Avenue(Dhaka),1225,Yes,No,65,80,95,0%
+Dhaka,Asad Avenue(Dhaka),1207,Yes,No,65,80,95,0%
+Dhaka,Jigatola(Dhanmondi),1209,Yes,No,65,80,95,0%
+Dhaka,Shankar (West Dhanmondi),1209,Yes,No,65,80,95,0%
+Dhaka,Rayer Bazar(Mohammadpur),1209,Yes,No,65,80,95,0%
+Dhaka,Tallabag(Dhanmondi),1209,Yes,No,65,80,95,0%
+Dhaka,Hazaribag(Dhaka),1209,Yes,No,65,80,95,0%
+Dhaka,Pilkhana(Dhaka),1209,Yes,No,65,80,95,0%
+Dhaka,Kellar Mor(Lalbagh-Dhaka),1320,Yes,No,65,80,95,0%
+Dhaka,New Market(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Azimpur(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Nilkhet(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Lalbagh(Dhaka),1211,Yes,No,65,80,95,0%
+Dhaka,Chawkbazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Naya Bazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Tatibazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Luxmi Bazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Tipu Sultan Road(Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Siddique Bazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Tikatuly (Dhaka),1203,Yes,No,65,80,95,0%
+Dhaka,Motijheel(Dhaka),1223,Yes,No,65,80,95,0%
+Dhaka,Nawabpur (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Kaptan Bazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Gulistan(Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Bongo Bazar(Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Chankarpul(Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Palashi(Dhaka),1211,Yes,No,65,80,95,0%
+Dhaka,Dhakeshwari(Dhaka),1211,Yes,No,65,80,95,0%
+Dhaka,Kamalapur(Dhaka),1222,Yes,No,65,80,95,0%
+Dhaka,Wari (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Narinda (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Dainik Bangla Mor(Paltan),1000,Yes,No,65,80,95,0%
+Dhaka,Fakirapul (Dhaka),1000,Yes,No,65,80,95,0%
+Dhaka,Kakrail (Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Naya Paltan (Dhaka),1000,Yes,No,65,80,95,0%
+Dhaka,Bijoynagar (Paltan),1000,Yes,No,65,80,95,0%
+Dhaka,Press Club (Dhaka),1000,Yes,No,65,80,95,0%
+Dhaka,High Court (Dhaka),1000,Yes,No,65,80,95,0%
+Dhaka,Dhaka University,1205,Yes,No,65,80,95,0%
+Dhaka,Dhaka Medical College,1100,Yes,No,65,80,95,0%
+Dhaka,Bongo Bondhu Avenue (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Kazi Nazrul Islam Avenue(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Kawran Bazar(Dhaka),1215,Yes,No,65,80,95,0%
+Dhaka,Minto Road (Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Shantinagar (Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Shantibag (Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Baily Road (Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Minto Road(Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,BSMMU Hospital-Shahbag(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Eskaton Garden Road(Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Eskaton(Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Moghbazar(Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Mouchak (Malibagh),1217,Yes,No,65,80,95,0%
+Dhaka,Malibagh (Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Rampura(Dhaka),1219,Yes,No,65,80,95,0%
+Dhaka,Shahbag(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Katabon(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Hatirpool(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Bashabo(Dhaka),1214,Yes,No,65,80,95,0%
+Dhaka,Khilgaon(Dhaka),1219,Yes,No,65,80,95,0%
+Dhaka,Middle Bashabo(Dhaka),1214,Yes,No,65,80,95,0%
+Dhaka,Goran(Dhaka),1219,Yes,No,65,80,95,0%
+Dhaka,Madartek(Dhaka),1219,Yes,No,65,80,95,0%
+Dhaka,Manik Nagar (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Shahjahanpur(Dhaka),1214,Yes,No,65,80,95,0%
+Dhaka,Banasree(Dhaka),1219,Yes,No,65,80,95,0%
+Dhaka,Meradia(Dhaka),1219,Yes,No,65,80,95,0%
+Dhaka,Boroitola Bazar (Natun Bazar),,Yes,No,65,80,95,0%
+Narayanganj,Bhulta (Rupganj),,Yes,No,65,80,95,0%
+Dhaka,Mugda (Dhaka),1214,Yes,No,65,80,95,0%
+Dhaka,Golapbag (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Jatrabari(Dhaka),1236,Yes,No,65,80,95,0%
+Dhaka,Hatirjheel Thana (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Bangla Motor(Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Paribag(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Bakshibazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Elephant Road(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Kathalbagan(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Malibagh Taltola(Dhaka),1219,Yes,No,65,80,95,0%
+Dhaka,Central Road(Dhanmodi),1205,Yes,No,65,80,95,0%
+Dhaka,Sabujbag Thana(Dhaka),1214,Yes,No,65,80,95,0%
+Dhaka,Habibullah Bahar University(Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Dolaikhal (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Shegunbagicha (Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Rajarbag police lines(Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Babubazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Islampur(Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Imamgonj (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Nayabazar  (Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Zigatola(Dhanmodi),1209,Yes,No,65,80,95,0%
+Dhaka,West Kazipara(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,West Shewrapara(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Kalshi(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Sutrapur (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Kamrangichar(Dhaka),1211,Yes,No,65,80,95,0%
+Dhaka,Purana Paltan (Dhaka),1000,Yes,No,65,80,95,0%
+Dhaka,Shyampur(Jatrabari),1204,Yes,No,65,80,95,0%
+Dhaka,Dholaipar(Puran Dhaka),1236,Yes,No,65,80,95,0%
+Dhaka,Monipuri Para(Farmgate),1215,Yes,No,65,80,95,0%
+Dhaka,Bosila Bridge(Dhaka),1207,Yes,No,65,80,95,0%
+Dhaka,Shonir Akhra(Dhaka),1362,Yes,No,65,80,95,0%
+Dhaka,Mirpur 2 (Dhaka ),1216,Yes,No,65,80,95,0%
+Dhaka,Bongshal (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Siddweswari (Dhaka),1217,Yes,No,65,80,95,0%
+Dhaka,Nakhalpara (Tejgoan),1208,Yes,No,65,80,95,0%
+Dhaka,Sector 18 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Joar Shahara (Kuril),1229,Yes,No,65,80,95,0%
+Dhaka,Science Lab(Dhaka),1205,Yes,No,65,80,95,0%
+Dhaka,Sobhanbag(Dhanmondi),1215,Yes,No,65,80,95,0%
+Dhaka,ECB Chattar(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Arambag (Motijheel),1223,Yes,No,65,80,95,0%
+Dhaka,Armanitola (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Islambag (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Kamarpara(Uttara),1230,Yes,No,65,80,95,0%
+Dhaka,Mitford (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Shakhari Bazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Katherpol (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Bangla Bazar  (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Patuatuly (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Nandipara(Dhaka),1214,Yes,No,65,80,95,0%
+Dhaka,Nazira Bazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Gopibag Motijheel(Dhaka),1203,Yes,No,65,80,95,0%
+Dhaka,Shwamibag(Dhaka),1203,Yes,No,65,80,95,0%
+Dhaka,Sayedabad(Dhaka),1203,Yes,No,65,80,95,0%
+Dhaka,Sadarghat Dhaka,1100,Yes,No,65,80,95,0%
+Dhaka,Kaltabazar (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,Jurain(Dhaka),1204,Yes,No,65,80,95,0%
+Dhaka,Gendaria (Puran Dhaka),1100,Yes,No,65,80,95,0%
+Dhaka,RayerBag(Dhaka),1204,Yes,No,65,80,95,0%
+Dhaka,Faridabad (Jatrabari),1204,Yes,No,65,80,95,0%
+Dhaka,Matuail (Jatrabari),1361,Yes,No,65,80,95,0%
+Dhaka,Doniya (Dhaka),1236,Yes,No,65,80,95,0%
+Dhaka,Postogola (Jurain-Dhaka),1204,Yes,No,65,80,95,0%
+Dhaka,Konapara (Demra),1361,Yes,No,65,80,95,0%
+Dhaka,Dhaka Uddyan(Mohammadpur),1207,Yes,No,65,80,95,0%
+Dhaka,Shekhertek(Mohammadpur),1207,Yes,No,65,80,95,0%
+Dhaka,CWH,5999,Yes,No,65,80,95,0%
+Dhaka,Taltola-Agargaon(Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Manda(Dhaka),1214,Yes,No,65,80,95,0%
+Dhaka,Zoo Road(Dhaka),1343,Yes,No,65,80,95,0%
+Dhaka,Shahjahanpur(Dhaka),1214,Yes,No,65,80,95,0%
+Dhaka,Haterrjheel(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Dhaka uddan(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Nobodoy(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Chad Uddan(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Mohammadia Housing(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Ring Road(Shymoli),,Yes,No,65,80,95,0%
+Dhaka,Tajmahal Road(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Nurjahan Road(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Rajia Sultana Road(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Sector 4 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Adam Ali Market(Mazar Road-Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Chalabon(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Mollapara(Dakhinkhan ),,Yes,No,65,80,95,0%
+Dhaka,East Azampur (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 5 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 14 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 3 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 7 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 9 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 11(Uttara),,Yes,No,65,80,95,0%
+Dhaka,Nalbhog(Uttara),,Yes,No,65,80,95,0%
+Dhaka,Middle Azampur (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Turag Model School (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Dhour (Uttara ),,Yes,No,65,80,95,0%
+Dhaka,Bhatuliya(Uttara),,Yes,No,65,80,95,0%
+Dhaka,Bamnartek(Uttara),,Yes,No,65,80,95,0%
+Dhaka,Turag Thana(Uttara),,Yes,No,65,80,95,0%
+Dhaka,Khalek Filling Station Road(Kallyanpur),,Yes,No,65,80,95,0%
+Dhaka,Lalkuthi (Mazar road-Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Mirpur-1-block-A(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Tolarbag(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Ahmed Nagar-Paikpara(Mirpur-1),,Yes,No,65,80,95,0%
+Dhaka,Paikpara (Mirpur-1),,Yes,No,65,80,95,0%
+Dhaka,Pirerbag-60-feet(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Mirpur-1-block-B (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Dewanpara -vasantek(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Begunbari(Tejgaon),,Yes,No,65,80,95,0%
+Dhaka,Ajiz Market-ECB Chattar(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Aga Nagar(Keraniganj),,Yes,No,65,80,95,0%
+Dhaka,Kunipara (Tejgoan),,Yes,No,65,80,95,0%
+Dhaka,Babli Masjid (Tejgoan),,Yes,No,65,80,95,0%
+Dhaka,Kaderabad Housing(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Kunia-Tar gach(Tongi),,Yes,No,65,80,95,0%
+Dhaka,Gacha Bazar ( Boro Bari),,Yes,No,65,80,95,0%
+Dhaka,Boro Bari (Tongi),,Yes,No,65,80,95,0%
+Dhaka,Board Bazar (Tongi),,Yes,No,65,80,95,0%
+Dhaka,Kamarjuri (Gazipur),,Yes,No,65,80,95,0%
+Dhaka,Saifuddin Sarkar Academy Road (Tongi collage Gate),,Yes,No,65,80,95,0%
+Dhaka,Ershadnagar-Hossain Market(Tongi),,Yes,No,65,80,95,0%
+Dhaka,Sataish-Gazipura(Tongi),,Yes,No,65,80,95,0%
+Dhaka,Apollo Hospital (Bashundhara R/A),,Yes,No,65,80,95,0%
+Dhaka,Nurerchala(Natun Bazar),,Yes,No,65,80,95,0%
+Dhaka,Bawaila Para(Khilkhet),,Yes,No,65,80,95,0%
+Dhaka,Satarkul (Uttor Badda),,Yes,No,65,80,95,0%
+Dhaka,100 Feet Road (Natun Bazar),,Yes,No,65,80,95,0%
+Dhaka,Buddho Mondir(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Sipahibag(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,TT Para (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Eastern Housing (Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Teskunipara(Farmgate),,Yes,No,65,80,95,0%
+Dhaka,Tenari More (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Shahidnagar (Lalbagh- Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Jhigatola(Dhanmondi),,Yes,No,65,80,95,0%
+Dhaka,Polashi(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Satmoshjid Road(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Shukrabad(Dhanmondi),,Yes,No,65,80,95,0%
+Dhaka,BNP Bazar(Agargaon),,Yes,No,65,80,95,0%
+Dhaka,Kalachandpur(Nadda),,Yes,No,65,80,95,0%
+Dhaka,Nadda,Jogonnathpur,,Yes,No,65,80,95,0%
+Dhaka,Kuratoli Bazar(Kuril),,Yes,No,65,80,95,0%
+Dhaka,Alatunnessa School Road (South Badda),,Yes,No,65,80,95,0%
+Dhaka,Purbo Rampura(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Bou Bazar Korail (Mohakhali),,Yes,No,65,80,95,0%
+Dhaka,Chairman Bari (Banani),,Yes,No,65,80,95,0%
+Dhaka,Confidence Tower (Shahajadpur),,Yes,No,65,80,95,0%
+Dhaka,Dhelna (Khilkhet),,Yes,No,65,80,95,0%
+Dhaka,Madani Avenue(100 Feet Road Natun Bazar),,Yes,No,65,80,95,0%
+Dhaka,Korail (Mohakhali),,Yes,No,65,80,95,0%
+Dhaka,Mahanogor(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Nimtola (Merul Badda),,Yes,No,65,80,95,0%
+Dhaka,Boat Ghat Road (Natun Bazar),,Yes,No,65,80,95,0%
+Dhaka,Pastola Bazar (Merul Badda),,Yes,No,65,80,95,0%
+Dhaka,Poschim Badda,,Yes,No,65,80,95,0%
+Dhaka,Purbo Badda,,Yes,No,65,80,95,0%
+Dhaka,Sat-tola Bazar (Mohakhali),,Yes,No,65,80,95,0%
+Dhaka,Shaheenbagh (Tejgoan),,Yes,No,65,80,95,0%
+Dhaka,Suvastu Nazar Valley (Shahjadpur),,Yes,No,65,80,95,0%
+Dhaka,ICDDRB (Mohakhali),,Yes,No,65,80,95,0%
+Dhaka,Satrasta (Tejgoan),,Yes,No,65,80,95,0%
+Dhaka,Shadinota Sharani (Uttor Badda),,Yes,No,65,80,95,0%
+Dhaka,North Badda,,Yes,No,65,80,95,0%
+Dhaka,Wireless gate (Mohakhali),,Yes,No,65,80,95,0%
+Dhaka,Solmaid(Natun Bazar),,Yes,No,65,80,95,0%
+Dhaka,Pink City Model Town (Kuril ),,Yes,No,65,80,95,0%
+Dhaka,Mirhazirbagh(Jatrabari),,Yes,No,65,80,95,0%
+Dhaka,Mahut Tuli (Puran Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Alubazar (Puran Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Badam Toli (Babubazar),,Yes,No,65,80,95,0%
+Dhaka,Chamelibag (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Dholaikhal (Puran Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Doyagonj (Jatrabari),,Yes,No,65,80,95,0%
+Dhaka,Farashgong (Puran Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Dholpur(Jatrabari),,Yes,No,65,80,95,0%
+Dhaka,Kodomtoli(Keraniganj),,Yes,No,65,80,95,0%
+Dhaka,Kotwali Thana (Puran Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Railway Colony (Puran Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Rajar Dewri (Puran Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Sat rowja (Puran Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Tantibazar (Puran Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Rosulbagh(Mohakhali),,Yes,No,65,80,95,0%
+Dhaka,Gopalpur (Tongi Station Road),,Yes,No,65,80,95,0%
+Dhaka,Tongi College Gate,,Yes,No,65,80,95,0%
+Dhaka,Badekomelosshor (Board Bazar),,Yes,No,65,80,95,0%
+Dhaka,Megh Dubi Tongi ( Mirer Bazar),,Yes,No,65,80,95,0%
+Dhaka,Mazar Road Uttarkhan,,Yes,No,65,80,95,0%
+Dhaka,Sonakhola (Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Hajipara(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Ranavola(Uttara),,Yes,No,65,80,95,0%
+Dhaka,Joynal Market(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Haji Camp(Askona),,Yes,No,65,80,95,0%
+Dhaka,Sarwar Avenue(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,BDR Market-House Building(Uttara),,Yes,No,65,80,95,0%
+Dhaka,BDR Market-Sector 6(Uttara),,Yes,No,65,80,95,0%
+Dhaka,Moinartek(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Atipara(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Kotbari (Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Dewan City(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Mollartek(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Gawair(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Kosaibari (Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Prembagan(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Kachkura(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Helal Market(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Chamur Khan(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Army housing Society(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Ismailkholla(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Masterpara(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Khilgaon C Block (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Barua(Dakshinkhan),,Yes,No,65,80,95,0%
+Dhaka,Namapara (Khilkhet),,Yes,No,65,80,95,0%
+Dhaka,Ahalia (Uttara Sector-14),,Yes,No,65,80,95,0%
+Dhaka,Ainusbag-Dakshinkhan,,Yes,No,65,80,95,0%
+Dhaka,Diabari (Uttara sector-18),,Yes,No,65,80,95,0%
+Dhaka,Habib Market (Uttara Sector-5),,Yes,No,65,80,95,0%
+Dhaka,Pakuria Bazar (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Jahurul Islam Avenue (Aftabnagar),,Yes,No,65,80,95,0%
+Dhaka,Gulbagh(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Meradiya Bazar(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Mirbagh(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Modhubagh(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Rampura TV center(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,TB gate (Mohakhali),,Yes,No,65,80,95,0%
+Dhaka,Ulan road(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Mirpur 10 Circle(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Mirpur-1-block-C (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Bazar Road - Manikdi(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Police Staff College(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Technical (Kallayanpur),,Yes,No,65,80,95,0%
+Dhaka,NAM Garden-BRTA (Mirpur-13),,Yes,No,65,80,95,0%
+Dhaka,Benaroshi Polli(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Tamanna Park(Beribadh-Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Buddhijibi (Mazar Road-Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Hope School Road (Mirpur-13),,Yes,No,65,80,95,0%
+Dhaka,Buddhist Temple(Mirpur-13),,Yes,No,65,80,95,0%
+Dhaka,Palasnagor(Mirpur 11),,Yes,No,65,80,95,0%
+Dhaka,Purobi Bus Stand(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Govt Secondary School Road Rupnagor(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Senpara Parbata(Mirpur 10),,Yes,No,65,80,95,0%
+Dhaka,BRTA(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,South Kafrul (Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Niketon Bazar Gate (Niketon),987,Yes,No,65,80,95,0%
+Dhaka,No area,,Yes,No,65,80,95,0%
+Dhaka,Eastern Housing (Mirpur-12),,Yes,No,65,80,95,0%
+Dhaka,Lucas more(Tejgaon),,Yes,No,65,80,95,0%
+Dhaka,Nijhum gate (Dhaka Cantonment),,Yes,No,65,80,95,0%
+Dhaka,Niketon Bazar gate(Mohakhali),,Yes,No,65,80,95,0%
+Dhaka,South Begunbari(Tejgaon),,Yes,No,65,80,95,0%
+Dhaka,Mohakhali Bus terminal(Mohakhali),,Yes,No,65,80,95,0%
+Dhaka,Arambag (Mirpur 7),,Yes,No,65,80,95,0%
+Dhaka,Nazimuddin Road (Puran Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Nazimuddin Road (Malibag),,Yes,No,65,80,95,0%
+Dhaka,Kodomtoli Thana (Jatrabari),,Yes,No,65,80,95,0%
+Dhaka,SDA,,Yes,No,65,80,95,0%
+Dhaka,60 feet Mor (Mirpur-2 ),1216,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - A (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - B (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - C (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - D (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - E (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - F (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - G (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - H (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - I (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - J (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - K (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - L (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - M (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Banasree Block - N (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Sector 1 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 2 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector  6 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 8 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 10 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 12(Uttara),,Yes,No,65,80,95,0%
+Dhaka,Uttara Sector - 13,,Yes,No,65,80,95,0%
+Dhaka,Sector 15(Uttara),,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 1,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 2,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Road 4,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Road 4A,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 6,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 6,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 3A,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 6A,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 8,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 8A,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 9,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Road 9/A,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 10,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 12,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 12A,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 15,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 15 A,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 27,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 28,,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi - Rd 29,,Yes,No,65,80,95,0%
+Dhaka,Jigatala post office(Dhanmondi),,Yes,No,65,80,95,0%
+Dhaka,Sadek Khan Road(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Sher e Bangla Road(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Katasur(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Dhanmondi Staff Quarter,,Yes,No,65,80,95,0%
+Dhaka,Sector 16 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 17 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Sector 18 (Uttara),,Yes,No,65,80,95,0%
+Dhaka,Arshinagar (Keraniganj),,Yes,No,65,80,95,0%
+Dhaka,Washpur(Keraniganj),,Yes,No,65,80,95,0%
+Dhaka,Garden City(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Boddhovumi(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Mirpur - 6(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Mirpur - 7(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Mirpur 11(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Mirpur  11.5 Bus Stand(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Mirpur 12(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Mirpur - 13(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Mirpur - 15(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Mirpur  14 (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Nikunja 2 (Dhaka),,Yes,No,65,80,95,0%
+Gazipur,Jalsukha -Baroipara (Kaliakoir),,Yes,No,65,80,95,0%
+Dhaka,Banani Block B,,Yes,No,65,80,95,0%
+Dhaka,Banani Block C,,Yes,No,65,80,95,0%
+Dhaka,Banani Block D,,Yes,No,65,80,95,0%
+Dhaka,Banani Block E,,Yes,No,65,80,95,0%
+Dhaka,Banani Block F,,Yes,No,65,80,95,0%
+Dhaka,Banani Block G,,Yes,No,65,80,95,0%
+Dhaka,Banani Block H,,Yes,No,65,80,95,0%
+Dhaka,Banani Block I,,Yes,No,65,80,95,0%
+Dhaka,Banani Block J,,Yes,No,65,80,95,0%
+Dhaka,Banani Block K,,Yes,No,65,80,95,0%
+Dhaka,Banani Block L,,Yes,No,65,80,95,0%
+Dhaka,Baridhara J block,,Yes,No,65,80,95,0%
+Dhaka,Baridhara K block,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-1,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-3,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-4,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-5,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-6,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-7,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-8,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-9,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-10,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-11,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-12,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-13,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-14,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-15,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-16,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-17,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-18,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-19,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-20,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-21,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-22,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-23,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-24,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-25,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-26,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-27,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-28,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-29,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-30,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-31,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-32,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-123,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-124,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-125,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-126,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-127,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-128,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-129,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-130,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-131,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-132,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-133,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-134,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-135,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-136,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-137,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-138,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-139,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-140,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-141,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-143,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-144,,Yes,No,65,80,95,0%
+Dhaka,DNCC Market (Gulshan 1),,Yes,No,65,80,95,0%
+Dhaka,Police plaza (Gulshan 1),,Yes,No,65,80,95,0%
+Dhaka,Gulshan-1 Road-142,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-33,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-34,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-35,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-36,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-37,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-38,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-39,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-40,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-41,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-42,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-43,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-44,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-45,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-46,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-47,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-48,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-49,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-50,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-51,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-52,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-53,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-54,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-55,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-56,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-57,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-58,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-59,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-60,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-61,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-62,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-63,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-64,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-65,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-66,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-67,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-68,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-69,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-70,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-71,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-72,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-73,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-74,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-75,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-76,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-77,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-78,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-79,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-80,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-81,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-82,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-83,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-84,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-85,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-86,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-87,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-88,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-89,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-90,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-91,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-92,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-93,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-94,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-95,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-96,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-97,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-98,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-99,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-100,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-101,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-102,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-103,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-104,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-105,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-106,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-107,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-108,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-109,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-110,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-111,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-112,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-113,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-114,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-115,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-116,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-117,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-118,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-119,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-120,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-121,,Yes,No,65,80,95,0%
+Dhaka,Gulshan-2 Road-122,,Yes,No,65,80,95,0%
+Dhaka,DNCC Market (Gulshan 2),,Yes,No,65,80,95,0%
+Munshiganj,Voberchar  ( Munshiganj ),,Yes,No,65,80,95,0%
+Munshiganj,Jamaldi  ( Munshiganj ),,Yes,No,65,80,95,0%
+Munshiganj,Hossaindi  ( Munshiganj ),,Yes,No,65,80,95,0%
+Munshiganj,Bausia  ( Munshiganj ),,Yes,No,65,80,95,0%
+Dhaka,Mirpur-1-block-D (Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Mirpur-1-block-E (Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Mirpur-1-block-F (Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Mirpur-1-block-G (Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Mirpur-1-block-H (Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Mirpur-1-block-New - C (Dhaka),1216,Yes,No,65,80,95,0%
+Dhaka,Dakkhin Bisil (Mirpur-1),1216,Yes,No,65,80,95,0%
+Dhaka,Uttor Bisil (Mirpur-1),1216,Yes,No,65,80,95,0%
+Dhaka,kiyangshi chinese (Mirpur-1),1216,Yes,No,65,80,95,0%
+Dhaka,Shah Ali Market (Mirpur-1),1216,Yes,No,65,80,95,0%
+Dhaka,East Kazipara(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Purbo Monipur (Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Poschim Monipur (Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,West Kafrul (Agargaon),1207,Yes,No,65,80,95,0%
+Dhaka,Boat Ghat Road (Khilkhet),1229,Yes,No,65,80,95,0%
+Dhaka,Lake City Park (Khilkhet),1229,Yes,No,65,80,95,0%
+Dhaka,Khapara (Khilkhet),1229,Yes,No,65,80,95,0%
+Dhaka,Dumni (Khilkhet),1460,Yes,No,65,80,95,0%
+Dhaka,Patira Bazar (Khilkhet),1229,Yes,No,65,80,95,0%
+Dhaka,Mostul Check post (Khilkhet),1219,Yes,No,65,80,95,0%
+Dhaka,Kurmitoal General Hospital,1206,Yes,No,65,80,95,0%
+Dhaka,Soinik Club (Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,Arjotpara(Mohakhali),1215,Yes,No,65,80,95,0%
+Dhaka,BAF Shaheen College(Dhaka Cantonment),1212,Yes,No,65,80,95,0%
+Dhaka,BNS Haji Mohsin(Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,BAF Eagle hall(Dhaka Cantonment),1212,Yes,No,65,80,95,0%
+Dhaka,Shahid Moinul Road (Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,Bangladesh Army headquerters(Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,Shaheed Sharani(Dhaka Cantonment),1212,Yes,No,65,80,95,0%
+Dhaka,Sena Malancha(Dhaka Cantonment),1212,Yes,No,65,80,95,0%
+Dhaka,Adamjee Cantonment College(Dhaka Cantonment),1212,Yes,No,65,80,95,0%
+Dhaka,Army officers Club(Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,Dhaka Cantonment post office,1206,Yes,No,65,80,95,0%
+Dhaka,Kurmitola(Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,CMH(Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,Shaheed Ramiz Uddin Gate- MES,1206,Yes,No,65,80,95,0%
+Dhaka,Shaheed Ramiz Uddin Cantonment College,1206,Yes,No,65,80,95,0%
+Dhaka,Kunjolota-MES(Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,Armed Forces Medical institute-MES,1206,Yes,No,65,80,95,0%
+Dhaka,Staff road officers querters-MES,1206,Yes,No,65,80,95,0%
+Dhaka,MES Park(Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,Bijoy Keton-MES(Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,Nokkhotro-MES(Dhaka Cantonment),1206,Yes,No,65,80,95,0%
+Dhaka,Bangladesh University of Professionals(BUP),1216,Yes,No,65,80,95,0%
+Dhaka,Mirpur Cantonment Public School & College(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,MIST(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,Mirpur Cantonment(Mirpur),1216,Yes,No,65,80,95,0%
+Dhaka,House Building(Uttara),1230,Yes,No,65,80,95,0%
+Dhaka,Hazrat Shahjalal International Airport (Dhaka),1230,Yes,No,65,80,95,0%
+Dhaka,International Convension City(Bashundhara),1229,Yes,No,65,80,95,0%
+Dhaka,Banarupa Abashik(Khilkhet),1229,Yes,No,65,80,95,0%
+Dhaka,Sopnopuri Bashundhara R/A,1229,Yes,No,65,80,95,0%
+Dhaka,Import Cargo Terminal (Dhaka Airport Uttara),1230,Yes,No,65,80,95,0%
+Dhaka,Customs House (Dhaka Airport Uttara),1230,Yes,No,65,80,95,0%
+Dhaka,Rajlokkhi Complex (Uttara),1230,Yes,No,65,80,95,0%
+Dhaka,New Paltan (Azimpur-Dhaka),,Yes,No,65,80,95,0%
+Dhaka,West Barua(Khilkhet),,Yes,No,65,80,95,0%
+Dhaka,South Barua(Khilkhet),,Yes,No,65,80,95,0%
+Dhaka,South Barua Residential Area(Khilkhet),,Yes,No,65,80,95,0%
+Dhaka,Rainkhola Bazar(Mirpur),,Yes,No,65,80,95,0%
+Dhaka,Dhaka Commerce College(Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Mugda Medical College)Dhaka),,Yes,No,65,80,95,0%
+Dhaka,River View (Keraniganj),,Yes,No,65,80,95,0%
+Dhaka,Telghat (Keraniganj),,Yes,No,65,80,95,0%
+Dhaka,Ghatarchar(Keraniganj),,Yes,No,65,80,95,0%
+Dhaka,Beraid (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Dhaka International university (100-Feet-Dhaka),,Yes,No,65,80,95,0%
+Dhaka,United International University(100-feet-Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Mogardia (Dhaka),,Yes,No,65,80,95,0%
+Dhaka,Modhu Bazar(Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Baroikhali (Mohammadpur),,Yes,No,65,80,95,0%
+Dhaka,Savar,1348,Yes,No,90,105,120,1%
+Dhaka,Nabinagar, Savar, Dhaka,1348,Yes,No,90,105,120,1%
+Gazipur,Rail Gate (Tongi Station Road),1700,Yes,No,90,105,120,1%
+Dhaka,Demra (Dhaka),1360,Yes,No,90,105,120,1%
+Dhaka,Ashulia, Savar,1341,Yes,No,90,105,120,1%
+Dhaka,Baipayl, Savar,1348,Yes,No,90,105,120,1%
+Dhaka,Keranigonj(Dhaka),1310,Yes,No,90,105,120,1%
+Dhaka,Dhamrai,1350,Yes,No,90,105,120,1%
+Gazipur,Kodda Bazar (Tongi),1700,Yes,No,90,105,120,1%
+Gazipur,Kaliakoir Upazila(Gazipur),1751,Yes,No,90,105,120,1%
+Gazipur,Kaliganj(Tongi),1700,Yes,No,90,105,120,1%
+Gazipur,Kapasia (Gazipur),1730,Yes,No,90,105,120,1%
+Gazipur,Sreepur Chowrasta (Mawna),1740,Yes,No,90,105,120,1%
+Narayanganj,Araihazar Thana,1450,Yes,No,90,105,120,1%
+Narayanganj,Bandar (Modonpur),1410,Yes,No,90,105,120,1%
+Narayanganj,Chashara (Narayanganj),1400,Yes,No,90,105,120,1%
+Narayanganj,Rupganj Thana,1460,Yes,No,90,105,120,1%
+Narayanganj,Sonargaon (Narayanganj),1430,Yes,No,90,105,120,1%
+Narayanganj,Siddhirganj (Narayanganj),1430,Yes,No,90,105,120,1%
+Narayanganj,Fatullah (Narayanganj),1420,Yes,No,90,105,120,1%
+Dhaka,Kalatia(Keraniganj),1313,Yes,No,90,105,120,1%
+Dhaka,Nolam Dhamrai,1349,Yes,No,90,105,120,1%
+Narayanganj,Shanarpar (Narayanganj),1400,Yes,No,90,105,120,1%
+Dhaka,EPZ, Baipayl, Savar,,Yes,No,90,105,120,1%
+Dhaka,Kathuria(Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Goljarbag(Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Nazirabag(Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Kaliganj (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Nazarganj(Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Zinzira(Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Auchpara (Tongi collage Gate),,Yes,No,90,105,120,1%
+Dhaka,Cherag Ali (Tongi),,Yes,No,90,105,120,1%
+Dhaka,Tongi Bus Stand,,Yes,No,90,105,120,1%
+Narayanganj,Bhuigor (Narayanganj),,Yes,No,90,105,120,1%
+Dhaka,Hasnabad(Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Joy Bangla Road (Tongi),,Yes,No,90,105,120,1%
+Dhaka,Bonomala (Tongi collage gate),,Yes,No,90,105,120,1%
+Dhaka,Morkun (Tongi Bus Stand),,Yes,No,90,105,120,1%
+Dhaka,Bhadam (Cherag Ali ),,Yes,No,90,105,120,1%
+Dhaka,Cherag Ali (Tongi),,Yes,No,90,105,120,1%
+Dhaka,Bottola Road (Board Bazar),,Yes,No,90,105,120,1%
+Dhaka,Kazibari Road - Gazipura (Tongi),,Yes,No,90,105,120,1%
+Dhaka,Hossain Market (Tongi),,Yes,No,90,105,120,1%
+Dhaka,Open University (Tongi),,Yes,No,90,105,120,1%
+Dhaka,Joydebpur (Gazipur),,Yes,No,90,105,120,1%
+Dhaka,Dhirasrom (Joydebpur),,Yes,No,90,105,120,1%
+Dhaka,Dattapara Road (Tongi collage Gate),,Yes,No,90,105,120,1%
+Dhaka,Borobari (Gazipur),,Yes,No,90,105,120,1%
+Dhaka,Choidana (Singboard-Tongi),,Yes,No,90,105,120,1%
+Dhaka,Deger Chala (Singboard-Tongi),,Yes,No,90,105,120,1%
+Dhaka,Sahid Siddque Road (Board Bazar),,Yes,No,90,105,120,1%
+Dhaka,Hariken (Tongi),,Yes,No,90,105,120,1%
+Dhaka,Khortuil (Gazipura-Tongi),,Yes,No,90,105,120,1%
+Dhaka,Majukhan (Tongi Station Road),,Yes,No,90,105,120,1%
+Dhaka,Milgate (Tongi Station Road),,Yes,No,90,105,120,1%
+Dhaka,National University ( Board Bazar),,Yes,No,90,105,120,1%
+Dhaka,Surtaranga (Tongi Collage Gate),,Yes,No,90,105,120,1%
+Dhaka,Targach (Tongi Boro Bari),,Yes,No,90,105,120,1%
+Dhaka,Boro Dewra (Tongi Cherag Ali),,Yes,No,90,105,120,1%
+Gazipur,Mawna Chowrasta,1740,Yes,No,90,105,120,1%
+Gazipur, Bangla Bazar (Mawna),1742,Yes,No,90,105,120,1%
+Gazipur,Mirjapur Masterbari(Gazipur),1730,Yes,No,90,105,120,1%
+Gazipur,Vobanipur(Gazipur),1730,Yes,No,90,105,120,1%
+Gazipur,Barmi Sreepur (Gazipur),1740,Yes,No,90,105,120,1%
+Gazipur,Safari Park(Gazipur),1750,Yes,No,90,105,120,1%
+Gazipur,Pubail(Tongi),,Yes,No,90,105,120,1%
+Gazipur,Mirerbazar(Tongi),,Yes,No,90,105,120,1%
+Gazipur,Ulokhola ( Kaliganj-Tongi),,Yes,No,90,105,120,1%
+Gazipur,Modhumita (Tongi Station Road),,Yes,No,90,105,120,1%
+Gazipur,Miraspara (Tongi Bus stand),,Yes,No,90,105,120,1%
+Gazipur,Pagar - Miraspara ( Tongi Bus Stand),,Yes,No,90,105,120,1%
+Gazipur,Jinumarket (Tongi Bus Stand),,Yes,No,90,105,120,1%
+Gazipur,T & T - (Tongi Station Road ),,Yes,No,90,105,120,1%
+Gazipur,Shilmun (Tongi Station Road),,Yes,No,90,105,120,1%
+Gazipur,Mudafa (Tongi cherag Ali),,Yes,No,90,105,120,1%
+Gazipur,Khapara (Hossain Market),,Yes,No,90,105,120,1%
+Gazipur,Malakerbari (Tongi),,Yes,No,90,105,120,1%
+Gazipur,Gazipur Bypass,,Yes,No,90,105,120,1%
+Gazipur,Kodda (Gazipur By Pass Road road),,Yes,No,90,105,120,1%
+Gazipur,DUET (Joydebpur),,Yes,No,90,105,120,1%
+Gazipur,Shibbari (joydebpur),,Yes,No,90,105,120,1%
+Gazipur,Shimultoli (joydebpur),,Yes,No,90,105,120,1%
+Gazipur,Jorpukur (joydebpur),,Yes,No,90,105,120,1%
+Gazipur,Salna(Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Porabari Bazar (Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Dhaladia Sreepur(Mawna Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Hotapara (Mawan-Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Bager bazar (Mawana-Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Member Bari(Mawna Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Gorgoria Masterbari(Sreepur Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Mc Bazar (Mawna),,Yes,No,90,105,120,1%
+Gazipur,Nayanpur Sreepur (Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Konabari (Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Mouchak (Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Kashimpur Bazar (Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Shafipur (Kaliakoir-Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Joyna Bazar (Sreepur Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Pollibidut (Chondra),,Yes,No,90,105,120,1%
+Gazipur,Chondra (Kaliakoir),,Yes,No,90,105,120,1%
+Gazipur,Rajabari Sreepur (Gazipur),,Yes,No,90,105,120,1%
+Narayanganj,Signboard (Narayanganj),,Yes,No,90,105,120,1%
+Narayanganj,Jalkuri (Narayanganj),,Yes,No,90,105,120,1%
+Narayanganj,Sibu market ( Narayanganj),,Yes,No,90,105,120,1%
+Narayanganj,Chittagong Road (Narayanganj),,Yes,No,90,105,120,1%
+Dhaka,Basher pull (Demra),,Yes,No,90,105,120,1%
+Dhaka,Bamuail (Demra),,Yes,No,90,105,120,1%
+Dhaka,Sharuliya (Demra),,Yes,No,90,105,120,1%
+Dhaka,Rani mohol  (Demra),,Yes,No,90,105,120,1%
+Dhaka,Staffquater  (Demra),,Yes,No,90,105,120,1%
+Dhaka,Demra bazar  (Demra),,Yes,No,90,105,120,1%
+Dhaka,Hajinogar  (Demra),,Yes,No,90,105,120,1%
+Dhaka,Boxnagar  (Demra),,Yes,No,90,105,120,1%
+Dhaka,Badsha mia road  (Demra),,Yes,No,90,105,120,1%
+Dhaka,Muslimnagar  (Demra),,Yes,No,90,105,120,1%
+Gazipur,Vannara (mouchak-Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Sardaganj-Kashimpur( Kaliakoir),,Yes,No,90,105,120,1%
+Gazipur,Sultan Market - Kashimpur ( Kaliakoir),,Yes,No,90,105,120,1%
+Gazipur,Baroipara (Kaliakoir),,Yes,No,90,105,120,1%
+Gazipur,Goalbari bazar (Kaliakoir),,Yes,No,90,105,120,1%
+Gazipur,Hatimara-Kashimpur(Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Sultan Market Kashempur (Kaliakoir),,Yes,No,90,105,120,1%
+Gazipur,Nawjor (Gazipur),,Yes,No,90,105,120,1%
+Gazipur,Fulbaria bazar (Kaliakoir),,Yes,No,90,105,120,1%
+Gazipur,Madhobpur(Kashempur),,Yes,No,90,105,120,1%
+Gazipur,Kabirpur (Kaliakoir),,Yes,No,90,105,120,1%
+Gazipur,Walton High-Tech(Chondra),,Yes,No,90,105,120,1%
+Gazipur,Waltion Micro-Tech(Chondra),,Yes,No,90,105,120,1%
+Gazipur,Mollapara(Kashimpur),,Yes,No,90,105,120,1%
+Gazipur,Joyertek(Ambag Road-Konabari),,Yes,No,90,105,120,1%
+Gazipur,Porabari Bazar(Gazipur),1700,Yes,No,90,105,120,1%
+Gazipur,Dhaladia (Kapasia),1740,Yes,No,90,105,120,1%
+Gazipur,Rajabari -Sreepur Road(Gazipur),1740,Yes,No,90,105,120,1%
+Gazipur,Gorgoria masterbari (Sreepur),1740,Yes,No,90,105,120,1%
+Gazipur,Barmi Sreepur (Sreepur ),1740,Yes,No,90,105,120,1%
+Gazipur,Joina Bazar (Sreepur),1740,Yes,No,90,105,120,1%
+Gazipur,Kapasia Bazar (Kapasia),1730,Yes,No,90,105,120,1%
+Gazipur,Kapasia Tok Noyon (Kapasia),1730,Yes,No,90,105,120,1%
+Gazipur,Kapasia Amraid (Kapasia),1730,Yes,No,90,105,120,1%
+Gazipur,Rajendrapur Cantonment (Rajendrapur),1730,Yes,No,90,105,120,1%
+Gazipur,Kashimpur Bus Stop (Gazipur),1700,Yes,No,90,105,120,1%
+Gazipur,Jiter mor -Kashimpur (Gazipur),1700,Yes,No,90,105,120,1%
+Gazipur,Molla market-(Kashimpur),1700,Yes,No,90,105,120,1%
+Gazipur,Panishel(Kashimpur),1700,Yes,No,90,105,120,1%
+Gazipur,Sultan Market(Kashimpur),1700,Yes,No,90,105,120,1%
+Gazipur,Kazi Market(Kashimpur),1700,Yes,No,90,105,120,1%
+Gazipur,Bagbari (Kashimpur),1700,Yes,No,90,105,120,1%
+Gazipur,Berenda(Kashimpur),1700,Yes,No,90,105,120,1%
+Gazipur,Sorabo(Kashimpur),1700,Yes,No,90,105,120,1%
+Gazipur,Kashimpur Square(Gazipur),1700,Yes,No,90,105,120,1%
+Gazipur,Konabari Bus stand(Gazipur),1700,Yes,No,90,105,120,1%
+Gazipur,Konabari Jail khana(Gazipur),1700,Yes,No,90,105,120,1%
+Gazipur,Konabari Kuddus Nagar(Gazipur),1700,Yes,No,90,105,120,1%
+Gazipur,Konabari collage Gate(Gazipur),1700,Yes,No,90,105,120,1%
+Gazipur,Baimail -Konabari (Gazipur),1700,Yes,No,90,105,120,1%
+Gazipur,Pollibiddut-Konabari(Gazipur),1700,Yes,No,90,105,120,1%
+Gazipur,Mouchak Bazar(Kaliakair),1750,Yes,No,90,105,120,1%
+Gazipur,Shofipur Bus Stand (Kaliakair),1751,Yes,No,90,105,120,1%
+Gazipur,Bhawal Government College (Gazipur),1702,Yes,No,90,105,120,1%
+Gazipur,Itahata (Chandona Chowrasta),1702,Yes,No,90,105,120,1%
+Gazipur,Telipara(Chandona Chowrasta),1702,Yes,No,90,105,120,1%
+Gazipur,Great Wall Jame Masjid (Chandona Chowrasta),1702,Yes,No,90,105,120,1%
+Gazipur,Paler Math (Gazipur Chowrasta),1702,Yes,No,90,105,120,1%
+Gazipur,Police Line (Gazipur Chowrasta),1702,Yes,No,90,105,120,1%
+Gazipur,Borsha Hall (Gazipur Chowrasta),1702,Yes,No,90,105,120,1%
+Gazipur,kenakata Goli (Gazipur Chowrasta),1702,Yes,No,90,105,120,1%
+Gazipur,Dhigir Chala (Gazipur Chowrasta),1702,Yes,No,90,105,120,1%
+Gazipur,Najor (Gazipur Chowrasta),1702,Yes,No,90,105,120,1%
+Gazipur,Kodda bridge (Gazipur Chowrasta),1702,Yes,No,90,105,120,1%
+Gazipur,Bason Thana (Gazipur),1702,Yes,No,90,105,120,1%
+Gazipur,Polagach Road (Board Bazar),1700,Yes,No,90,105,120,1%
+Gazipur,Jajhor (Board Bazar),1700,Yes,No,90,105,120,1%
+Gazipur,Gacha Thana (Board Bazar),1700,Yes,No,90,105,120,1%
+Gazipur,Mukter Bari Road (Board Bazar),1700,Yes,No,90,105,120,1%
+Gazipur,Boro Mosjid Road (Board Bazar),1700,Yes,No,90,105,120,1%
+Gazipur,IUT Road (Board Bazar),1700,Yes,No,90,105,120,1%
+Gazipur,Gacha Bazar (Boro bari),1700,Yes,No,90,105,120,1%
+Gazipur,Colombiya (Gazipur By Pass Road),1700,Yes,No,90,105,120,1%
+Gazipur,Mogor Khal (Gazipur By Pass Road),1700,Yes,No,90,105,120,1%
+Gazipur,Navanar Mor (Gazipur By Pass Road),1700,Yes,No,90,105,120,1%
+Gazipur,Hoque Market (Gazipur By Pass Road),1700,Yes,No,90,105,120,1%
+Gazipur,Sattola Garments (Maleker Bari),1704,Yes,No,90,105,120,1%
+Gazipur,Bolakar Mor (Maleker Bari),1704,Yes,No,90,105,120,1%
+Gazipur,Jogitota ( Joydebpur),1700,Yes,No,90,105,120,1%
+Gazipur,College gate (Pubail),1700,Yes,No,90,105,120,1%
+Gazipur,Badhon (Pubail),1700,Yes,No,90,105,120,1%
+Gazipur,Bosuga (Pubail),1700,Yes,No,90,105,120,1%
+Gazipur,Bokhtarour ( kaliganj),1720,Yes,No,90,105,120,1%
+Gazipur,Fuldi ( kaliganj),1720,Yes,No,90,105,120,1%
+Gazipur,Dalan bazar ( kaliganj),1720,Yes,No,90,105,120,1%
+Gazipur,Awora khali ( kaliganj),1720,Yes,No,90,105,120,1%
+Gazipur,Sawraid ( kaliganj),1720,Yes,No,90,105,120,1%
+Gazipur,Chowrasta (Tongi),1702,Yes,No,90,105,120,1%
+Dhaka,Chunkutia (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Am Bagicha (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Zia Nagor (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Imambari (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Kodomtoli (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Najirabag (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Bondok Para (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Golam Bazar (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Par Gendaria (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Ekuria (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Kholamora (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Atibazar (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Abdullahpur (Keraniganj),,Yes,No,90,105,120,1%
+Dhaka,Tetuljhora, Hemayetpur, Savar,,Yes,No,90,105,120,1%
+Dhaka,Hemayetpur Bazar, Savar,,Yes,No,90,105,120,1%
+Dhaka,Bongaon Union, Savar,,Yes,No,90,105,120,1%
+Dhaka,Ashulia Thana, Baipayl, Savar,,Yes,No,90,105,120,1%
+Dhaka,Charigram, Savar,,Yes,No,90,105,120,1%
+Dhaka,Polli Biddut, Nabinagar, Savar,,Yes,No,90,105,120,1%
+Dhaka,Norosinhopur, Ashulia, Savar,,Yes,No,90,105,120,1%
+Dhaka,Zirabo Bazar, Ashulia, Savar,,Yes,No,90,105,120,1%
+Dhaka,Savar City Center,,Yes,No,90,105,120,1%
+Dhaka,Rajasion, Polo Market,,Yes,No,90,105,120,1%
+Dhaka,Kathgora Bazar, Savar,,Yes,No,90,105,120,1%
+Dhaka,Jamgora, Ashulia, Savar,,Yes,No,90,105,120,1%
+Dhaka,Baipayl Kacha Bazar, Ashulia, Savar,,Yes,No,90,105,120,1%
+Dhaka,Jahangirnagar University, Savar,,Yes,No,90,105,120,1%
+Dhaka,Akran Bazar, Ashulia, Savar,,Yes,No,90,105,120,1%
+Dhaka,Birulia Bridge, Savar,,Yes,No,90,105,120,1%
+Dhaka,Nama Bazar, Savar,,Yes,No,90,105,120,1%
+Dhaka,Jhawchar Bazar, Hemayetpur, Savar,,Yes,No,90,105,120,1%
+Dhaka,Amin Bazar, Savar,,Yes,No,90,105,120,1%
+Dhaka,Bhakurta Bazar, Amin Bazar, Savar,,Yes,No,90,105,120,1%
+Dhaka,Mograkanda, Amin Bazar, Savar,,Yes,No,90,105,120,1%
+Dhaka,Shamlasi Gudaraghat, Amin Bazar, Savar,,Yes,No,90,105,120,1%
+Dhaka,Niribili Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Golam Hafiz College Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Noyarhat Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Dhulivita (Dhamrai),,Yes,No,90,105,120,1%
+Dhaka,Kalampur (Dhamrai),,Yes,No,90,105,120,1%
+Dhaka,Bathuli Bustand (Dhamrai),,Yes,No,90,105,120,1%
+Dhaka,Kushura Bustand (Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Baro Baria (Dhamrai),,Yes,No,90,105,120,1%
+Dhaka,Dhantara Bazar (Dhamrai),,Yes,No,90,105,120,1%
+Dhaka,Dhamrai Bazar,,Yes,No,90,105,120,1%
+Dhaka,Gurapir Mazar Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Beltola Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Dendabor Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Anayetpur Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Gonoshasthaya Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Dhamshona Bazar Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Kamalget Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Namabazar Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Khaicha Bari Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Konda Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Baipail Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Sreepur Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Mojarmil Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Khorar Chor (Dhamrai),,Yes,No,90,105,120,1%
+Dhaka,Fudnagar Rupnagar (Dhamrai),,Yes,No,90,105,120,1%
+Dhaka,Councill Bazar (Dhamrai),,Yes,No,90,105,120,1%
+Dhaka,Kawalipara (Dhamrai),,Yes,No,90,105,120,1%
+Dhaka,Chokroborti Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Beximco Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Bhadail DEPZ Dhamrai,,Yes,No,90,105,120,1%
+Dhaka,Nobi Textile Kaliakoir,,Yes,No,90,105,120,1%
+Dhaka,Zirani Kaliakoir,,Yes,No,90,105,120,1%
+Dhaka,Kobirpur Kaliakoir,,Yes,No,90,105,120,1%
+Dhaka,Baroipara Kaliakoir,,Yes,No,90,105,120,1%
+Dhaka,Nondon Park Kaliakoir,,Yes,No,90,105,120,1%
+Dhaka,Mannan Collage Road (Kaliakoir),,Yes,No,90,105,120,1%
+Dhaka,Turag Germent (Kaliakoir),,Yes,No,90,105,120,1%
+Dhaka,Mashi Hata (Kaliakoir),,Yes,No,90,105,120,1%
+Dhaka,Enargy Pack Germent (Kaliakoir),,Yes,No,90,105,120,1%
+Dhaka,Bengol (Kaliakoir),,Yes,No,90,105,120,1%
+Dhaka,Polash Housing (Kaliakoir),,Yes,No,90,105,120,1%
+Narayanganj,Modonpur Sadar (Modonpur),,Yes,No,90,105,120,1%
+Narayanganj,Kachpur (Modonpur Narayanganj),,Yes,No,90,105,120,1%
+Narayanganj,Nabiganj (Bandar Narayanganj),,Yes,No,90,105,120,1%
+Narayanganj,Modonganj (Bandar Naraynaganj),,Yes,No,90,105,120,1%
+Narayanganj,Morgapara (Sonargaon),,Yes,No,90,105,120,1%
+Narayanganj,Baiddar Bazar (Sonargaon),,Yes,No,90,105,120,1%
+Faridpur,Pathorghata(Barguna),1216,Yes,No,120,150,180,1%
+Dhaka,Dohar(Dhaka),1333,Yes,No,120,150,180,1%
+Dhaka,Mukti Clinic(Nawabganj),,Yes,No,120,150,180,1%
+Sherpur,Sherpur Sadar,2100,Yes,No,120,150,180,1%
+Faridpur,Alfadanga,7870,Yes,No,120,150,180,1%
+Faridpur,Bhanga,7830,Yes,No,120,150,180,1%
+Faridpur,Boalmari,7860,Yes,No,120,150,180,1%
+Faridpur,Char Bhadrasan,7810,Yes,No,120,150,180,1%
+Faridpur,Faridpur Sadar,7800,Yes,No,120,150,180,1%
+Faridpur,Madhukhali,7850,Yes,No,120,150,180,1%
+Faridpur,Nagarkanda,7840,Yes,No,120,150,180,1%
+Faridpur,Sadarpur,7820,Yes,No,120,150,180,1%
+Faridpur,Saltha,7860,Yes,No,120,150,180,1%
+Gopalganj,Gopalganj Sadar,8100,Yes,No,120,150,180,1%
+Gopalganj,Kasiani,8130,Yes,No,120,150,180,1%
+Gopalganj,Kotalipara,8110,Yes,No,120,150,180,1%
+Gopalganj,Maksudpur,8140,Yes,No,120,150,180,1%
+Gopalganj,Tungipara,8120,Yes,No,120,150,180,1%
+Jamalpur,Nalkura Jhenaigati (Sherpur),2140,Yes,No,120,150,180,1%
+Jamalpur,Dewanganj Upazila(Jamalpur),2030,Yes,No,120,150,180,1%
+Jamalpur,Hazrabari (Melandah),2020,Yes,No,120,150,180,1%
+Jamalpur,Jamalpur Sadar,2000,Yes,No,120,150,180,1%
+Jamalpur,Madarganj,2040,Yes,No,120,150,180,1%
+Jamalpur,Melandah,2010,Yes,No,120,150,180,1%
+Jamalpur,Sharishabari,2050,Yes,No,120,150,180,1%
+Kishoreganj,Austogram(Kishoreganj),2380,Yes,No,120,150,180,1%
+Kishoreganj,Bajitpur(Kishoreganj),2336,Yes,No,120,150,180,1%
+Kishoreganj,Bhairab,2350,Yes,No,120,150,180,1%
+Kishoreganj,Hosainpur,2320,Yes,No,120,150,180,1%
+Kishoreganj,Itna,2390,Yes,No,120,150,180,1%
+Kishoreganj,Karimganj,2310,Yes,No,120,150,180,1%
+Kishoreganj,Katiadi,2330,Yes,No,120,150,180,1%
+Kishoreganj,Kishoreganj Sadar,2300,Yes,No,120,150,180,1%
+Kishoreganj,Kuliarchar,2340,Yes,No,120,150,180,1%
+Kishoreganj,Mithamain,2370,Yes,No,120,150,180,1%
+Kishoreganj,Nikli,2360,Yes,No,120,150,180,1%
+Kishoreganj,Pakundia,2326,Yes,No,120,150,180,1%
+Kishoreganj,Tarail,2316,Yes,No,120,150,180,1%
+Madaripur,Kalkini,7920,Yes,No,120,150,180,1%
+Madaripur,Madaripur Sadar,7900,Yes,No,120,150,180,1%
+Madaripur,Rajoir,7910,Yes,No,120,150,180,1%
+Madaripur,Shibchar,7900,Yes,No,120,150,180,1%
+Manikganj,Daulatpur(Manikganj),1860,Yes,No,120,150,180,1%
+Manikganj,Ghior,1840,Yes,No,120,150,180,1%
+Manikganj,Harirampur (Manikganj),1850,Yes,No,120,150,180,1%
+Manikganj,Manikganj Sadar,1800,Yes,No,120,150,180,1%
+Manikganj,Saturia,1810,Yes,No,120,150,180,1%
+Manikganj,Shibalaya,1850,Yes,No,120,150,180,1%
+Manikganj,Singair,1820,Yes,No,120,150,180,1%
+Munshiganj,Gazaria(Munshiganj),8332,Yes,No,120,150,180,1%
+Munshiganj,Lauhajang(Munshiganj),1530,Yes,No,120,150,180,1%
+Munshiganj,Katakhali (Munshiganj),1500,Yes,No,120,150,180,1%
+Munshiganj,Nawabganj Upazila,1540,Yes,No,120,150,180,1%
+Munshiganj,Sreenagar(Munshiganj),1550,Yes,No,120,150,180,1%
+Munshiganj,Tangibari(Munshiganj),1520,Yes,No,120,150,180,1%
+Mymensingh,Valuka,2240,Yes,No,120,150,180,1%
+Mymensingh,Dhubaura,2416,Yes,No,120,150,180,1%
+Mymensingh,Fulbaria (Mymensingh),2216,Yes,No,120,150,180,1%
+Mymensingh,Phulpur Upozila(Mymensingh),2250,Yes,No,120,150,180,1%
+Mymensingh,Goffargaon,2230,Yes,No,120,150,180,1%
+Mymensingh,Koltapara (Gouripur Mymensingh),2270,Yes,No,120,150,180,1%
+Mymensingh,Haluaghat,2260,Yes,No,120,150,180,1%
+Mymensingh,Iswarganj,2280,Yes,No,120,150,180,1%
+Mymensingh,Kachari Ghat (Mymensingh),2200,Yes,No,120,150,180,1%
+Mymensingh,Muktagacha,2210,Yes,No,120,150,180,1%
+Mymensingh,Nandail,2290,Yes,No,120,150,180,1%
+Mymensingh,Trishal,2220,Yes,No,120,150,180,1%
+Norshingdi,Belabo,1640,Yes,No,120,150,180,1%
+Norshingdi,Monohardi,1650,Yes,No,120,150,180,1%
+Norshingdi,Velanogor (Narsingdi),1600,Yes,No,120,150,180,1%
+Norshingdi,Palash,1610,Yes,No,120,150,180,1%
+Norshingdi,Raipura (Bhairab),1630,Yes,No,120,150,180,1%
+Norshingdi,Shibpur,1620,Yes,No,120,150,180,1%
+Netrokona,Atpara (Netrokona),2470,Yes,No,120,150,180,1%
+Netrokona,Barhatta (Netrokona),2440,Yes,No,120,150,180,1%
+Netrokona,Durgapur (Netrokona),3848,Yes,No,120,150,180,1%
+Netrokona,Kalmakanda( Netrokona),2430,Yes,No,120,150,180,1%
+Netrokona,Kendua( Netrokona),2480,Yes,No,120,150,180,1%
+Netrokona,Khaliajuri (Madan),2460,No,Yes,120,150,180,1%
+Netrokona,Madan (Netrokona),2490,Yes,No,120,150,180,1%
+Netrokona,Mohangonj (Netrokona),2446,Yes,No,120,150,180,1%
+Netrokona,Netrokona Sadar,2400,Yes,No,120,150,180,1%
+Netrokona,Purbadhala (Netrokona),2410,Yes,No,120,150,180,1%
+Rajbari,Baliakandi,7730,Yes,No,120,150,180,1%
+Rajbari,Goalunda,7710,Yes,No,120,150,180,1%
+Rajbari,Pangsha,7720,Yes,No,120,150,180,1%
+Rajbari,Rajbari Sadar,7700,Yes,No,120,150,180,1%
+Rajbari,Kalukhali,7720,Yes,No,120,150,180,1%
+Shariatpur,Bhedarganj,8030,Yes,No,120,150,180,1%
+Shariatpur,Damudiya,8040,Yes,No,120,150,180,1%
+Shariatpur,Gosairhat,8050,Yes,No,120,150,180,1%
+Shariatpur,Zajira,8010,Yes,No,120,150,180,1%
+Shariatpur,Naria,8020,Yes,No,120,150,180,1%
+Shariatpur,Shariatpur Sadar,8000,Yes,No,120,150,180,1%
+Sherpur,Kakarkandi Nalitabari (Sherpur),2120,Yes,No,120,150,180,1%
+Sherpur,Ganapaddi Nakla (Sherpur),2150,Yes,No,120,150,180,1%
+Sherpur,Chandrakona Nakla (Sherpur),2110,Yes,No,120,150,180,1%
+Sherpur,Kamarer Char (Sherpur),2100,Yes,No,120,150,180,1%
+Sherpur,Kakilakura Sribardi (Sherpur),2130,Yes,No,120,150,180,1%
+Tangail,Bashail,1920,Yes,No,120,150,180,1%
+Tangail,Bhuapur,1960,Yes,No,120,150,180,1%
+Tangail,Delduar,1910,Yes,No,120,150,180,1%
+Tangail,Ghatail(Modhupur),1980,Yes,No,120,150,180,1%
+Tangail,Gopalpur (Tangail),1990,Yes,No,120,150,180,1%
+Tangail,Kalihati,1970,Yes,No,120,150,180,1%
+Tangail,Mirzapur,1940,Yes,No,120,150,180,1%
+Tangail,Modhupur (Mymensingh),1996,Yes,No,120,150,180,1%
+Tangail,Nagarpur,1936,Yes,No,120,150,180,1%
+Tangail,Shakhipur,1950,Yes,No,120,150,180,1%
+Tangail,Tangail Sadar,1900,Yes,No,120,150,180,1%
+Tangail,Dhanbari(Modhupur),1997,Yes,No,120,150,180,1%
+Bagerhat,Bagerhat Sadar,9300,Yes,No,120,150,180,1%
+Bagerhat,Chitalmari,9360,Yes,No,120,150,180,1%
+Bagerhat,Fakirhat (Bagerhat),9370,Yes,No,120,150,180,1%
+Bagerhat,Kachua(Bagerhat),3630,Yes,No,120,150,180,1%
+Bagerhat,Mollarhat,9380,Yes,No,120,150,180,1%
+Bagerhat,Mongla,9351,Yes,No,120,150,180,1%
+Bagerhat,Morelganj,9320,Yes,No,120,150,180,1%
+Bagerhat,Rampal,9340,Yes,No,120,150,180,1%
+Bagerhat,Sarankhola,9311,Yes,No,120,150,180,1%
+Chuadanga,Alamdanga,7210,Yes,No,120,150,180,1%
+Chuadanga,Chuadanga Sadar,7200,Yes,No,120,150,180,1%
+Chuadanga,Damurhuda,7220,Yes,No,120,150,180,1%
+Chuadanga,Jibannagar,7200,Yes,No,120,150,180,1%
+Jessore,Noapara (Jessore),7462,Yes,No,120,150,180,1%
+Jessore,Bagherpara,7470,Yes,No,120,150,180,1%
+Jessore,Chowgacha,7410,Yes,No,120,150,180,1%
+Jessore,Jessore Sadar,7400,Yes,No,120,150,180,1%
+Jessore,Jhikargacha,7420,Yes,No,120,150,180,1%
+Jessore,Keshabpur,7450,Yes,No,120,150,180,1%
+Jessore,Manirampur,7440,Yes,No,120,150,180,1%
+Jessore,Sharsha,7430,Yes,No,120,150,180,1%
+Jhenaidah,Kotchandpur,7330,Yes,No,120,150,180,1%
+Jhenaidah,Harinakunda,7310,Yes,No,120,150,180,1%
+Jhenaidah,Jhenaidah Sadar,7300,Yes,No,120,150,180,1%
+Jhenaidah,Kaliganj(Jhenaidah),7300,Yes,No,120,150,180,1%
+Jhenaidah,Moheshpur,7340,Yes,No,120,150,180,1%
+Jhenaidah,Shailkupa,7320,Yes,No,120,150,180,1%
+Khulna,Batiaghata,9260,Yes,No,120,150,180,1%
+Khulna,Dacope,9271,Yes,No,120,150,180,1%
+Khulna,Dighalia,9220,Yes,No,120,150,180,1%
+Khulna,Dumuria,9250,Yes,No,120,150,180,1%
+Khulna,Phultala,9210,Yes,No,120,150,180,1%
+Khulna,Koira,,Yes,No,120,150,180,1%
+Khulna,Paikgacha,9280,Yes,No,120,150,180,1%
+Khulna,Rupsa,9241,Yes,No,120,150,180,1%
+Khulna,Khalispur,9000,Yes,No,120,150,180,1%
+Khulna,Sonadanga,9100,Yes,No,120,150,180,1%
+Khulna,Khan jahan ali ,9222,Yes,No,120,150,180,1%
+Khulna,Doulatpur,9202,Yes,No,120,150,180,1%
+Khulna,Terokhada,9230,Yes,No,120,150,180,1%
+Kushtia,Bheramara,7040,Yes,No,120,150,180,1%
+Kushtia,Daulatpur (Kushtia),7050,Yes,No,120,150,180,1%
+Kushtia,Khoksha,7021,Yes,No,120,150,180,1%
+Kushtia,Kumarkhali,7010,Yes,No,120,150,180,1%
+Kushtia,Kushtia Sadar,7000,Yes,No,120,150,180,1%
+Kushtia,Mirpur (Kushtia),7030,Yes,No,120,150,180,1%
+Magura,Magura Sadar,7600,Yes,No,120,150,180,1%
+Magura,Mohammadpur (Magura),7630,Yes,No,120,150,180,1%
+Magura,Shalikha,,Yes,No,120,150,180,1%
+Magura,Sreepur (Magura),7610,Yes,No,120,150,180,1%
+Meherpur,Gangni,7110,Yes,No,120,150,180,1%
+Meherpur,Meherpur Sadar,7100,Yes,No,120,150,180,1%
+Meherpur,Mujibnagar,7102,Yes,No,120,150,180,1%
+Narail,Kalia,7520,Yes,No,120,150,180,1%
+Narail,Lohagara(Narail),7511,Yes,No,120,150,180,1%
+Narail,Narail Sadar,7500,Yes,No,120,150,180,1%
+Satkhira,Assasuni,9460,Yes,No,120,150,180,1%
+Satkhira,Debhata,9430,Yes,No,120,150,180,1%
+Satkhira,Kaliganj(Shyamnagar),9440,Yes,No,120,150,180,1%
+Satkhira,Kolaroa,9410,Yes,No,120,150,180,1%
+Satkhira,Satkhira Sadar,9400,Yes,No,120,150,180,1%
+Satkhira,Shyamnagar,9450,Yes,No,120,150,180,1%
+Satkhira,Tala,9420,Yes,No,120,150,180,1%
+Bogra,Adamdighi (Bogra),5890,Yes,No,120,150,180,1%
+Bogra,Bogra Sadar,5800,Yes,No,120,150,180,1%
+Bogra,Dhunat (Bogra),5850,Yes,No,120,150,180,1%
+Bogra,Dupchanchia (Bogra),5880,Yes,No,120,150,180,1%
+Bogra,Gabtali (Bogra),5820,Yes,No,120,150,180,1%
+Bogra,Kahaloo,5870,Yes,No,120,150,180,1%
+Bogra,Nandigram,5860,Yes,No,120,150,180,1%
+Bogra,Sariakandi,5830,Yes,No,120,150,180,1%
+Bogra,Sherpur (Bogra),5840,Yes,No,120,150,180,1%
+Bogra,Shibganj ( Bogra ),2231,Yes,No,120,150,180,1%
+Bogra,Sonatola,5826,Yes,No,120,150,180,1%
+Bogra,Shajahanpur (Bogura),5800,Yes,No,120,150,180,1%
+Chapai Nawabganj,Bholahat,6330,Yes,No,120,150,180,1%
+Chapai Nawabganj,Gomastapur,6321,Yes,No,120,150,180,1%
+Chapai Nawabganj,Nachole,6310,Yes,No,120,150,180,1%
+Chapai Nawabganj,Nawabganj Sadar (Chapai),6300,Yes,No,120,150,180,1%
+Chapai Nawabganj,Shibganj (Chapai Nawabganj),6340,Yes,No,120,150,180,1%
+Joypurhat,Akkelpur,5940,Yes,No,120,150,180,1%
+Joypurhat,Joypurhat Sadar,5900,Yes,No,120,150,180,1%
+Joypurhat,Kalai Upazila(Joypurhat),5930,Yes,No,120,150,180,1%
+Joypurhat,Khetlal,5920,Yes,No,120,150,180,1%
+Joypurhat,Panchbibi,5910,Yes,No,120,150,180,1%
+Naogaon,Atrai,,Yes,No,120,150,180,1%
+Naogaon,Badalgachi,6570,Yes,No,120,150,180,1%
+Naogaon,Dhamoirhat,6580,Yes,No,120,150,180,1%
+Naogaon,Proshadpur  (Manda Naogaon),6511,Yes,No,120,150,180,1%
+Naogaon,Mahadebpur,6530,Yes,No,120,150,180,1%
+Naogaon,Moktir More (Naogaon),6500,Yes,No,120,150,180,1%
+Naogaon,Niamatpur,6520,Yes,No,120,150,180,1%
+Naogaon,Nazipur (Patnitala),6540,Yes,No,120,150,180,1%
+Naogaon,Porsha,6551,Yes,No,120,150,180,1%
+Naogaon,Raninagar,6590,Yes,No,120,150,180,1%
+Naogaon,Shapahar,6560,Yes,No,120,150,180,1%
+Natore,Baghatipara,6433,Yes,No,120,150,180,1%
+Natore,Baraigram,6432,Yes,No,120,150,180,1%
+Natore,Gurudaspur,6440,Yes,No,120,150,180,1%
+Natore,Lalpur,6421,Yes,No,120,150,180,1%
+Natore,Natore Sadar,6400,Yes,No,120,150,180,1%
+Natore,Singra (Natore),6450,Yes,No,120,150,180,1%
+Pabna,Atgharia (Pabna),,Yes,No,120,150,180,1%
+Pabna,Bera (Pabna),6680,Yes,No,120,150,180,1%
+Pabna,Bhangura (Pabna),6640,Yes,No,120,150,180,1%
+Pabna,Chatmohar (Pabna),6630,Yes,No,120,150,180,1%
+Pabna,Faridpur ( Pabna ),6650,Yes,No,120,150,180,1%
+Pabna,Iswardi,6620,Yes,No,120,150,180,1%
+Pabna,Pabna Sador,6600,Yes,No,120,150,180,1%
+Pabna,Santhia (Pabna),6670,Yes,No,120,150,180,1%
+Pabna,Sujanagar (Pabna),6660,Yes,No,120,150,180,1%
+Rajshahi,Bagha,6281,Yes,No,120,150,180,1%
+Rajshahi,Bagmara (Rajshahi),6250,Yes,No,120,150,180,1%
+Rajshahi,Charghat,6270,Yes,No,120,150,180,1%
+Rajshahi,Durgapur(Rajshahi),6240,Yes,No,120,150,180,1%
+Rajshahi,Godagari,6290,Yes,No,120,150,180,1%
+Rajshahi,Mohanpur (Rajshahi),6220,Yes,No,120,150,180,1%
+Rajshahi,Paba,6213,Yes,No,120,150,180,1%
+Rajshahi,Putia,6260,Yes,No,120,150,180,1%
+Rajshahi,Tanore,6230,Yes,No,120,150,180,1%
+Rajshahi,Rajshahi Sadar,6000,Yes,No,120,150,180,1%
+Sirajganj,Belkuchi,6740,Yes,No,120,150,180,1%
+Sirajganj,Chowhali,6770,Yes,No,120,150,180,1%
+Sirajganj,Kamarkhanda,6700,Yes,No,120,150,180,1%
+Sirajganj,Kazipur,6710,Yes,No,120,150,180,1%
+Sirajganj,Raiganj,6700,Yes,No,120,150,180,1%
+Sirajganj,Shahajadpur (Sirajganj),6770,Yes,No,120,150,180,1%
+Sirajganj,Sirajganj Sadar,6700,Yes,No,120,150,180,1%
+Sirajganj,Tarash Sirajgonj,6780,Yes,No,120,150,180,1%
+Sirajganj,Ullapara Sirajgonj,6760,Yes,No,120,150,180,1%
+Habiganj,Ajmeriganj (Habiganj),3360,Yes,No,120,150,180,1%
+Habiganj,Bahubal (Shayestaganj),3310,Yes,No,120,150,180,1%
+Habiganj,Baniachong (Habiganj),3350,Yes,No,120,150,180,1%
+Habiganj,Chunarughat (Habiganj),3320,Yes,No,120,150,180,1%
+Habiganj,Habiganj Sadar,3300,Yes,No,120,150,180,1%
+Habiganj,Lakhai (Habiganj),3341,Yes,No,120,150,180,1%
+Habiganj,Madhabpur (Habiganj),3330,Yes,No,120,150,180,1%
+Habiganj,Nabiganj (Habiganj),3370,Yes,No,120,150,180,1%
+Moulvibazar,Candgram (Barlekha),3250,Yes,No,120,150,180,1%
+Moulvibazar,Kamalganj Upazila,3220,Yes,No,120,150,180,1%
+Moulvibazar,Kulaura,3230,Yes,No,120,150,180,1%
+Moulvibazar,Kusumbag Moulvibazar,3200,Yes,No,120,150,180,1%
+Moulvibazar,Rajnagar,3240,Yes,No,120,150,180,1%
+Moulvibazar,Sreemangal Sadar,3210,Yes,No,120,150,180,1%
+Moulvibazar,Juri Upazila (Barlekha-Sylhet),3251,Yes,No,120,150,180,1%
+Sunamganj,Biswambharpur (Sunamganj),3010,Yes,No,120,150,180,1%
+Sunamganj,Chattak,3080,Yes,No,120,150,180,1%
+Sunamganj,Derai (Sunamganj),3040,Yes,No,120,150,180,1%
+Sunamganj,Dharmapasha (Netrokona),3000,Yes,No,120,150,180,1%
+Sunamganj,Dowarabazar (Chattak-Sylhet),3070,Yes,No,120,150,180,1%
+Sunamganj,Jagannathpur,3060,Yes,No,120,150,180,1%
+Sunamganj,Jamalganj ( Sunamganj),3000,Yes,No,120,150,180,1%
+Sunamganj,Sulla (Sunamganj),,Yes,No,120,150,180,1%
+Sunamganj,Traffic Point (Sunamganj Sadar),3000,Yes,No,120,150,180,1%
+Sunamganj,Tahirpur-Sunamganj,3030,Yes,No,120,150,180,1%
+Sunamganj,South Sunamganj,3060,Yes,No,120,150,180,1%
+Sylhet,Balaganj Upazila(Sylhet),3120,Yes,No,120,150,180,1%
+Sylhet,Beanibazar,3170,Yes,No,120,150,180,1%
+Sylhet,Bishwanath Upazila(Sylhet),3130,Yes,No,120,150,180,1%
+Sylhet,Companyganj (Sylhet),3542,Yes,No,120,150,180,1%
+Sylhet,Fenchuganj (Sylhet),3116,Yes,No,120,150,180,1%
+Sylhet,Gowainghat (Jaflong),3150,Yes,No,120,150,180,1%
+Sylhet,Golapganj (Sylhet),3160,Yes,No,120,150,180,1%
+Sylhet,Jaintapur ( Jaflong),3156,Yes,No,120,150,180,1%
+Sylhet,Moiyakhali (Zakiganj),3190,Yes,No,120,150,180,1%
+Sylhet,Kanaighat ( Jaflong),3180,Yes,No,120,150,180,1%
+Sylhet,Amberkhana (Sylhet),3100,Yes,No,120,150,180,1%
+Sylhet,South Surma (Sylhet),3100,Yes,No,120,150,180,1%
+Barguna,Amtali(Kolapara),8710,Yes,No,120,150,180,1%
+Barguna,Bamna,8730,Yes,No,120,150,180,1%
+Barguna,DKP Road (Barguna),8700,Yes,No,120,150,180,1%
+Barguna,Betagi,8740,Yes,No,120,150,180,1%
+Barguna,Patharghata (Mathbaria),8720,Yes,No,120,150,180,1%
+Barisal,Agailjhara (Gournadi),8240,Yes,No,120,150,180,1%
+Barisal,Babuganj (Barishal),8210,Yes,No,120,150,180,1%
+Barisal,Bakerganj (Barishal),8281,Yes,No,120,150,180,1%
+Barisal,Banaripara (Barishal),8530,Yes,No,120,150,180,1%
+Barisal,Ruptoli Housing (Barishal),8200,Yes,No,120,150,180,1%
+Barisal,Gournadi Bondor (Gournadi),8230,Yes,No,120,150,180,1%
+Barisal,Hijla Upazila (Barisal),,Yes,No,120,150,180,1%
+Barisal,Mehendiganj,8270,Yes,No,120,150,180,1%
+Barisal,Muladi,8250,Yes,No,120,150,180,1%
+Barisal,Wazirpur Upazila(Barisal),8220,Yes,No,120,150,180,1%
+Bhola,Bhola Sadar (Bhola),8300,Yes,No,120,150,180,1%
+Bhola,Borhanuddin (Bhola),8320,Yes,No,120,150,180,1%
+Bhola,Charfession (Charfession),8340,Yes,No,120,150,180,1%
+Bhola,Daulatkhan (Bhola),8310,Yes,No,120,150,180,1%
+Bhola,Lalmohan(Bhola),8330,Yes,No,120,150,180,1%
+Bhola,Manpura(Bhola),8360,Yes,No,120,150,180,1%
+Bhola,Tajumuddin(Bhola),,Yes,No,120,150,180,1%
+Jhalokathi,Jhalokathi Sadar,8400,Yes,No,120,150,180,1%
+Jhalokathi,Kathalia,8430,Yes,No,120,150,180,1%
+Jhalokathi,Nalchiti,8420,Yes,No,120,150,180,1%
+Jhalokathi,Rajapur (Jhalokathi),8410,Yes,No,120,150,180,1%
+Patuakhali,Bauphal(Dashmina),8620,Yes,No,120,150,180,1%
+Patuakhali,Dashmina,8630,Yes,No,120,150,180,1%
+Patuakhali,Dumki,8602,Yes,No,120,150,180,1%
+Patuakhali,Galachipa(Dashmina),8640,Yes,No,120,150,180,1%
+Patuakhali,Kalapara (Kolapara),,Yes,No,120,150,180,1%
+Patuakhali,Mirjaganj,,Yes,No,120,150,180,1%
+Patuakhali,Patuakhali Sadar,8600,Yes,No,120,150,180,1%
+Perojpur,Bhandaria,8550,Yes,No,120,150,180,1%
+Perojpur,Kaukhali (Pirojpur),8510,Yes,No,120,150,180,1%
+Perojpur,Mothbaria,8560,Yes,No,120,150,180,1%
+Perojpur,Nesarabad (Shawrupkathi),8520,Yes,No,120,150,180,1%
+Perojpur,Nazirpur(Pirojpur),8540,Yes,No,120,150,180,1%
+Perojpur,Pirojpur Sadar,8500,Yes,No,120,150,180,1%
+Perojpur,Zia Nagar (Indurkani),8502,Yes,No,120,150,180,1%
+Bandarban,Ali Kadam (Bandarban),4650,Yes,No,120,150,180,1%
+Bandarban,Bandarban Sadar,4600,Yes,No,120,150,180,1%
+Bandarban,Lama (Bandarban),4641,Yes,No,120,150,180,1%
+Bandarban,Nakhoyngchari (Bandarban),4660,Yes,No,120,150,180,1%
+Bandarban,Rowangchhari (Bandarban),4610,Yes,No,120,150,180,1%
+Bandarban,Ruma (Bandarban),4620,Yes,No,120,150,180,1%
+Bandarban,Thanchi (Bandarban),4630,Yes,No,120,150,180,1%
+Brahmanbaria,Akhaura (Brahmanbaria),3450,Yes,No,120,150,180,1%
+Brahmanbaria,Ashuganj (Bhairab),3402,Yes,No,120,150,180,1%
+Brahmanbaria,Bancharampur (Nabinagar),3420,Yes,No,120,150,180,1%
+Brahmanbaria,Paikpara (Brahmanbaria Sadar),3400,Yes,No,120,150,180,1%
+Brahmanbaria,Kosba (Brahmanbaria),3460,Yes,No,120,150,180,1%
+Brahmanbaria,Nabinagar (Nabinagar Hub),3410,Yes,No,120,150,180,1%
+Brahmanbaria,Nasirnagar (Brahmanbaria),3440,Yes,No,120,150,180,1%
+Brahmanbaria,Sarail (Brahmanbaria),3430,Yes,No,120,150,180,1%
+Chandpur,Chandpur Sadar,3600,Yes,No,120,150,180,1%
+Chandpur,Faridganj,3650,Yes,No,120,150,180,1%
+Chandpur,Haimchar,3660,Yes,No,120,150,180,1%
+Chandpur,Hajiganj (Chandpur),3610,Yes,No,120,150,180,1%
+Chandpur,Kachua(Chandpur),3630,Yes,No,120,150,180,1%
+Chandpur,Matlab (South),3640,Yes,No,120,150,180,1%
+Chandpur,Matlab (North)(Chengarchar),3643,Yes,No,120,150,180,1%
+Chandpur,Shahrasti,3620,Yes,No,120,150,180,1%
+Chittagong,Anwara (Patiya),4376,Yes,No,120,150,180,1%
+Chittagong,Bashkhali (Satkania),4393,Yes,No,120,150,180,1%
+Chittagong,Boalkhali (Patiya),4366,Yes,No,120,150,180,1%
+Chittagong,Chandanaish (Satkania),4383,Yes,No,120,150,180,1%
+Chittagong,Fatikchari,4350,Yes,No,120,150,180,1%
+Chittagong,Hathazari,4330,Yes,No,120,150,180,1%
+Chittagong,Lohagara (Satkania),4396,Yes,No,120,150,180,1%
+Chittagong,Mirsarai (Chittagong),4320,Yes,No,120,150,180,1%
+Chittagong,Patiya (Chittagong),4370,Yes,No,120,150,180,1%
+Chittagong,Rangunia (Chittagong),4360,Yes,No,120,150,180,1%
+Chittagong,Raojan (Chittagong),4340,Yes,No,120,150,180,1%
+Chittagong,Sandwip (Guptachara),4300,Yes,No,120,150,180,1%
+Chittagong,Satkania,4386,Yes,No,120,150,180,1%
+Chittagong,Sitakundu (Chittagong),4310,Yes,No,120,150,180,1%
+Comilla,Barura - Comilla ,3560,Yes,No,120,150,180,1%
+Comilla,Brahmanpara - Comilla,3526,Yes,No,120,150,180,1%
+Comilla,Burichang - Comilla,3520,Yes,No,120,150,180,1%
+Comilla,Chandina - Comilla,3510,Yes,No,120,150,180,1%
+Comilla,Chowddagram (Comilla),3550,Yes,No,120,150,180,1%
+Comilla,Comilla Sadar - Comilla,3500,Yes,No,120,150,180,1%
+Comilla,Daudkandi,3516,Yes,No,120,150,180,1%
+Comilla,Nimshar-Comilla,3530,Yes,No,120,150,180,1%
+Comilla,Homna,3546,Yes,No,120,150,180,1%
+Comilla,Laksam,3570,Yes,No,120,150,180,1%
+Comilla,Meghna (Comilla),3515,Yes,No,120,150,180,1%
+Comilla,Muradnagar - Comilla,3540,Yes,No,120,150,180,1%
+Comilla,Nangolkot,3580,Yes,No,120,150,180,1%
+Comilla,Titas ( Comilla ),3500,Yes,No,120,150,180,1%
+Comilla,Monoharganj,3500,Yes,No,120,150,180,1%
+Comilla,Comilla Sadar South - Comilla,3500,Yes,No,120,150,180,1%
+Cox's Bazar,Chakoria (Cox's Bazar)),4720,Yes,No,120,150,180,1%
+Cox's Bazar,Kolatoli (Coxs Bazar),4700,Yes,No,120,150,180,1%
+Cox's Bazar,Kutubdia(Cox's Bazar),4720,Yes,No,120,150,180,1%
+Cox's Bazar,Moheshkhali(Cox's Bazar),4720,Yes,No,120,150,180,1%
+Cox's Bazar,Pekua (Cox's Bazar),4720,Yes,No,120,150,180,1%
+Cox's Bazar,Ramu (Coxs Bazar),4730,Yes,No,120,150,180,1%
+Cox's Bazar,Teknaf,4760,Yes,No,120,150,180,1%
+Cox's Bazar,Ukhia (Coxs Bazar),4750,Yes,No,120,150,180,1%
+Feni,Chagalnayya (Feni),3910,Yes,No,120,150,180,1%
+Feni,Daganbhuiyan (Feni),3920,Yes,No,120,150,180,1%
+Feni,Feni Sadar,3900,Yes,No,120,150,180,1%
+Feni,Parshuram (Feni),3940,Yes,No,120,150,180,1%
+Feni,Fulgazi (Feni),3942,Yes,No,120,150,180,1%
+Feni,Sonagazi (Feni),3930,Yes,No,120,150,180,1%
+Khagrachari,Dighinala (Khagrachari),4420,Yes,No,120,150,180,1%
+Khagrachari,Khagrachari Sadar,4400,Yes,No,120,150,180,1%
+Khagrachari,Laksmichari (Khagrachari),4470,Yes,No,120,150,180,1%
+Khagrachari,Mohalchari (Khagrachari),4430,Yes,No,120,150,180,1%
+Khagrachari,Manikchari (Khagrachari),4460,Yes,No,120,150,180,1%
+Khagrachari,Matiranga (Khagrachari),4450,Yes,No,120,150,180,1%
+Khagrachari,Panchari (Khagrachari),4410,Yes,No,120,150,180,1%
+Khagrachari,Ramgor,4440,Yes,No,120,150,180,1%
+Laksmipur,Laksmipur Sadar,3700,Yes,No,120,150,180,1%
+Laksmipur,Ramgati,3732,Yes,No,120,150,180,1%
+Laksmipur,Ramganj,3720,Yes,No,120,150,180,1%
+Laksmipur,Raipur (Lakshmipur),3710,Yes,No,120,150,180,1%
+Laksmipur,Kamalnagar,,Yes,No,120,150,180,1%
+Noakhali,Begumganj,3820,Yes,No,120,150,180,1%
+Noakhali,Chatkhil,3870,Yes,No,120,150,180,1%
+Noakhali,Companiganj (Noakhali),3850,Yes,No,120,150,180,1%
+Noakhali,Hatiya (Noakhali),3890,Yes,No,120,150,180,1%
+Noakhali,Maijdee (Noakhali),3800,Yes,No,120,150,180,1%
+Noakhali,Senbag,3860,Yes,No,120,150,180,1%
+Noakhali,Sonaimuri,3827,Yes,No,120,150,180,1%
+Noakhali,Subarnachar (Noakhali),,Yes,No,120,150,180,1%
+Noakhali,Kabir Hat (Noakhali),3807,Yes,No,120,150,180,1%
+Rangamati,Baghaichari,,Yes,No,120,150,180,1%
+Rangamati,Barkal (Rangamati),4570,Yes,No,120,150,180,1%
+Rangamati,Belaichari (Rangamati),4550,Yes,No,120,150,180,1%
+Rangamati,Jurachari (Rangamati),4560,Yes,No,120,150,180,1%
+Rangamati,Kaptai,4530,Yes,No,120,150,180,1%
+Rangamati,Kawkhali (Rangamati),4511,Yes,No,120,150,180,1%
+Rangamati,Langadu (Rangamati),4580,Yes,No,120,150,180,1%
+Rangamati,Naniarchar (Rangamati),4520,Yes,No,120,150,180,1%
+Rangamati,Rajasthali (Rangamati),4540,Yes,No,120,150,180,1%
+Rangamati,Rangamati Sadar,4500,Yes,No,120,150,180,1%
+Dinajpur,Birampur ( Birampur Hub Dinajpur),5266,Yes,No,120,150,180,1%
+Dinajpur,Birganj ( Dinajpur Hub ),5220,Yes,No,120,150,180,1%
+Dinajpur,Birol ( Dinajpur Hub ),5210,Yes,No,120,150,180,1%
+Dinajpur,Bochaganj,5216,Yes,No,120,150,180,1%
+Dinajpur,Chirirbandar,5240,Yes,No,120,150,180,1%
+Dinajpur,Baluadanga (Dinajpur),5200,Yes,No,120,150,180,1%
+Dinajpur,Phulbari (Birampur Hub Dinajpur),5260,Yes,No,120,150,180,1%
+Dinajpur,Ghoraghat ( Birampur Hub Dinajpur),5291,Yes,No,120,150,180,1%
+Dinajpur,Hakimpur ( Birampur Hub Dinajpur),5266,Yes,No,120,150,180,1%
+Dinajpur,Kaharole,,Yes,No,120,150,180,1%
+Dinajpur,Khanshama,5230,Yes,No,120,150,180,1%
+Dinajpur,Nawabganj ( Birampur Hub Dinajpur),5280,Yes,No,120,150,180,1%
+Dinajpur,Parbatipur,5250,Yes,No,120,150,180,1%
+Gaibandha,Fulchari,5760,Yes,No,120,150,180,1%
+Gaibandha,Gaibandha Sadar,5700,Yes,No,120,150,180,1%
+Gaibandha,Gobindaganj ( Gaibandha ),5740,Yes,No,120,150,180,1%
+Gaibandha,Palashbari,5730,Yes,No,120,150,180,1%
+Gaibandha,Sadullapur,5710,Yes,No,120,150,180,1%
+Gaibandha,Shaghatta,5751,Yes,No,120,150,180,1%
+Gaibandha,Sundarganj,5720,Yes,No,120,150,180,1%
+Kurigram,Bhurungamari,5670,Yes,No,120,150,180,1%
+Kurigram,Chilmary,5630,Yes,No,120,150,180,1%
+Kurigram,Fulbari (Kurigram),5680,Yes,No,120,150,180,1%
+Kurigram,Kurigram Sadar,5600,Yes,No,120,150,180,1%
+Kurigram,Nageswari,5660,Yes,No,120,150,180,1%
+Kurigram,Rajarhat,5610,Yes,No,120,150,180,1%
+Kurigram,Rajibpur (Mymensingh),5650,Yes,No,120,150,180,1%
+Kurigram,Rowmari,5640,Yes,No,120,150,180,1%
+Kurigram,Ulipur,5620,Yes,No,120,150,180,1%
+Lalmonirhat,Aditmari,5510,Yes,No,120,150,180,1%
+Lalmonirhat,Hatibandha (Lalmonirhat),5530,Yes,No,120,150,180,1%
+Lalmonirhat,Kaliganj(Lalmonirhat),,Yes,No,120,150,180,1%
+Lalmonirhat,Lalmonirhat Sadar,5500,Yes,No,120,150,180,1%
+Lalmonirhat,Patgram,5540,Yes,No,120,150,180,1%
+Nilphamari,Dimla,5350,Yes,No,120,150,180,1%
+Nilphamari,Domar,5340,Yes,No,120,150,180,1%
+Nilphamari,Jaldhaka,5330,Yes,No,120,150,180,1%
+Nilphamari,Kishoreganj ( Nilphamari),5320,Yes,No,120,150,180,1%
+Nilphamari,Nilphamari Sadar,5300,Yes,No,120,150,180,1%
+Nilphamari,Saidpur ( Saidpur Hub Nilphamari),5310,Yes,No,120,150,180,1%
+Panchagarh,Atwari (Panchagarh),,Yes,No,120,150,180,1%
+Panchagarh,Boda,5010,Yes,No,120,150,180,1%
+Panchagarh,Debiganj,5020,Yes,No,120,150,180,1%
+Panchagarh,Panchagarh Sadar,5000,Yes,No,120,150,180,1%
+Panchagarh,Tetulia,5030,Yes,No,120,150,180,1%
+Rangpur,Badarganj,5430,Yes,No,120,150,180,1%
+Rangpur,Gangachara,5410,Yes,No,120,150,180,1%
+Rangpur,Kaunia (Rangpur),5440,Yes,No,120,150,180,1%
+Rangpur,Mithapukur,5460,Yes,No,120,150,180,1%
+Rangpur,Pirgacha,5450,Yes,No,120,150,180,1%
+Rangpur,Pirganj(Rangpur),5400,Yes,No,120,150,180,1%
+Rangpur,Rangpur Sadar,5400,Yes,No,120,150,180,1%
+Rangpur,Taraganj,5420,Yes,No,120,150,180,1%
+Thakurgaon,Baliadangi,5140,Yes,No,120,150,180,1%
+Thakurgaon,Haripur,5130,Yes,No,120,150,180,1%
+Thakurgaon,Pirganj(Thakurgaon),5110,Yes,No,120,150,180,1%
+Thakurgaon,Ranishankail,5120,Yes,No,120,150,180,1%
+Thakurgaon,Thakurgaon Sadar,5100,Yes,No,120,150,180,1%
+Khulna,Khulna Sadar,9100,Yes,No,120,150,180,1%
+Rajshahi,Rajshahi Shadar,6201,Yes,No,120,150,180,1%
+Chittagong,Colonel Hat (Chittagong),4217,Yes,No,120,150,180,1%
+Chapai Nawabganj,Chapai Nawabganj Sadar,6300,Yes,No,120,150,180,1%
+Jessore,Benapole,7431,Yes,No,120,150,180,1%
+Bandarban,soho area,,Yes,No,120,150,180,1%
+Thakurgaon,Shibganj (Thakurgaon Sadar),5102,Yes,No,120,150,180,1%
+Chittagong,Khulshi (Chittagong),4217,Yes,No,120,150,180,1%
+Chittagong,Barahatia,4217,Yes,No,120,150,180,1%
+Chittagong,Karnaphuli (Chittagong),4371,Yes,No,120,150,180,1%
+Chittagong,New Market (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Agrabad,,Yes,No,120,150,180,1%
+Chittagong,AK Khan (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Al- Amin Baria Madra,,Yes,No,120,150,180,1%
+Chittagong,Chawkbazar (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Amin Jute Mills (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Anandabazar (Chittagong)),,Yes,No,120,150,180,1%
+Chittagong,Anawara Battali,,Yes,No,120,150,180,1%
+Chittagong,Anawara Paroikora,,Yes,No,120,150,180,1%
+Chittagong,Bayezid Bostami (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Boalkhali Upazila (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Boalkhali (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Kadurkhal (Boalkhali-CTG),,Yes,No,120,150,180,1%
+Chittagong,Kanungopara (Boalkhali Upazila-ctg),,Yes,No,120,150,180,1%
+Chittagong,Boalkhali Sadar(ctg),,Yes,No,120,150,180,1%
+Chittagong,Sakpura (Boalkhali Upazila-ctg),,Yes,No,120,150,180,1%
+Chittagong,Saroatoli (Boalkhali Upazila-ctg),,Yes,No,120,150,180,1%
+Chittagong,Faujdarhat Cadet College (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Chandgaon (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Chattogram Airport,,Yes,No,120,150,180,1%
+Chittagong,Seaport of Chittagong,,Yes,No,120,150,180,1%
+Chittagong,Chittagong Cantonment,,Yes,No,120,150,180,1%
+Chittagong,Chawkbazar (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Chittagong Customs,,Yes,No,120,150,180,1%
+Chittagong,Chattogram GPO,,Yes,No,120,150,180,1%
+Chittagong,Chattogram New Market,,Yes,No,120,150,180,1%
+Chittagong,Oxygen (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Chattogram Politechnic Institute,,Yes,No,120,150,180,1%
+Chittagong,Chattogram Sailors Colony,,Yes,No,120,150,180,1%
+Chittagong,Colonel Hat (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Combined Military Hospital (CMH) (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Chittagong Court Buliding,,Yes,No,120,150,180,1%
+Chittagong,Dakkhin Ghatchak,,Yes,No,120,150,180,1%
+Chittagong,Halishahar (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Double Mooring (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,East Joara Barma (Chandanaish),,Yes,No,120,150,180,1%
+Chittagong,East Joara Dohazari,,Yes,No,120,150,180,1%
+Chittagong,East Joara East Joara (Dohazari),,Yes,No,120,150,180,1%
+Chittagong,East Joara Gachbaria (Chandanaish),,Yes,No,120,150,180,1%
+Chittagong,Export Processing Zone (Chittagong EPZ),,Yes,No,120,150,180,1%
+Chittagong,Fakirkill,,Yes,No,120,150,180,1%
+Chittagong,Fatikchari Bhandar Sharif,,Yes,No,120,150,180,1%
+Chittagong,Fatikchari Harualchhari,,Yes,No,120,150,180,1%
+Chittagong,Fatikchari Najirhat,,Yes,No,120,150,180,1%
+Chittagong,Fatikchari Nanupur,,Yes,No,120,150,180,1%
+Chittagong,Fatikchari Narayanhat,,Yes,No,120,150,180,1%
+Chittagong,Firozshah (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,GEC Circle (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Chittagong University,,Yes,No,120,150,180,1%
+Chittagong,Hathazari Fatahabad,,Yes,No,120,150,180,1%
+Chittagong,Hathazari Gorduara,,Yes,No,120,150,180,1%
+Chittagong,Hathazari Katirhat,,Yes,No,120,150,180,1%
+Chittagong,Hathazari Madrasa,,Yes,No,120,150,180,1%
+Chittagong,Hathazari Mirzapur,,Yes,No,120,150,180,1%
+Chittagong,Hathazari Nuralibari,,Yes,No,120,150,180,1%
+Chittagong,Hathazari Yunus Nagar,,Yes,No,120,150,180,1%
+Sylhet,Jalalabad (Sylhet),,Yes,No,120,150,180,1%
+Chittagong,Jaldi Banigram (Bashkhali),,Yes,No,120,150,180,1%
+Chittagong,Jaldi Gunagari (Bashkhali),,Yes,No,120,150,180,1%
+Chittagong,Jaldi Khan Bahadur (Bashkhali),,Yes,No,120,150,180,1%
+Chittagong,Jaldi Sadar (Bashkhali),,Yes,No,120,150,180,1%
+Chittagong,Jaldia Marine Academy (Patiya),,Yes,No,120,150,180,1%
+Chittagong,Jaldia Merine Accademy(Ctg),,Yes,No,120,150,180,1%
+Chittagong,Kadeer Nagar,,Yes,No,120,150,180,1%
+Chittagong,Kaptai Chandraghona,,Yes,No,120,150,180,1%
+Rangamati,Kaptai Kaptai Project,,Yes,No,120,150,180,1%
+Rangamati,Kaptai Nuton Bazar,,Yes,No,120,150,180,1%
+Rangamati,Kaptai Sadar,,Yes,No,120,150,180,1%
+Chittagong,Kattoli, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,Khulshi, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,Lohagara Chunti,,Yes,No,120,150,180,1%
+Chittagong,Lohagara Padua,,Yes,No,120,150,180,1%
+Chittagong,Middle Patenga (CTG),,Yes,No,120,150,180,1%
+Chittagong,Mirsharai Abutorab,,Yes,No,120,150,180,1%
+Chittagong,Mirsharai Azampur,,Yes,No,120,150,180,1%
+Chittagong,Mirsharai Bharawazhat,,Yes,No,120,150,180,1%
+Chittagong,Mirsharai Darrogahat,,Yes,No,120,150,180,1%
+Chittagong,Mirsharai Joarganj,,Yes,No,120,150,180,1%
+Chittagong,Mirsharai Korerhat,,Yes,No,120,150,180,1%
+Chittagong,Mirsharai Mohazanhat,,Yes,No,120,150,180,1%
+Chittagong,Mohora, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,Muradnagar - Hathazari,,Yes,No,120,150,180,1%
+Chittagong,Nasirabad, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,North Halishahar, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,North Kattali, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,North Katuli, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,Noyabazar, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,Panchlaish, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,Patenga, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,Patiya Budhpara,,Yes,No,120,150,180,1%
+Chittagong,Patiya Sadar, Chittagong,,Yes,No,120,150,180,1%
+Feni,Rampur, Feni,,Yes,No,120,150,180,1%
+Dhaka,Rampura TSO,,Yes,No,120,150,180,1%
+Chittagong,Rangunia Dhamair,,Yes,No,120,150,180,1%
+Chittagong,Rangunia Sadar,,Yes,No,120,150,180,1%
+Chittagong,Ranir Hat,,Yes,No,120,150,180,1%
+Chittagong,Raozan B.I.T Post Office,,Yes,No,120,150,180,1%
+Chittagong,Raozan Beenajuri,,Yes,No,120,150,180,1%
+Chittagong,Raozan Dewanpur,,Yes,No,120,150,180,1%
+Chittagong,Raozan Fatepur,,Yes,No,120,150,180,1%
+Chittagong,Raozan Guzra Noapara,,Yes,No,120,150,180,1%
+Chittagong,Raozan jagannath Hat,,Yes,No,120,150,180,1%
+Chittagong,Raozan Kundeshwari,,Yes,No,120,150,180,1%
+Chittagong,Raozan Mohamuni,,Yes,No,120,150,180,1%
+Chittagong,Raozan Pouroshobha,,Yes,No,120,150,180,1%
+Chittagong,Rauzan Gahira,,Yes,No,120,150,180,1%
+Chittagong,Sadarghat (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Sandwip Shiberhat,,Yes,No,120,150,180,1%
+Chittagong,Sandwip Urirchar,,Yes,No,120,150,180,1%
+Chittagong,Satkania Baitul Ijjat,,Yes,No,120,150,180,1%
+Chittagong,Satkania Bazalia,,Yes,No,120,150,180,1%
+Chittagong,Sayad Bari,,Yes,No,120,150,180,1%
+Chittagong,Sitakunda Barabkunda,,Yes,No,120,150,180,1%
+Chittagong,Sitakunda Baroidhala,,Yes,No,120,150,180,1%
+Chittagong,Sitakunda Bawashbaria,,Yes,No,120,150,180,1%
+Chittagong,Sitakunda Bhatiari,,Yes,No,120,150,180,1%
+Chittagong,Sitakunda Fouzdarhat,,Yes,No,120,150,180,1%
+Chittagong,Sitakunda Jafrabad,,Yes,No,120,150,180,1%
+Chittagong,Sitakunda Kumira,,Yes,No,120,150,180,1%
+Chittagong,South Halishahar, Chittagong,,Yes,No,120,150,180,1%
+Chittagong,Uttar Gatchak,,Yes,No,120,150,180,1%
+Chittagong,Wazedia, Chittagong,,Yes,No,120,150,180,1%
+Comilla,Gouripur (Comilla),,Yes,No,120,150,180,1%
+Dinajpur,College mor (Dinajpur),,Yes,No,120,150,180,1%
+Dinajpur,Boromath (Dinajpur),,Yes,No,120,150,180,1%
+Dinajpur,Pulhat,,Yes,No,120,150,180,1%
+Dinajpur,Newtown (Dinajpur),,Yes,No,120,150,180,1%
+Dinajpur,Lilir mor,,Yes,No,120,150,180,1%
+Dinajpur,Modern mor (Dinajpur),,Yes,No,120,150,180,1%
+Sunamganj,Old bustand (Sunamganj Sadar),,Yes,No,120,150,180,1%
+Sunamganj,Kazirpoint (Sunamganj Sadar),,Yes,No,120,150,180,1%
+Sunamganj,Hason Nagar ( Sunamganj Sadar),,Yes,No,120,150,180,1%
+Sunamganj,Moddho Bazar (Sunamganj Sadar),,Yes,No,120,150,180,1%
+Sunamganj,Wazkhali (Sunamganj Sadar),,Yes,No,120,150,180,1%
+Sylhet,Zindabazar(Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Pathantula(Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Subidbazar(Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Akhalia(Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Tilaghor(Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Shibganj(sylhet),,Yes,No,120,150,180,1%
+Sylhet,Uposhohor(Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Kodomtoli (Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Sheikhghat (Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Majortila(Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Subhanighat(Sylhet),,Yes,No,120,150,180,1%
+Norshingdi,Madhabdi (Narsingdi),,Yes,No,120,150,180,1%
+Norshingdi,Babur Haat (Narsingdi),,Yes,No,120,150,180,1%
+Norshingdi,Pachdona More (Narsingdi),,Yes,No,120,150,180,1%
+Norshingdi,Shaheprotab More (Narsingdi),,Yes,No,120,150,180,1%
+Norshingdi,West Brammondi (Narsingdi),,Yes,No,120,150,180,1%
+Norshingdi,East Brammondi (Narsingdi),,Yes,No,120,150,180,1%
+Norshingdi,Songita Bazar (Narsingdi),,Yes,No,120,150,180,1%
+Norshingdi,Shatirpara (Narsingdi),,Yes,No,120,150,180,1%
+Norshingdi,Hasnabad Bazar (Narsingdi),,Yes,No,120,150,180,1%
+Habiganj,Rajnogor (Habiganj,,Yes,No,120,150,180,1%
+Habiganj,Chowdhury Bazar (Habiganj),,Yes,No,120,150,180,1%
+Habiganj,Sultanmahmudpur(Habiganj),,Yes,No,120,150,180,1%
+Habiganj,Gatiabazar(Habiganj),,Yes,No,120,150,180,1%
+Habiganj,Mahmudabad(Habiganj),,Yes,No,120,150,180,1%
+Habiganj,Duliakal(Habiganj),,Yes,No,120,150,180,1%
+Habiganj,Mohonpur (Habiganj),,Yes,No,120,150,180,1%
+Brahmanbaria,Kawtoly (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,T.A Road (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Sarak bazar (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Moddopara (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Birashar (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Medda (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Gatura- Pirbari (Brahmanbaria),,Yes,No,120,150,180,1%
+Mymensingh,Chorpara (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Kachijhuli (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,College Road (Mymensigh),,Yes,No,120,150,180,1%
+Mymensingh,Akua (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Agriculture University (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Zilla School Mor (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Rohomotpur Bypass (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mashkanda (Mymensingh),,Yes,No,120,150,180,1%
+Cox's Bazar,Kalur Dokan (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,Alir Jahal Road (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,Barmis Market (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,Bazar Ghata (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,Laldighir Par (Coxs Bazar),,Yes,No,120,150,180,1%
+Cox's Bazar,Holiday Mor(Coxs Bazar),,Yes,No,120,150,180,1%
+Cox's Bazar,Laboni Point (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,Sughandha Point (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,Marin Drive Road,,Yes,No,120,150,180,1%
+Cox's Bazar,Sonar Para (Court Bazar),,Yes,No,120,150,180,1%
+Cox's Bazar,Jilonjha (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,Tarabaniyer chora (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,Romaliyer chora (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,Khurushkul (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,P M Khali (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Cox's Bazar,Somity Para (Coxs Bazar Sadar),,Yes,No,120,150,180,1%
+Khulna,Amadee Bazar,,Yes,No,120,150,180,1%
+Khulna,kopilmuni Bazar,,Yes,No,120,150,180,1%
+Habiganj,Shayestagang Sadar,,Yes,No,120,150,180,1%
+Laksmipur,Alexandar,,Yes,No,120,150,180,1%
+Patuakhali,Kuakata,8652,Yes,No,120,150,180,1%
+Patuakhali,Subitkhali,8610,Yes,No,120,150,180,1%
+Patuakhali,Khepupara (Kolapara),8650,Yes,No,120,150,180,1%
+Patuakhali,Payra port(Kolapara),8650,Yes,No,120,150,180,1%
+Patuakhali,Baga Bander (Baga Ferrighat),,Yes,No,120,150,180,1%
+Patuakhali,Kalaiya (Bauphal),,Yes,No,120,150,180,1%
+Patuakhali,Mohipur(kolapara-Patuakhali),8651,Yes,No,120,150,180,1%
+Patuakhali,Birpasha (Bauphal),,Yes,No,120,150,180,1%
+Chittagong,Sandwip (Enam Nagar),,Yes,No,120,150,180,1%
+Chittagong,Sandwip (Complex),,Yes,No,120,150,180,1%
+Chittagong,Sandwip (Kalapaniya),,Yes,No,120,150,180,1%
+Chittagong,Sandwip (Gasua),,Yes,No,120,150,180,1%
+Habiganj,Ranigaon (Shayestaganj Hub),,Yes,No,120,150,180,1%
+Habiganj,Putijuri (Shayestaganj Hub),,Yes,No,120,150,180,1%
+Pabna,Banwarinagar (Pabna),,Yes,No,120,150,180,1%
+Pabna,Debottar (Pabna),,Yes,No,120,150,180,1%
+Pabna,Kashinathpur (Pabna),,Yes,No,120,150,180,1%
+Pabna,Nakalia (Pabna),,Yes,No,120,150,180,1%
+Pabna,Pakshi (Pabna),,Yes,No,120,150,180,1%
+Pabna,Sagarkandi (Pabna),,Yes,No,120,150,180,1%
+Moulvibazar,Shamshernagar,,Yes,No,120,150,180,1%
+Moulvibazar,Sherpur Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Baramchal (Kulaura),,Yes,No,120,150,180,1%
+Moulvibazar,Robir Bazar (Kulaura),,Yes,No,120,150,180,1%
+Brahmanbaria,Bijoynagor (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Shahbajpur (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Sohilpur (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Chandura (Bijoynagar),,Yes,No,120,150,180,1%
+Brahmanbaria,Singarbil (Bijoynagar)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Awliya Bazar (Bijoynagar)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Poirtola (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Ulchapara (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Bhadugor (Brahmanbaria),,Yes,No,120,150,180,1%
+Brahmanbaria,Kumarshil more (Brahmanbaria),,Yes,No,120,150,180,1%
+Moulvibazar,Sarkar Bazar Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Notun Bridge Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Tarapasha Bazar - Rajnagar,,Yes,No,120,150,180,1%
+Moulvibazar,Munshibazar - Kamalganj,,Yes,No,120,150,180,1%
+Moulvibazar,Munshibazar - Rajnagar,,Yes,No,120,150,180,1%
+Moulvibazar,Tengra Bazar - Rajnagar,,Yes,No,120,150,180,1%
+Moulvibazar,Mukam Bazar Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Bhukshimail (Kulaura),,Yes,No,120,150,180,1%
+Moulvibazar,Patanushar - Shamshernagar,,Yes,No,120,150,180,1%
+Moulvibazar,Konokpur (Moulvibazar),,Yes,No,120,150,180,1%
+Moulvibazar,Adompur Bazar - Kamalganj,,Yes,No,120,150,180,1%
+Moulvibazar,Tilagaon Bazar (Kulaura),,Yes,No,120,150,180,1%
+Moulvibazar,Bhatera - Kulaura,,Yes,No,120,150,180,1%
+Moulvibazar,Kazir Bazar (Moulvibazar),,Yes,No,120,150,180,1%
+Munshiganj,Kacari (Munshiganj),,Yes,No,120,150,180,1%
+Munshiganj,Super Market Mor (Munshiganj),,Yes,No,120,150,180,1%
+Munshiganj,Munshir Hat (Munshiganj),,Yes,No,120,150,180,1%
+Munshiganj,Mirkadim (Munshiganj),,Yes,No,120,150,180,1%
+Munshiganj,Rikabibazar (Munshiganj),,Yes,No,120,150,180,1%
+Munshiganj,Sipahipara (Munshiganj),,Yes,No,120,150,180,1%
+Munshiganj,Muktarpur (Munshiganj),,Yes,No,120,150,180,1%
+Comilla,Companyganj (Comilla),,Yes,No,120,150,180,1%
+Moulvibazar,Langla (Kulaura),,Yes,No,120,150,180,1%
+Moulvibazar,Prithimpasha (Kulaura),,Yes,No,120,150,180,1%
+Moulvibazar,Kajaldhara Brahmanbazar (Kulaura),,Yes,No,120,150,180,1%
+Moulvibazar,Kotarkuna Bazar (Kulaura),,Yes,No,120,150,180,1%
+Sunamganj,Ecorcoi (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Chilaura (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Raniganj (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Mozidpur (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Kolkoli Bazar (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Shibganj (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Hospital point ((Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Mirpur (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Aralia bazar (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Patli (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Narikeltola (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Narikeltola (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Shriramsi (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Hasan fatemapur (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Kenbari (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Keshobpur (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Kashila (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Harikuna bazar (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Gofurgaon (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Atujan (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Bhober bazar (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Saharpara (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Habibpur (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Eshakuna (Jagannatpur),,Yes,No,120,150,180,1%
+Sunamganj,Pirer gaon (Jagannatpur),,Yes,No,120,150,180,1%
+Moulvibazar,Bhairabgonj Bazar(Sreemangal),,Yes,No,120,150,180,1%
+Moulvibazar,Gobindosree-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Magistrate Colony-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Tv Hospital Road-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Banabithi-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Lake Road-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Sultanpur-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Forest Office Road-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Muslim Quarters-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Kalimabad-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Mostofapur-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Baharmodon-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Ekatuna-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Girjapara-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Kalenga-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Shah Mostafa Road-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Borshijura-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Matharkapon-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Borhat-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Chadnighat-Moulvibazar,,Yes,No,120,150,180,1%
+Moulvibazar,Beriri Par-Moulvibazar,,Yes,No,120,150,180,1%
+Sylhet,College Road (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Noyagram & Khasa (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Upazilla point(Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Boiragi (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Mathiura (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Supatola (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Jaldup (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Kakordi ( Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Dubag (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Sheola (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Charkai (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Ramda (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Barigram (Beanibazar),,Yes,No,120,150,180,1%
+Sylhet,Masum Bazar (Zakiganj),,Yes,No,120,150,180,1%
+Sylhet,Eidgah bazar- Beanibazar (Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Zakiganj Bazar (Zakiganj),,Yes,No,120,150,180,1%
+Sylhet,Ratangonj (Zakiganj),,Yes,No,120,150,180,1%
+Sylhet,Atgram (Zakiganj),,Yes,No,120,150,180,1%
+Sylhet,Kaligonj (Zakiganj),,Yes,No,120,150,180,1%
+Sylhet,Sonashar (Zakiganj),,Yes,No,120,150,180,1%
+Sylhet,Saraker Bazar (Zakiganj),,Yes,No,120,150,180,1%
+Sylhet,Shahgoli (Zakiganj),,Yes,No,120,150,180,1%
+Moulvibazar,Dasherbazar (Barlekha),,Yes,No,120,150,180,1%
+Moulvibazar,Goyaltabazar (Barlekha),,Yes,No,120,150,180,1%
+Moulvibazar,Borolekha Bazar (Barlekha),,Yes,No,120,150,180,1%
+Moulvibazar,Taradorom (Barlekha),,Yes,No,120,150,180,1%
+Moulvibazar,Office Bazar (Barlekha),,Yes,No,120,150,180,1%
+Moulvibazar,Shahbazpur (Barlekha),,Yes,No,120,150,180,1%
+Moulvibazar,Kataltoli (Barlekha),,Yes,No,120,150,180,1%
+Moulvibazar,Rotuli (Barlekha),,Yes,No,120,150,180,1%
+Moulvibazar,Azimgonj (Barlekha),,Yes,No,120,150,180,1%
+Moulvibazar,Dokkinbag (Barlekha),,Yes,No,120,150,180,1%
+Brahmanbaria,Kosba Sadar(B.baria),,Yes,No,120,150,180,1%
+Brahmanbaria,Noyonpur - Kosba(B.Baria),,Yes,No,120,150,180,1%
+Brahmanbaria,Gopinathpur - Kosba(B.Baria),,Yes,No,120,150,180,1%
+Brahmanbaria,Kuti - Kosba(B.baria),,Yes,No,120,150,180,1%
+Brahmanbaria,Chargach - Kosba(B.baria),,Yes,No,120,150,180,1%
+Moulvibazar,Mukambazar-Rajnagar,,Yes,No,120,150,180,1%
+Moulvibazar,Kheyaghat Bazar-Rajnagar,,Yes,No,120,150,180,1%
+Moulvibazar,Kadamhata-Rajnagar,,Yes,No,120,150,180,1%
+Cox's Bazar,Aziz Nagar (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Harbang (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Baraitali (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Betua Bazar (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Chakaria Moghbazar,,Yes,No,120,150,180,1%
+Cox's Bazar,Chakaria Grameen Center,,Yes,No,120,150,180,1%
+Cox's Bazar,Chakaria Sobujbag,,Yes,No,120,150,180,1%
+Cox's Bazar,Zigda (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Lakkharchar (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Kakara (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Fasiakhali (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Malumghat (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Dulahazara (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Khutakhali (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Palakata (Chakaria),,Yes,No,120,150,180,1%
+Cox's Bazar,Badarkhali,,Yes,No,120,150,180,1%
+Cox's Bazar,Matarbari(Badarkhali),,Yes,No,120,150,180,1%
+Cox's Bazar,Elishia Bazar (Badarkhali),,Yes,No,120,150,180,1%
+Cox's Bazar,Dorbeshkata (Badarkhali),,Yes,No,120,150,180,1%
+Cox's Bazar,Eidgaon (Coxs Bazar),,Yes,No,120,150,180,1%
+Cox's Bazar,Coxs Bazar Kutubdiya Para,,Yes,No,120,150,180,1%
+Cox's Bazar,Ramu Cantonment (Coxs Bazar),,Yes,No,120,150,180,1%
+Cox's Bazar,Garjania Union (Coxs Bazar),,Yes,No,120,150,180,1%
+Cox's Bazar,Himchari (Court Bazar),,Yes,No,120,150,180,1%
+Cox's Bazar,Mermaid Beach Resort,,Yes,No,120,150,180,1%
+Cox's Bazar,Inani (Ukhia),,Yes,No,120,150,180,1%
+Cox's Bazar,Coxs Bazar Baharchora,,Yes,No,120,150,180,1%
+Cox's Bazar,Kutupalong (Ukhia),,Yes,No,120,150,180,1%
+Cox's Bazar,Courtbazar (Ukhia),,Yes,No,120,150,180,1%
+Cox's Bazar,Balukhali Bazar (Ukhia),,Yes,No,120,150,180,1%
+Cox's Bazar,Chowfaldandi Bazar (Coxs Bazar),,Yes,No,120,150,180,1%
+Cox's Bazar,Nhila (Teknaf),,Yes,No,120,150,180,1%
+Cox's Bazar,Whaikhyang (Teknaf),,Yes,No,120,150,180,1%
+Cox's Bazar,Sabrang Bazar (Teknaf),,Yes,No,120,150,180,1%
+Cox's Bazar,Shaplapur (Teknaf),,Yes,No,120,150,180,1%
+Cox's Bazar,Teknaf Baharchora,,Yes,No,120,150,180,1%
+Cox's Bazar,Shahpori Beach,,Yes,No,120,150,180,1%
+Munshiganj,Bandura(Dohar),1321,Yes,No,120,150,180,1%
+Munshiganj,Vaggyakul(Sreenagar),1556,Yes,No,120,150,180,1%
+Munshiganj,Baroykhali(Sreenagar),1553,Yes,No,120,150,180,1%
+Munshiganj,Galimpur(Nawabganj),,Yes,No,120,150,180,1%
+Munshiganj,Loskorpur (Sreenagar),,Yes,No,120,150,180,1%
+Munshiganj,Boxsonagar(Nawabganj),,Yes,No,120,150,180,1%
+Munshiganj,Joypara(Dohar),,Yes,No,120,150,180,1%
+Munshiganj,Kartikpur(Dohar),,Yes,No,120,150,180,1%
+Munshiganj,Shekharnagar(Sreenagar),,Yes,No,120,150,180,1%
+Munshiganj,Mawa(Louhajang),,Yes,No,120,150,180,1%
+Munshiganj,Dogachi Contonment(Sreenagar),,Yes,No,120,150,180,1%
+Munshiganj,Tontor (Sirajdikhan),,Yes,No,120,150,180,1%
+Munshiganj,Sirajdikhan (Munshiganj),,Yes,No,120,150,180,1%
+Munshiganj,Vaggokul(Sreenagar),,Yes,No,120,150,180,1%
+Munshiganj,Alamin Bazar ( Sreenagar ),,Yes,No,120,150,180,1%
+Munshiganj,Tin Dokan ( Sreenagar ),,Yes,No,120,150,180,1%
+Munshiganj,Baghra  ( Sreenagar ),,Yes,No,120,150,180,1%
+Munshiganj,Damla  ( Sreenagar ),,Yes,No,120,150,180,1%
+Munshiganj,Baligaon ( Munshiganj ),,Yes,No,120,150,180,1%
+Munshiganj,Kolma  ( Munshiganj ),,Yes,No,120,150,180,1%
+Munshiganj,Dohori  ( Munshiganj ),,Yes,No,120,150,180,1%
+Munshiganj,Rajanagar  ( Munshiganj ),,Yes,No,120,150,180,1%
+Munshiganj,Nimtola  ( Munshiganj ),,Yes,No,120,150,180,1%
+Munshiganj,Kusumpur  ( Munshiganj ),,Yes,No,120,150,180,1%
+Mymensingh,Kacharighat (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Zero Point (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Zila School More (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Panditpara (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Ck Ghos Road (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Notun Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Town Hall (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,kachijhuli (mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Kathgola (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Dholadia (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Rahmatpur Bypass (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Akua,,Yes,No,120,150,180,1%
+Mymensingh,Akua Bypass (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Bangladesh Bank (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Maskanda (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Churkhai (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Chorpara (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Medical College (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Sarda Ghosh Road (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Sarda Ghos Road,,Yes,No,120,150,180,1%
+Mymensingh,Noumohol (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Akua Morol Para (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Baundari Road (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Akua Madrasa Quarter (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Durgabari (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Dhobakhola (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Rk Mission Road (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Ganginarpar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Boro Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Choto Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Patgudam (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Purohitpara (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Rallymor (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Cantonment (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Jamtola (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Senbari (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Badekolpa (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Nijkolpa (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Bkb (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Agri University (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Kewatkhali (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Hakkani More (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Foliser More (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Bridge More (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Anondomohon College (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Cbmcb (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Somvugonjo (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Chor Issordia (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Porangonjo (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Joy Bangla Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,China More (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Chor Nilokkhiya (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Amuakanda (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Tarakanda Thana,,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Nashirabad Collge,,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Akua Morol Para,,Yes,No,120,150,180,1%
+Mymensingh,Sanai Community Center (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Sorcharpur (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Fire Servicer More (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Sankipara Gohailkandi,,Yes,No,120,150,180,1%
+Mymensingh,Paikpara (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Sahapur (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Par Tola (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Rohimgonjo (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Baidkandi (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Ram Vodropur (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Joynul Abedin Park,,Yes,No,120,150,180,1%
+Mymensingh,Kashigonjo (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Fulbaria Bongobondhu Chottor (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Asim Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Kristopur,,Yes,No,120,150,180,1%
+Mymensingh,Anayetpur (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Susuti Bazar,,Yes,No,120,150,180,1%
+Mymensingh,Kaladoho (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Balur Ghat (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Shibgonjo (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Borkabazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Bolashpur,,Yes,No,120,150,180,1%
+Mymensingh,Doshmile Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Dapunia Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Kosaibari (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Barerapool (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Haluaghat Aboni Bekari (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Baghaitola (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Vatikashor,,Yes,No,120,150,180,1%
+Mymensingh,Mazrakura (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Surzopur Camp (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Akua Don Mor,,Yes,No,120,150,180,1%
+Mymensingh,Kalapagla (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Hadis Er Mor (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mekirkanda (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Buraghat (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Dara Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Durail (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Nagla (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Sakuwai (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Bakshimul Tarakanda (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Balia (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Boula (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Kaichapur (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Biharanga (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Akua Firoz Library Mor,,Yes,No,120,150,180,1%
+Mymensingh,Salia (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Sutarpara Chowrasta (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Sutiapara (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Guatola (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Tarakanda,,Yes,No,120,150,180,1%
+Mymensingh,Sutia Nodee Par (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Dhobaura Bus Stand (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Dudnoi (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Kol Sindur (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Charuapara (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Munsir Hat (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Ghosgau (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Baligau (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Tarakanda Purakandholia,,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Akua Habun Bapery Mor,,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Saleha Market,,Yes,No,120,150,180,1%
+Mymensingh,Bot Tola (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Sankipara Health Office Goli,,Yes,No,120,150,180,1%
+Mymensingh,Lengra Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Bau Vabkir Mor,,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Golgonda ,Amin Bazar,,Yes,No,120,150,180,1%
+Mymensingh,Jatri Sauni (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,TNT Road (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Kalibari Road (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Station Road (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,College Road (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Thana Road (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Simultoli (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Tinkona Pukur Par,,Yes,No,120,150,180,1%
+Mymensingh,Bot Tola Mor (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Harua Bas Stand Iswarganj,,Yes,No,120,150,180,1%
+Mymensingh,Mayezbag (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Kanarampur (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Borohit Iswarganj,,Yes,No,120,150,180,1%
+Mymensingh,Iswarganj Uchakhila Bazar,,Yes,No,120,150,180,1%
+Mymensingh,Uchakhila (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Iswarganj Tarundia,,Yes,No,120,150,180,1%
+Mymensingh,Varoti Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Iswarganj Mukrijoddha Market,,Yes,No,120,150,180,1%
+Mymensingh,Shohagi (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Atharobari (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Muktagcha Biddaganj,,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Engineering College,,Yes,No,120,150,180,1%
+Mymensingh,Station Road (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Kachijuli Pial Road,,Yes,No,120,150,180,1%
+Mymensingh,Gohata (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Khalbola Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Collage Gate (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Goripur Shamganj,,Yes,No,120,150,180,1%
+Mymensingh,Dhubaora Kolsindur Bazar,,Yes,No,120,150,180,1%
+Mymensingh,Sutiabazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Dhubaora Munshir Hat,,Yes,No,120,150,180,1%
+Mymensingh,Dhubaora Ershad Bazar,,Yes,No,120,150,180,1%
+Mymensingh,Dhubaora Amitav Babu Road,,Yes,No,120,150,180,1%
+Mymensingh,Tarakanda Bazar (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Kudaldhor (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Taltola (Mymensingh),,Yes,No,120,150,180,1%
+Mymensingh,Tarakanda Boula Bazar,,Yes,No,120,150,180,1%
+Mymensingh,Mymensingh Dapunia Bazar,,Yes,No,120,150,180,1%
+Sylhet,Chowhatta-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Osmaninagar Upazila(Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Tajpur-Osmaninagar,,Yes,No,120,150,180,1%
+Sylhet,Sadipur-Osmaninagar,,Yes,No,120,150,180,1%
+Sylhet,Goalabazar-Osmaninagar(Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Rampasha (Bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Shahi Eidgah-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Raynagar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Kajalshah-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Mogla Bazar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Maijgaon-Fenchuganj,,Yes,No,120,150,180,1%
+Sylhet,Fenchuganj SarKarkhana(BIDC),,Yes,No,120,150,180,1%
+Sylhet,Shah Paran Bazar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Dorga Gate-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Jalalabad Cantonment-Boteshwar Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Sylhet Cantonment,,Yes,No,120,150,180,1%
+Sylhet,Housing State-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,SUST (Shahjalal University of Science and Technology),,Yes,No,120,150,180,1%
+Sylhet,Baruth Khana-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Kumarpara-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Mirza Zungle-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Kazitula-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Kazir Bazar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Lama Bazar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Modina Market-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Bagbari-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Mirboxtula-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,KhadimNagar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Airport Road-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Osmani Medical Hospital-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Naya Sarak-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Alampur-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Jail Road-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Khadimpara-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Mirer Moydan-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Rekabi Bazar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Jallarpar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Nayarpool-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Mehendibagh-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Humayun Rashid Chattar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Rajargoli-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Sylhet Biman Bandar,,Yes,No,120,150,180,1%
+Sylhet,Lala Bazar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Bholaganj-Companyganj,,Yes,No,120,150,180,1%
+Sylhet,Jaflong-Gowainghat,,Yes,No,120,150,180,1%
+Sylhet,Dakshin Surma-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Chondipul-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Purabi R/A- Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Boroikandi-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Haripur Gas Field-( Jaflong-Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Tuker Bazar-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Electric Supply-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Bhadeshwar-Golapganj Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Madani Square-Sylhet,,Yes,No,120,150,180,1%
+Sylhet,Pathantula-Sylhet,,Yes,No,120,150,180,1%
+Sunamganj,Badhaghat-Sunamganj,,Yes,No,120,150,180,1%
+Sunamganj,Takerghat-Sunamganj,,Yes,No,120,150,180,1%
+Sunamganj,Shantiganj-South Sunamganj,,Yes,No,120,150,180,1%
+Sunamganj,Pagla bazar-South Sunamganj,,Yes,No,120,150,180,1%
+Sunamganj,Lakma-Takerghat Sunamganj,,Yes,No,120,150,180,1%
+Sunamganj,Sachna-Jamalganj (Sunamganj),,Yes,No,120,150,180,1%
+Comilla,Comilla Cantonment,3500,Yes,No,120,150,180,1%
+Barisal,Guthia (Swarupkathi),,Yes,No,120,150,180,1%
+Barisal,Guthia (Narayanpur_Barisal),,Yes,No,120,150,180,1%
+Barisal,Sheikh Hasina Cantonment (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Dopdopia (Barishal),,Yes,No,120,150,180,1%
+Barisal,Kamarkhali (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Kaliganj (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Kanki Bazar (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Lakutia Sarak (Barishal),,Yes,No,120,150,180,1%
+Barisal,Ranir Hat (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Halta Bazar (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Alekanda Kazipara (Barishal),,Yes,No,120,150,180,1%
+Barisal,Palashpur (Barishal),,Yes,No,120,150,180,1%
+Barisal,30 Godown (Barishal),,Yes,No,120,150,180,1%
+Barisal,Barishal Stadium (Barishal),,Yes,No,120,150,180,1%
+Barisal,Charmonai (Barisal),,Yes,No,120,150,180,1%
+Barisal,Shaheber Haat (Barisal),,Yes,No,120,150,180,1%
+Barisal,Notun Bazar (Barishal),,Yes,No,120,150,180,1%
+Barisal,Nehalganj (Barishal),,Yes,No,120,150,180,1%
+Barisal,Zia Sarak (Barishal),,Yes,No,120,150,180,1%
+Barisal,Char Amuddi (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Kashipur (Nothullabaad_Barisal),,Yes,No,120,150,180,1%
+Barisal,Padri shibpur (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Peyarpur (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Nalua (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Goma (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Beltola (Barisal),,Yes,No,120,150,180,1%
+Barisal,Char Kauwa (Barisal),,Yes,No,120,150,180,1%
+Barisal,Kalizira (Rupatoli),,Yes,No,120,150,180,1%
+Barisal,Gasterbine (Rupatoli),,Yes,No,120,150,180,1%
+Barisal,Barisal University (Kornokathi),,Yes,No,120,150,180,1%
+Barisal,Talukder Hat (Barisal),,Yes,No,120,150,180,1%
+Barisal,LaharHat (Barisal),,Yes,No,120,150,180,1%
+Barisal,Madhabpasha (Babuganj),,Yes,No,120,150,180,1%
+Barisal,Rahmatpur (Babuganj),,Yes,No,120,150,180,1%
+Barisal,Barisal Cadet College (Babuganj),,Yes,No,120,150,180,1%
+Barisal,Notun Hat (Babuganj),,Yes,No,120,150,180,1%
+Barisal,Kedarpur (Babuganj),,Yes,No,120,150,180,1%
+Barisal,Bhuter Dia (Babuganj),,Yes,No,120,150,180,1%
+Barisal,Mirganj (Babuganj),,Yes,No,120,150,180,1%
+Barisal,Kawnia (Barisal),,Yes,No,120,150,180,1%
+Barisal,Vatikhana (Barisal),,Yes,No,120,150,180,1%
+Barisal,Barisal Airport (Babuganj),,Yes,No,120,150,180,1%
+Barisal,Lonch Ghat (Barishal),,Yes,No,120,150,180,1%
+Barisal,Sher E Bangla Medical (Barishal),,Yes,No,120,150,180,1%
+Barisal,Amtola (Barishal),,Yes,No,120,150,180,1%
+Barisal,Bangla Bazar (Barishal),,Yes,No,120,150,180,1%
+Barisal,Chowmatha (Barishal),,Yes,No,120,150,180,1%
+Barisal,Nobogram Road (Barishal),,Yes,No,120,150,180,1%
+Barisal,Nathullabad Kazipara (Barishal),,Yes,No,120,150,180,1%
+Barisal,BM College (Barishal),,Yes,No,120,150,180,1%
+Barisal,Port Road (Barishal),,Yes,No,120,150,180,1%
+Barisal,Bibir Pukur Par (Barishal),,Yes,No,120,150,180,1%
+Barisal,Goriar Par (Barishal),,Yes,No,120,150,180,1%
+Barisal,Balodia ( Swarupkathi ),,Yes,No,120,150,180,1%
+Barisal,Amanotganj (Barishal),,Yes,No,120,150,180,1%
+Barisal,Hatem Ali College (Barishal),,Yes,No,120,150,180,1%
+Barisal,Govt. Womens College (Barishal),,Yes,No,120,150,180,1%
+Barisal,Chowmatha Bottola (Barishal),,Yes,No,120,150,180,1%
+Barisal,Niamoti (Bakerganj),,Yes,No,120,150,180,1%
+Barisal,Chandmari (Barishal),,Yes,No,120,150,180,1%
+Barisal,Shayestabad (Barishal),,Yes,No,120,150,180,1%
+Faridpur,FARIDPUR SADAR (Faridpur),,Yes,No,120,150,180,1%
+Faridpur,ALIABAD(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,AMBIKAPUR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,CHAR MADHABDIA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,DECREERCHAR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,GREDA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,ISHAN GOPALPUR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,KAIJURI(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,KANAIPUR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,KRISHNANAGAR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,MAJCHAR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,UTTAR CHANNEL(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,BHANGA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,ALGI(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,AZIMNAGAR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,CHUMORDI(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,CHANDRA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,GHARUA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,HAMIRDI(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,KALAMRIDHA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,KAOLIBERA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,MANIKDAHA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,NASIRABAD(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,NURULLAGANJ(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,TUZARPUR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,CHAR BHADRASAN(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,CHAR HARIRAMPUR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,CHAR JHAUKANDA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,GAZIRTEK(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,NAGARKANDA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,CHAR JASORDI(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,DANGI(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,PHULSUTI(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,KAICHAIL(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,LASKARDIA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,KODALIA SHOHIDNAGAR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,PURA PARA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,RAMNAGAR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,TALMA(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,SADARPUR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,AKTER CHAR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,BHASHANCHAR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,CHAR BISHNUPUR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,CHAR MANAIR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,CHAR NASIRPUR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,DHEUKHALI(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,KRISHNAPUR(Faridpur),,Yes,No,120,150,180,1%
+Faridpur,NARIKELBARIA(Faridpur),,Yes,No,120,150,180,1%
+Perojpur,Nazirpur (Pirojpur),,Yes,No,120,150,180,1%
+Perojpur,Kawkhali (Pirojpur),,Yes,No,120,150,180,1%
+Perojpur,Hularhat (Pirojpur),,Yes,No,120,150,180,1%
+Perojpur,Indurkani (Pirojpur),,Yes,No,120,150,180,1%
+Perojpur,Bhandaria (Pirojpur),,Yes,No,120,150,180,1%
+Barisal,Taltoli (Barguna),,Yes,No,120,150,180,1%
+Barisal,Alipur (Kolapara),,Yes,No,120,150,180,1%
+Barisal,Mohipur (Kolapara),,Yes,No,120,150,180,1%
+Barisal,Khepupara (Kolapara),,Yes,No,120,150,180,1%
+Barisal,Kuakata (Kolapara),,Yes,No,120,150,180,1%
+Barisal,Payra port (Kolapara,,Yes,No,120,150,180,1%
+Barisal,Dhankhali RPCL (Kolapara),,Yes,No,120,150,180,1%
+Barisal,Amtali (Kolapara),,Yes,No,120,150,180,1%
+Barisal,Chakamaia Union (Kolapara),,Yes,No,120,150,180,1%
+Barisal,Kachupatra(Taltoli Upazilla),,Yes,No,120,150,180,1%
+Barisal,Champapur Unio(Kolapara),,Yes,No,120,150,180,1%
+Barisal,Baliatoli Union(Kolapara),,Yes,No,120,150,180,1%
+Barisal,Dalbuganj union (Kolapara),,Yes,No,120,150,180,1%
+Barisal,lota Chapli Unio(Kolapara),,Yes,No,120,150,180,1%
+Barisal,Mithagonj Union (Kolapara),,Yes,No,120,150,180,1%
+Barisal,Dhankhali Union (Kolapara),,Yes,No,120,150,180,1%
+Barisal,Lalua Union(Kolapara Hub),,Yes,No,120,150,180,1%
+Shariatpur,Binodpur (Shariatpur Sadar),,Yes,No,120,150,180,1%
+Shariatpur,Tulasar (Shariatpur Sadar),,Yes,No,120,150,180,1%
+Shariatpur,Palong (Shariatpur Sadar),,Yes,No,120,150,180,1%
+Shariatpur,Domshar (Shariatpur Sadar),,Yes,No,120,150,180,1%
+Shariatpur,Angaria (Shariatpur Sadar),,Yes,No,120,150,180,1%
+Shariatpur,Rudrokor (Shariatpur Sadar),,Yes,No,120,150,180,1%
+Shariatpur,Chitoliya (Shariatpur Sadar),,Yes,No,120,150,180,1%
+Shariatpur,Chikondi (Shariatpur Sadar),,Yes,No,120,150,180,1%
+Shariatpur,Sholpara (Shariatpur Sadar),,Yes,No,120,150,180,1%
+Shariatpur,Shakhipur (Shariatpur),,Yes,No,120,150,180,1%
+Jhalokathi,Basonda (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Bhoirabpasha (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Binaykathi (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Baukathi (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Gabha Ramchandrapur (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Kewra (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Kirtipasha (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Chottorkanda (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Magar (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Nabogram (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Ponabulia (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Shekherhat (Jhalokathi Sadar),,Yes,No,120,150,180,1%
+Jhalokathi,Amua (Kathalia),,Yes,No,120,150,180,1%
+Jhalokathi,Awrabunia (Kathalia),,Yes,No,120,150,180,1%
+Jhalokathi,Kathalia Banai (Kathalia),,Yes,No,120,150,180,1%
+Jhalokathi,Moricbunia (Kathalia),,Yes,No,120,150,180,1%
+Jhalokathi,Munshirabad (Kathalia),,Yes,No,120,150,180,1%
+Jhalokathi,Koikhali (Kathalia),,Yes,No,120,150,180,1%
+Jhalokathi,Pathikelghata (Kathalia),,Yes,No,120,150,180,1%
+Jhalokathi,Shoulojalia (Kathalia),,Yes,No,120,150,180,1%
+Jhalokathi,Dapdapia (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Kulkathi (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Hodua (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Kushlango (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Mollarhat (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Bhobanipur (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Ponabalia (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Taltola (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Nachonmahal (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Ranapasha (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Shubidpur (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Siddhakathi (Nalchiti),,Yes,No,120,150,180,1%
+Jhalokathi,Boroiya (Rajapur),,Yes,No,120,150,180,1%
+Jhalokathi,Galua (Rajapur),,Yes,No,120,150,180,1%
+Jhalokathi,Palot (Rajapur),,Yes,No,120,150,180,1%
+Jhalokathi,Pingri (Rajapur),,Yes,No,120,150,180,1%
+Jhalokathi,Mothbari (Rajapur),,Yes,No,120,150,180,1%
+Jhalokathi,Natun Hat (Rajapur),,Yes,No,120,150,180,1%
+Jhalokathi,Shuktagor (Rajapur),,Yes,No,120,150,180,1%
+Jhalokathi,Sturia (Rajapur),,Yes,No,120,150,180,1%
+Rajbari,Mijanpur(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Borat((Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Chandoni(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Khangong(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Baniboho(Rajbari sadar),,Yes,No,120,150,180,1%
+Rajbari,Dadshi(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Mulghor(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Bosontopur(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Khankhanapur(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Alipur(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Ramkantopur(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Pachuria(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Sultanpur(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Sahidohabpur(Rajbari Sadar),,Yes,No,120,150,180,1%
+Rajbari,Doulodia(Goalondo Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Debgram(Goalondo Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Ujanchor(Goalondo Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Sotovakla(Goalondo Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Bahadurpur(Pangsha Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Habashpur((Pangsha Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Joshai(Pangsha Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Babupara(Pangsha Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Mourat(Pangsha Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Patta(Pangsha Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Sorisha(Pangsha Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Kolimohor(Pangsha Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Kosbamajail(Pangsha Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Maspara(Pangsha Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Islampur(Baliakandi Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Bohorpur(Baliakandi Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Nobabpur(Baliakandi Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Narua(Baliakandi Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Baliakandi(Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Jongol(Baliakandi Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Jamalpur(Baliakandi Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Rotondia(Kalukhali Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Kalikapur(Kalukhali Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Boalia(Kalukhali Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Majbari(Kalukhali Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Modapur(Kalukhali Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Shawrael(Kalukhali Rajbari),,Yes,No,120,150,180,1%
+Rajbari,Mrigi(Kalukhali Rajbari),,Yes,No,120,150,180,1%
+Madaripur,Vadroshan (Shichar),,Yes,No,120,150,180,1%
+Madaripur,Chanderchar (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Shomvuk (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Sheikhpur (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Boiratola (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Hossainer Hat (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Baghmara(Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Sirail (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Uthrail (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Dattopara (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Surjonagar (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Khaser hat (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Minara (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Maler Hat (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Nasirer Mor (Panch-Char),,Yes,No,120,150,180,1%
+Madaripur,Bahadurpur ( Panch-char),,Yes,No,120,150,180,1%
+Madaripur,Bakhorkandi (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Kawrakandi (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Kathalbari (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Naodoba (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Shimana (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Kutubpur (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Munshirbazar (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Kadirpur (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,2nd Nadirpar (Shibchar),,Yes,No,120,150,180,1%
+Madaripur,Lakshmipur (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Khaser Hat (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Miyar Hat ( Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Mollar Hat (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Ramjanpur (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Shahebrampur ( Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Faishatola (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Madra (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Vurghata (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Bhanga Bridge (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Nabogram (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Dasar (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Ghosher Hat Chowrasta (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Gagonpur (kalkini),,Yes,No,120,150,180,1%
+Madaripur,Pathuriyarpar (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Gopalpur (Kalkini),,Yes,No,120,150,180,1%
+Madaripur,Kalabari (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Kalagachiya (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Ammgram Bridge (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Lokkhonda (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Rajoir Bus Stand,,Yes,No,120,150,180,1%
+Madaripur,Yousufpur (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Shakharpar (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Tekerhat (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Kadambari (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Chagolchira (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Fullbari (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Pantapara (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Nilokkhi (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Kabirajpur (Rajoir),,Yes,No,120,150,180,1%
+Madaripur,Khospur tekerhat (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Angulkata Hat (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Mohisherchar Ferighat (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Kulpoddi Chowrsta (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Mostofapur (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Ghatokchar (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Adompur (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Shirkhara (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Sreenadi (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Mithapur (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Habiganj (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Kalirbazar (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Charnachna (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Kalikapur (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Banglabazar (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Housedi (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Bolsha (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Awaz (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Charmuguriya (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Hazrapur (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Khagdi (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Notun Bus Stand (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Puran Bazar (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Khagchora (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Madaripur Launch Ghat (Madaripur Sadar),,Yes,No,120,150,180,1%
+Madaripur,Madaripur Sadar Thana (Madaripur Sadar),,Yes,No,120,150,180,1%
+Barisal,Satla (Wazirpur Gournadi),,Yes,No,120,150,180,1%
+Barisal,Harta (Wazirpur Gournadi),,Yes,No,120,150,180,1%
+Barisal,Jolla (Wazirpur Gournadi),,Yes,No,120,150,180,1%
+Barisal,Otra (Wazirpur Gournadi),,Yes,No,120,150,180,1%
+Barisal,Sholok (Wazirpur Gournadi),,Yes,No,120,150,180,1%
+Barisal,Borakotha (Wazirpur Gournadi),,Yes,No,120,150,180,1%
+Barisal,Bamrail (Wazirpur Gournadi),,Yes,No,120,150,180,1%
+Barisal,Shikerpur (Wazirpur Gournadi),,Yes,No,120,150,180,1%
+Barisal,Torki (Khanjapur Gournadi),,Yes,No,120,150,180,1%
+Barisal,Chadshi (Gournadi),,Yes,No,120,150,180,1%
+Barisal,Mahilara (Gournadi),,Yes,No,120,150,180,1%
+Barisal,Nolchira (Gournadi),,Yes,No,120,150,180,1%
+Barisal,Batajor (Gournadi),,Yes,No,120,150,180,1%
+Barisal,Shorikal (Gournadi),,Yes,No,120,150,180,1%
+Barisal,Rajihar (Agailjhara Gournadi),,Yes,No,120,150,180,1%
+Barisal,Bakal (Agailjhara Gournadi),,Yes,No,120,150,180,1%
+Barisal,Bagdha (Agailjhara Gournadi),,Yes,No,120,150,180,1%
+Barisal,Goila (Agailjhara Gournadi),,Yes,No,120,150,180,1%
+Barisal,Rotnopur (Agailjhara Gournadi),,Yes,No,120,150,180,1%
+Bhola,Tazumuddin Bazar (Bhola),,Yes,No,120,150,180,1%
+Bhola,Khaser Hat (Tajumuddin),,Yes,No,120,150,180,1%
+Bhola,Choto Dawri (Tazumuddin-Bhola),,Yes,No,120,150,180,1%
+Bhola,Dakshin Khaser Hat Bazar (Tazumuddin-Bhola),,Yes,No,120,150,180,1%
+Bhola,Dasherhat (Tazumuddin),,Yes,No,120,150,180,1%
+Bhola,Kalirhat (Tazumuddin),,Yes,No,120,150,180,1%
+Bhola,Kazi Kandi Bazaar (Tazumuddin),,Yes,No,120,150,180,1%
+Bhola,Anand Bazar (Tazumuddin),,Yes,No,120,150,180,1%
+Bhola,Tazumuddin Bazar(Bhola),,Yes,No,120,150,180,1%
+Bhola,Molla Pukurpar (Tazumuddin),,Yes,No,120,150,180,1%
+Bhola,Muci bari Kona (Tazumuddin),,Yes,No,120,150,180,1%
+Bhola,Maniram Bazar (Kunjer Hat),,Yes,No,120,150,180,1%
+Bhola,Lebukata Bazar (Kunjer Hat),,Yes,No,120,150,180,1%
+Bhola,Kunjer Hat Bazar (Bhola),,Yes,No,120,150,180,1%
+Bhola,Makkar Pol (Kunjer Hat),,Yes,No,120,150,180,1%
+Bhola,Kunjer Hat(Bhola),,Yes,No,120,150,180,1%
+Bhola,Baidyer Pol (Kunjer Hat),,Yes,No,120,150,180,1%
+Bhola,Dalalbazar (Kunjer Hat),,Yes,No,120,150,180,1%
+Bhola,Fakirhat (Kunjer Hat-Bhola),,Yes,No,120,150,180,1%
+Bhola,Laldigir par (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Borhanganj (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Gas field (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Udaipur Rastar Matha (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Daulatkhan Rastar Matha (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Naya Miarhat (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Hakimuddin (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Khas Mahal (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Abulbazar (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Miya Barir Darja (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Powerplant (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Mizirbazar (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Kaciya chowmohani (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Golpar Hajir Hat (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Deula Santirhat (Borhanuddin),,Yes,No,120,150,180,1%
+Bhola,Lalmohon (Charfession),,Yes,No,120,150,180,1%
+Bhola,Hazirhat (Manpura-Bhola),,Yes,No,120,150,180,1%
+Bhola,Hazirhat (Dularhat),,Yes,No,120,150,180,1%
+Bhola,Dakkhin Aicha (Charfession),,Yes,No,120,150,180,1%
+Bhola,Ahmedpur (Charfession),,Yes,No,120,150,180,1%
+Bhola,Shoshivushon (Charfession),,Yes,No,120,150,180,1%
+Bhola,Dularhat (Charfession),,Yes,No,120,150,180,1%
+Bhola,Jonota Bazar (Manpura),,Yes,No,120,150,180,1%
+Bhola,Hazirhat (Charfession ),,Yes,No,120,150,180,1%
+Bhola,Hazirhat Dularhat (Charfession ),,Yes,No,120,150,180,1%
+Bhola,Boro Dawri (Lalmohan),,Yes,No,120,150,180,1%
+Bhola,Mongol Shikdar (Lalmohon),,Yes,No,120,150,180,1%
+Bhola,Raichad (Lalmohon),,Yes,No,120,150,180,1%
+Bhola,Loadharing (Lalmohon),,Yes,No,120,150,180,1%
+Bhola,Sona miar Bazar(Lalmohan),,Yes,No,120,150,180,1%
+Bhola,Kattar Hat (Lalmohon),,Yes,No,120,150,180,1%
+Bhola,Ghosher Hat (Charfession),,Yes,No,120,150,180,1%
+Barguna,Badarkhali (Barguna Sadar),,Yes,No,120,150,180,1%
+Barguna,Gauri Channa (Barguna Sadar),,Yes,No,120,150,180,1%
+Barguna,FulJhuri (Barguna Sadar),,Yes,No,120,150,180,1%
+Barguna,Keorabunya (Barguna Sadar),,Yes,No,120,150,180,1%
+Barguna,Ayala Patakata (Barguna Sadar),,Yes,No,120,150,180,1%
+Barguna,Burir Char (Barguna Sadar),,Yes,No,120,150,180,1%
+Barguna,Dhalua (Barguna Sadar),,Yes,No,120,150,180,1%
+Barguna,M Baliatali (Barguna Sadar),,Yes,No,120,150,180,1%
+Barguna,Naltona (Barguna Sadar),,Yes,No,120,150,180,1%
+Barguna,Purakata (Barguna Sadar),,Yes,No,120,150,180,1%
+Barguna,Bamna(Mathbaria),,Yes,No,120,150,180,1%
+Barguna,Douyatola (Bamna),,Yes,No,120,150,180,1%
+Barguna,Bukabunia (Bamna),,Yes,No,120,150,180,1%
+Barguna,Raihanpur (Patharghata),,Yes,No,120,150,180,1%
+Barguna,Nacnapara (Patharghata),,Yes,No,120,150,180,1%
+Barguna,Charduani (Patharghata),,Yes,No,120,150,180,1%
+Barguna,Kalmegha (Patharghata),,Yes,No,120,150,180,1%
+Barguna,Kakchira (Patharghata),,Yes,No,120,150,180,1%
+Barguna,Kathaltoli (Patharghata-Barguna),,Yes,No,120,150,180,1%
+Barguna,Bibichini (Betagi),,Yes,No,120,150,180,1%
+Barguna,Hosnabad (Betagi),,Yes,No,120,150,180,1%
+Barguna,Mokamia (Batagi),,Yes,No,120,150,180,1%
+Barguna,Buramojumdar - Kauniya (Betagi),,Yes,No,120,150,180,1%
+Barguna,Kajirabad (Betagi),,Yes,No,120,150,180,1%
+Barguna,Sorishamuri (Betagi),,Yes,No,120,150,180,1%
+Sylhet,Kandi gram (bishwanath),,Yes,No,120,150,180,1%
+Sylhet,miajaner gaon (bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Motuk kuna (bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Doshpaika (bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Kade pur (bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Ramdhana  (bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Boiragi bazar (bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Noya bondor bazar (bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Khazanchi (bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Miro gaon (bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Rajnogor (Bishwanath),,Yes,No,120,150,180,1%
+Sylhet,Ponaulla Bazar (Kamalbazar Sylhet),,Yes,No,120,150,180,1%
+Sylhet,Kurua Bazar (Osmaninagar),,Yes,No,120,150,180,1%
+Sylhet,Doyamir (Osmaninagar),,Yes,No,120,150,180,1%
+Sylhet,Boaljur(Osmaninagar),,Yes,No,120,150,180,1%
+Sylhet,Burunga( Osmaninagar),,Yes,No,120,150,180,1%
+Sylhet,Golmukhafon (Osmaninagar),,Yes,No,120,150,180,1%
+Sylhet,Hajipur(Osmaninagar),,Yes,No,120,150,180,1%
+Sylhet,Umor pur (Goalabazar),,Yes,No,120,150,180,1%
+Sylhet,Khadimpur (Goalabazar),,Yes,No,120,150,180,1%
+Sylhet,Gourinath (Balaganj),,Yes,No,120,150,180,1%
+Sylhet,Murar Bazar Gohorpur (Balaganj),,Yes,No,120,150,180,1%
+Sylhet,Kamal bazar (Dakshin Surma),,Yes,No,120,150,180,1%
+Sylhet,Najir bazar (Osmaninagar),,Yes,No,120,150,180,1%
+Sylhet,Begumpur (goalabazar),,Yes,No,120,150,180,1%
+Sylhet,Rashidpur (bishwanath),,Yes,No,120,150,180,1%
+Comilla,Bagmara,,Yes,No,120,150,180,1%
+Comilla,Lalmai,,Yes,No,120,150,180,1%
+Comilla,Jalam,,Yes,No,120,150,180,1%
+Comilla,Barura Sadar,,Yes,No,120,150,180,1%
+Comilla,Aganagar,,Yes,No,120,150,180,1%
+Comilla,Vobanipur,,Yes,No,120,150,180,1%
+Comilla,Uttar Shilmuri,,Yes,No,120,150,180,1%
+Comilla,Dakshin Shilmuri,,Yes,No,120,150,180,1%
+Comilla,Chondimura,,Yes,No,120,150,180,1%
+Comilla,Galimpur,,Yes,No,120,150,180,1%
+Comilla,Shilmuri,,Yes,No,120,150,180,1%
+Comilla,Poyalghacha,,Yes,No,120,150,180,1%
+Comilla,Adda,,Yes,No,120,150,180,1%
+Comilla,Uttar Khosbash,,Yes,No,120,150,180,1%
+Comilla,Dakkhin Khoshbash,,Yes,No,120,150,180,1%
+Comilla,Rammohon,,Yes,No,120,150,180,1%
+Comilla,Dewora,,Yes,No,120,150,180,1%
+Comilla,Chitokda,,Yes,No,120,150,180,1%
+Comilla,Madhaiya (Cumilla),,Yes,No,120,150,180,1%
+Noakhali,Nijumdip (Hatiya),,Yes,No,120,150,180,1%
+Sherpur,Gurduar Nakla,,Yes,No,120,150,180,1%
+Sherpur,Pathakata Nakla,,Yes,No,120,150,180,1%
+Sherpur,Nunni Nalitabari,,Yes,No,120,150,180,1%
+Sherpur,Dhanshail Jhenaigati,,Yes,No,120,150,180,1%
+Jamalpur,Battajore(Bakshiganj Upazila),,Yes,No,120,150,180,1%
+Jamalpur,Bakshiganj Upazila ( Jamalpur),,Yes,No,120,150,180,1%
+Jamalpur,BogarChar(Bakshiganj Upazila),,Yes,No,120,150,180,1%
+Jamalpur,Parramrapur(Dewanganj Upazila),,Yes,No,120,150,180,1%
+Sherpur,Garjaripa Srebardi,,Yes,No,120,150,180,1%
+Sherpur,Bhelua Sribardi,,Yes,No,120,150,180,1%
+Sherpur,Kurikahania Sribardi,,Yes,No,120,150,180,1%
+Sherpur,Ghazir Khamar Sherpur,,Yes,No,120,150,180,1%
+Sherpur,Bajitkhila  Sherpur,,Yes,No,120,150,180,1%
+Sherpur,Bhatsala Sherpur,,Yes,No,120,150,180,1%
+Sherpur,Pakuria Sherpur,,Yes,No,120,150,180,1%
+Netrokona,Teligati  Atpara,,Yes,No,120,150,180,1%
+Netrokona,Duaz Atpara,,Yes,No,120,150,180,1%
+Netrokona,Baniajan Atpara,,Yes,No,120,150,180,1%
+Netrokona,Asma Barhatta,,Yes,No,120,150,180,1%
+Netrokona,Thakurakona Barhatta,,Yes,No,120,150,180,1%
+Netrokona,Singhar Bangla Barhatta,,Yes,No,120,150,180,1%
+Netrokona,Baushi Barhatta,,Yes,No,120,150,180,1%
+Netrokona,Barhatta Sadar  Barhatta,,Yes,No,120,150,180,1%
+Netrokona,Fakira Bazar Barhatta,,Yes,No,120,150,180,1%
+Netrokona,Jaria Durgapur,,Yes,No,120,150,180,1%
+Netrokona,Janjail Durghapur,,Yes,No,120,150,180,1%
+Netrokona,Krisnochor Bazar Durgapur,,Yes,No,120,150,180,1%
+Netrokona,Birishiri Durgapur,,Yes,No,120,150,180,1%
+Netrokona,Utrail Durgapur,,Yes,No,120,150,180,1%
+Netrokona,Chandighar Durgapur,,Yes,No,120,150,180,1%
+Netrokona,Kailati Kalmakanda,,Yes,No,120,150,180,1%
+Netrokona,Nazirpur Kalmakanda,,Yes,No,120,150,180,1%
+Netrokona,Lengura Kalmakanda,,Yes,No,120,150,180,1%
+Netrokona,Kalmakanda Sadar,,Yes,No,120,150,180,1%
+Netrokona,Ganda Kendua,,Yes,No,120,150,180,1%
+Netrokona,Chirang Kendua,,Yes,No,120,150,180,1%
+Netrokona,Madanpur Kendua,,Yes,No,120,150,180,1%
+Netrokona,Noapara Kendua,,Yes,No,120,150,180,1%
+Netrokona,Mashka Kendua,,Yes,No,120,150,180,1%
+Netrokona,Muzaffarpur Kendua,,Yes,No,120,150,180,1%
+Netrokona,Sandikona Kendau,,Yes,No,120,150,180,1%
+Netrokona,Kendua Sadar,,Yes,No,120,150,180,1%
+Netrokona,Kaitail Madan,,Yes,No,120,150,180,1%
+Netrokona,Maghan Madan,,Yes,No,120,150,180,1%
+Netrokona,Madan Centar,,Yes,No,120,150,180,1%
+Netrokona,Birampur Mohangonj,,Yes,No,120,150,180,1%
+Netrokona,Maghan Siadhar Mohangonj,,Yes,No,120,150,180,1%
+Netrokona,Mohangonj Sadar,,Yes,No,120,150,180,1%
+Netrokona,Agia Purbadhala,,Yes,No,120,150,180,1%
+Netrokona,Khalishapur Purbadhala,,Yes,No,120,150,180,1%
+Netrokona,Hogla Purbadhala,,Yes,No,120,150,180,1%
+Netrokona,Purbadhala Sadar,,Yes,No,120,150,180,1%
+Netrokona,Shemgonj Purbadhala,,Yes,No,120,150,180,1%
+Sunamganj,Paikurati Dharmapasha,,Yes,No,120,150,180,1%
+Sunamganj,Selborash Dharmapasha,,Yes,No,120,150,180,1%
+Sunamganj,Dharmapasha Sadar,,Yes,No,120,150,180,1%
+Netrokona,Challishav Netrokona,,Yes,No,120,150,180,1%
+Netrokona,Dakshin Bishiura Netrokona,,Yes,No,120,150,180,1%
+Netrokona,Medni Netrokona,,Yes,No,120,150,180,1%
+Netrokona,Netrokona Sadar,,Yes,No,120,150,180,1%
+Tangail,Sagordighi(Modhupur),,Yes,No,120,150,180,1%
+Tangail,Garo Bazar(Modhupur),,Yes,No,120,150,180,1%
+Tangail,Hamidpur(Modhupur),,Yes,No,120,150,180,1%
+Tangail,Kadomtoli(Modhupur),,Yes,No,120,150,180,1%
+Tangail,Jhorka(Modhupur),,Yes,No,120,150,180,1%
+Tangail,Kakraid(Modhupur),,Yes,No,120,150,180,1%
+Tangail,Dhalapara(Modhupur),,Yes,No,120,150,180,1%
+Tangail,Ghatail Senanibash(Modhupur),,Yes,No,120,150,180,1%
+Mymensingh,Morlicbari Bazar ( Valuka ),,Yes,No,120,150,180,1%
+Mymensingh,Batajor Bazar ( Valuka ),,Yes,No,120,150,180,1%
+Mymensingh,Angargara Bazar ( Valuka ),,Yes,No,120,150,180,1%
+Mymensingh,Mastarbari ( Valuka ),,Yes,No,120,150,180,1%
+Mymensingh,Sridstore Bazar ( Valuka ),,Yes,No,120,150,180,1%
+Mymensingh,Shantiganz ( Gafargaon ),,Yes,No,120,150,180,1%
+Mymensingh,Rasulpur ( Gafargaon ),,Yes,No,120,150,180,1%
+Mymensingh,Maoshakhali ( Pagla ),,Yes,No,120,150,180,1%
+Mymensingh,Eschooler Bazar ( Pagla ),,Yes,No,120,150,180,1%
+Mymensingh,Bord Bazar ( Pagla ),,Yes,No,120,150,180,1%
+Mymensingh,Goespur ( Pagla ),,Yes,No,120,150,180,1%
+Mymensingh,Bagar Bazar ( Valuka ),,Yes,No,120,150,180,1%
+Mymensingh,Utura ( Valuka ),,Yes,No,120,150,180,1%
+Mymensingh,Nizuri ( Valuka ),,Yes,No,120,150,180,1%
+Mymensingh,Purabari ( Trishal ),,Yes,No,120,150,180,1%
+Mymensingh,Trishal Sadar,,Yes,No,120,150,180,1%
+Mymensingh,Balipara ( Trishal ),,Yes,No,120,150,180,1%
+Mymensingh,Kalir Bazar ( Trishal ),,Yes,No,120,150,180,1%
+Mymensingh,Vora Doba ( Trishal ),,Yes,No,120,150,180,1%
+Mymensingh,Bailor ( Trishal ),,Yes,No,120,150,180,1%
+Mymensingh,Horirampur ( Trishal ),,Yes,No,120,150,180,1%
+Habiganj,Asampara (Shayestagnj),,Yes,No,120,150,180,1%
+Habiganj,Noapara (Madhabpur),,Yes,No,120,150,180,1%
+Habiganj,Montola (Madhabpur),,Yes,No,120,150,180,1%
+Habiganj,Mirpurbazar (Shayestaganj),,Yes,No,120,150,180,1%
+Habiganj,Olipur (Shayestaganj),,Yes,No,120,150,180,1%
+Habiganj,Markuli (Nabiganj),,Yes,No,120,150,180,1%
+Habiganj,Kadirganj (Nabiganj),,Yes,No,120,150,180,1%
+Moulvibazar,Ashidron (Sreemangal),,Yes,No,120,150,180,1%
+Moulvibazar,Bhunabir  (Sreemangal),,Yes,No,120,150,180,1%
+Moulvibazar,Kalapur (Sreemangal),,Yes,No,120,150,180,1%
+Moulvibazar,Kalighat (Sreemangal),,Yes,No,120,150,180,1%
+Moulvibazar,Mirzapur (Sreemangal),,Yes,No,120,150,180,1%
+Moulvibazar,Rajghat (Sreemangal),,Yes,No,120,150,180,1%
+Moulvibazar,Satgaon (Sreemangal),,Yes,No,120,150,180,1%
+Moulvibazar,Sindurkhan (Sreemangal),,Yes,No,120,150,180,1%
+Moulvibazar,Madhabpur (Kamalganj),,Yes,No,120,150,180,1%
+Moulvibazar,Ali Nagar (Kamalganj),,Yes,No,120,150,180,1%
+Moulvibazar,Bhanugach (Kamalganj),,Yes,No,120,150,180,1%
+Moulvibazar,Islampur (Kamalganj),,Yes,No,120,150,180,1%
+Moulvibazar,Akhailkura (Moulvibazar),,Yes,No,120,150,180,1%
+Moulvibazar,Amtail (Moulvibazar),,Yes,No,120,150,180,1%
+Moulvibazar,Giasnagar (Moulvibazar),,Yes,No,120,150,180,1%
+Moulvibazar,Kamalpur (Moulvibazar),,Yes,No,120,150,180,1%
+Moulvibazar,Khalilpur (Moulvibazar),,Yes,No,120,150,180,1%
+Moulvibazar,Manumukh (Moulvibazar),,Yes,No,120,150,180,1%
+Moulvibazar,Mostafapur (Moulvibazar),,Yes,No,120,150,180,1%
+Moulvibazar,Nazirabad (Moulvibazar),,Yes,No,120,150,180,1%
+Moulvibazar,Kagabala (Moulvibazar),,Yes,No,120,150,180,1%
+Patuakhali,Labukhali (Dumki),,Yes,No,120,150,180,1%
+Patuakhali,Badarpur (Patuakhali Sadar),,Yes,No,120,150,180,1%
+Patuakhali,Boro Bighai (Patuakhali Sadar),,Yes,No,120,150,180,1%
+Patuakhali,Choto Bighai (Patuakhali Sadar),,Yes,No,120,150,180,1%
+Patuakhali,Itbaria (Patuakhali Sadar),,Yes,No,120,150,180,1%
+Patuakhali,Jainkathi (Patuakhali Sadar),,Yes,No,120,150,180,1%
+Patuakhali,Kalikapur (Patuakhali Sadar),,Yes,No,120,150,180,1%
+Patuakhali,Laukathi (Patuakhali Sadar),,Yes,No,120,150,180,1%
+Patuakhali,Lohalia (Patuakhali Sadar),,Yes,No,120,150,180,1%
+Patuakhali,Madarbunia (Patuakhali Sadar),,Yes,No,120,150,180,1%
+Patuakhali,Marichbunia (Patuakhali Sadar),,Yes,No,120,150,180,1%
+Patuakhali,Badura Bazar(Auliapur),,Yes,No,120,150,180,1%
+Patuakhali,Sheikh Hasina cantonment (Lebukhali, Patuakhali),,Yes,No,120,150,180,1%
+Patuakhali,Adabaria (Bauphal),,Yes,No,120,150,180,1%
+Patuakhali,Daspara (Bauphal),,Yes,No,120,150,180,1%
+Patuakhali,Dhulia (Bauphal),,Yes,No,120,150,180,1%
+Patuakhali,Kanchi Para (Bauphal),,Yes,No,120,150,180,1%
+Patuakhali,Kalisuri (Bauphal),,Yes,No,120,150,180,1%
+Patuakhali,Kanakdia (Bauphal),,Yes,No,120,150,180,1%
+Patuakhali,Keshabpur (Bauphal),,Yes,No,120,150,180,1%
+Patuakhali,Nowmala (Bauphal),,Yes,No,120,150,180,1%
+Patuakhali,Nazirpur (Bauphal),,Yes,No,120,150,180,1%
+Patuakhali,Bahrampur (Dashmina),,Yes,No,120,150,180,1%
+Patuakhali,Banshbaria (Dashmina),,Yes,No,120,150,180,1%
+Patuakhali,Rangopaldi (Dashmina),,Yes,No,120,150,180,1%
+Patuakhali,Amkhola (Galachipa),,Yes,No,120,150,180,1%
+Patuakhali,Chalitabunia (Galachipa),,Yes,No,120,150,180,1%
+Patuakhali,Char Kajal (Galachipa),,Yes,No,120,150,180,1%
+Patuakhali,Chiknikandi (Galachipa),,Yes,No,120,150,180,1%
+Patuakhali,Golkhali (Galachipa),,Yes,No,120,150,180,1%
+Patuakhali,Panpatty (Galachipa),,Yes,No,120,150,180,1%
+Patuakhali,Char Bishwas (Galachipa),,Yes,No,120,150,180,1%
+Patuakhali,Char Montaj (Galachipa),,Yes,No,120,150,180,1%
+Patuakhali,Gazalia (Galachipa),,Yes,No,120,150,180,1%
+Patuakhali,Rangabali (Dashmina),,Yes,No,120,150,180,1%
+Perojpur,Swarupkathi,,Yes,No,120,150,180,1%
+Perojpur,Inderhat (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Miarhat (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Dubi Bazar (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Sangitkathi (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Kuriana (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Mahmudkathi (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Korfa (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Sohagdol (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Alkir hat (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Balihari (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Nanduhar (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Kaurikhara  (swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Jalabari (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Hogla Betka (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Ekota bajar (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Uribuniya (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Batnatola (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Doihari (Swarupkathi),,Yes,No,120,150,180,1%
+Perojpur,Sutiakathi (Swarupkathi),,Yes,No,120,150,180,1%
+Brahmanbaria,Harashpur (Bijoynagar)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Champaknagar (Bijoynagar)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Mugra Bazar (Akhaura)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Gazibazar (Bijoynagar)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Azampur (Akhaura)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Durgapur (Akhaura)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Moniondho (Akhaura)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Amtoli Bazar (Bijoynagar)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Islampur(Bijoynagar),,Yes,No,120,150,180,1%
+Brahmanbaria,KalibariÂ  (Bijoynagar)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,BishnupurÂ  (Bijoynagar)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,PottonÂ  (Bijoynagar)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Debagram (Akhaura)-Brahmanbaria,,Yes,No,120,150,180,1%
+Brahmanbaria,Paharpur (Bijoy nagar-Brahmanbaria),,Yes,No,120,150,180,1%
+Comilla,Debidwar (Comilla),,Yes,No,120,150,180,1%
+Comilla,Eliotganj-Cumilla,,Yes,No,120,150,180,1%
+Sirajganj,Enayetpur,,Yes,No,120,150,180,1%
+Munshiganj,Singpara Bazar (Sirajdikhan),,Yes,No,120,150,180,1%
+Munshiganj,Ichhapura Bazar (Sirajdikhan),,No,No,120,150,180,1%
+Munshiganj,Baluchar (Sirajdikhan),,No,No,120,150,180,1%
+Munshiganj,Holdia Bazar (Louhajang),,Yes,No,120,150,180,1%
+Munshiganj,Haridia (Louhajang),,Yes,No,120,150,180,1%
+Munshiganj,Malkhanagar (Sirajdikhan),,No,No,120,150,180,1%
+Munshiganj,Kuchiamora (Sirajdikhan),,No,No,120,150,180,1%
+Munshiganj,Kola(Sirajdikhan),,No,No,120,150,180,1%
+Sunamganj,Anwarpur-Tahirpur,,Yes,No,120,150,180,1%
+Sunamganj,Balijuri-Tahirpur,,Yes,No,120,150,180,1%
+Sunamganj,Shaktiarkhola-Biswambharpur,,Yes,No,120,150,180,1%
+Sunamganj,Polash-Biswambharpur,,Yes,No,120,150,180,1%
+Sunamganj,Dhanpur-Biswambharpur,,No,No,120,150,180,1%
+Sunamganj,Mathurkandi-Biswambharpur,,Yes,No,120,150,180,1%
+Sunamganj,Chenakandi-Biswambharpur,,Yes,No,120,150,180,1%
+Sunamganj,Binnakuli-Biswambharpur,,Yes,No,120,150,180,1%
+Sunamganj,Laurerghar-Biswambharpur,,Yes,No,120,150,180,1%
+Sunamganj,Borsora-Tahirpur,,Yes,No,120,150,180,1%
+Sunamganj,Chragaon-Tahirpur,,Yes,No,120,150,180,1%
+Sunamganj,Sreepur-Tahirpur,,Yes,No,120,150,180,1%
+Sunamganj,Baliaghat-Tahirpur,,Yes,No,120,150,180,1%
+Sunamganj,Bagli-Tahirpur,,Yes,No,120,150,180,1%
+Jamalpur,Islampur Upazila (Jamalpur),,No,No,120,150,180,1%
+Jamalpur,Katharbill(Dewanganj Upazila),,No,No,120,150,180,1%
+Jamalpur,Taratia(Dewanganj Upazila),,No,No,120,150,180,1%
+Jamalpur,Sanandabari (Dewanganj Upazila),,No,No,120,150,180,1%
+Jamalpur,Bahadurabad Ghat(Jamalpur),,No,No,120,150,180,1%
+Habiganj,Jagadishpur & Teliapara (Madhabpur),,Yes,No,120,150,180,1%
+Brahmanbaria,Budunti (Bijoynagar),,Yes,No,120,150,180,1%
+Brahmanbaria,Chor Islampur (Bijoynagar),,Yes,No,120,150,180,1%
+Habiganj,Inathganj (Nabiganj),,No,No,120,150,180,1%
+Comilla,Mia Bazar -Chowddagram,,Yes,No,120,150,180,1%
+Sylhet,Lamakazi Bishwanath(Sylhet),,No,No,120,150,180,1%
+Sylhet,Leading University (Sylhet),,No,No,120,150,180,1%
+Sylhet,Kumargaon Bus Stand(Sylhet),,No,No,120,150,180,1%
+Sylhet,Technical Road(Sylhet),,No,No,120,150,180,1%
+Sylhet,Temukhi Point(Sylhet),,No,No,120,150,180,1%
+Sylhet,Jalalpur Bazar (Dakshin Surma Sylhet),,No,No,120,150,180,1%
+Bandarban,S Alam Power Plant,,Yes,No,120,150,180,1%
+Cox's Bazar,ToiTong,,Yes,No,120,150,180,1%
+Bandarban,Sonowa,,Yes,No,120,150,180,1%
+Bandarban,Chambol,,Yes,No,120,150,180,1%
+Cox's Bazar,Mognama,,Yes,No,120,150,180,1%
+Cox's Bazar,Rajakhali (Nabitta khali),,Yes,No,120,150,180,1%
+Cox's Bazar,Ojanthiya,,Yes,No,120,150,180,1%
+Sunamganj,Madhyanagar Upazila,,Yes,No,120,150,180,1%
+Chittagong,Saltgola Rail crossing,,Yes,No,120,150,180,1%
+Chittagong,Port Colony, East colony Bandar,,Yes,No,120,150,180,1%
+Chittagong,Patenga Airport,,Yes,No,120,150,180,1%
+Chittagong,Navy Hospital Gate (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Katgor (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Steel Mill (Chittagong),,Yes,No,120,150,180,1%
+Chittagong,Kornafuli, KEPZ (Patenga),,Yes,No,120,150,180,1%
+Chittagong,Free Port, EPZ,,Yes,No,120,150,180,1%
+Chittagong,CEPZ (CTG),,Yes,No,120,150,180,1%
+Chittagong,Bandar (CTG),,Yes,No,120,150,180,1%
+Sherpur,Jhenaigati (Sherpur),,Yes,No,120,150,180,1%
+Sherpur,Nakla (Sherpur),,Yes,No,120,150,180,1%
+Sherpur,Nalitabari (Sherpur),,Yes,No,120,150,180,1%
+Sherpur,Sreebardi (Sherpur) ,,Yes,No,120,150,180,1%
+Pabna,Aminpur (Kashinathpur),,Yes,No,120,150,180,1%
+Pabna,Dulai (Kashinathpur),,Yes,No,120,150,180,1%
+Pabna,Kazirhat (Kashinathpur),,Yes,No,120,150,180,1%
+Pabna,Notun Bharenga,,Yes,No,120,150,180,1%
+Pabna,Puran Bharenga,,Yes,No,120,150,180,1%
+Pabna,Nogorbari Ghat,,Yes,No,120,150,180,1%
+Pabna,Shahidnagar (Bera),,Yes,No,120,150,180,1%
+Pabna,Alheranagar (Bera),,Yes,No,120,150,180,1%
+Pabna,Ruppur(Ishwardi),,Yes,No,120,150,180,1%
+Pabna,Muladuli(Ishwardi),,Yes,No,120,150,180,1%
+Pabna,Dashuria(Isahwardi),,Yes,No,120,150,180,1%
+Pabna,Ishwardi EPZ,,Yes,No,120,150,180,1%
+Pabna,Tebunia(pabna ),,Yes,No,120,150,180,1%
+Pabna,Edward college pabna,,Yes,No,120,150,180,1%
+Pabna,Shalgaria(Pabna),,Yes,No,120,150,180,1%
+Pabna,Meril bypass (Pabna),,Yes,No,120,150,180,1%
+Pabna,Chaikula(Chatmohar),,Yes,No,120,150,180,1%
+Pabna,Relbazar(Chatmohor,,Yes,No,120,150,180,1%
+Pabna,Notun Bazar(Chatmohar),,Yes,No,120,150,180,1%
+Pabna,Moktobmor (Pabna),,Yes,No,120,150,180,1%
+Pabna,Degree Bottola (Pabna),,Yes,No,120,150,180,1%
+Pabna,Greencity (Ishwardi),,Yes,No,120,150,180,1%
+Pabna,Joynagor (Ishwardi),,Yes,No,120,150,180,1%
+Pabna,Alhazmor (Ishwardi),,Yes,No,120,150,180,1%
+Pabna,Ishwardi College Road,,Yes,No,120,150,180,1%
+Pabna,Aronkola (Ishwardi),,Yes,No,120,150,180,1%
+Pabna,Mansurabad (Pabna),,Yes,No,120,150,180,1%
+Pabna,Notun Hat (Ishwardi),,Yes,No,120,150,180,1%
+Barisal,Patarhat (Mehendigonj),,Yes,No,120,150,180,1%
+Barisal,Datpur Bazar (Mehendigonj),,Yes,No,120,150,180,1%
+Barisal,Ulania (Mehendigonj),,Yes,No,120,150,180,1%
+Moulvibazar,Shamsherganj (Sreemangal),,Yes,No,120,150,180,1%
+Chittagong,Fatikchari Heyako,,Yes,No,120,150,180,1%
+Chittagong,Fatikchari Bhujpur,,Yes,No,120,150,180,1%
+Chittagong,Fatikchari Dharmapur,,Yes,No,120,150,180,1%
+Chittagong,Fatikchari Bibirhat,,Yes,No,120,150,180,1%
+Chandpur,Sujatpur Bazar , Matlab,,Yes,No,120,150,180,1%
+Chandpur,Matlab Mohanpur	,,Yes,No,120,150,180,1%
+Chandpur,Matlab Sadar,,Yes,No,120,150,180,1%
+Cox's Bazar,Eidghor (Ramu),,Yes,No,120,150,180,1%
+Cox's Bazar,Baishari (Naikongchori),,Yes,No,120,150,180,1%
+Cox's Bazar,Fokkhali (Eidgah),,Yes,No,120,150,180,1%
+Cox's Bazar,Islampur (Eidgah),,Yes,No,120,150,180,1%
+Cox's Bazar,Varuakhali (Ramu),,Yes,No,120,150,180,1%
+Cox's Bazar,Rashid Nagar (Ramu),,Yes,No,120,150,180,1%
+Cox's Bazar,Chakmarkul (Ramu),,Yes,No,120,150,180,1%
+Cox's Bazar,Kuruliya (Ramu),,Yes,No,120,150,180,1%
+Cox's Bazar,Jowariya Nala (Ramu),,Yes,No,120,150,180,1%
+Cox's Bazar,Kawarkhup (Ramu),,Yes,No,120,150,180,1%
