@@ -4,9 +4,9 @@ declare(strict_types = 1);
 
 namespace Centrex\Courier\Tests;
 
+use Centrex\Courier\CourierServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Centrex\Courier\CourierServiceProvider;
 
 class TestCase extends Orchestra
 {
