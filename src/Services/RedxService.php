@@ -28,6 +28,108 @@ class RedxService extends AbstractCourierService
         );
     }
 
+    public function getAreas(): array
+    {
+        return $this->json(
+            $this->http
+                ->withHeaders($this->headers())
+                ->acceptJson()
+                ->get($this->buildUrl($this->baseUrl(), 'areas')),
+        );
+    }
+
+    public function getAreaById(int $areaId): array
+    {
+        return $this->json(
+            $this->http
+                ->withHeaders($this->headers())
+                ->acceptJson()
+                ->get($this->buildUrl($this->baseUrl(), "areas/{$areaId}")),
+        );
+    }
+
+    public function getAreaByPostCode(string $postCode): array
+    {
+        return $this->json(
+            $this->http
+                ->withHeaders($this->headers())
+                ->acceptJson()
+                ->get($this->buildUrl($this->baseUrl(), 'areas'), ['postcode' => $postCode]),
+        );
+    }
+
+    public function getAreaByDistrictName(string $areaName): array
+    {
+        return $this->json(
+            $this->http
+                ->withHeaders($this->headers())
+                ->acceptJson()
+                ->get($this->buildUrl($this->baseUrl(), 'areas'), ['district_name' => $areaName]),
+        );
+    }
+
+    public function getPickupStores(): array
+    {
+        return $this->json(
+            $this->http
+                ->withHeaders($this->headers())
+                ->acceptJson()
+                ->get($this->buildUrl($this->baseUrl(), 'pickup/stores')),
+        );
+    }
+
+    public function getPickupStoreById(int $storeId): array
+    {
+        return $this->json(
+            $this->http
+                ->withHeaders($this->headers())
+                ->acceptJson()
+                ->get($this->buildUrl($this->baseUrl(), "pickup/store/info/{$storeId}")),
+        );
+    }
+
+    /**
+     * Redx's charge calculator is a GET endpoint taking its inputs as query
+     * parameters (per the official docs) — not a POST body.
+     * Returns e.g. ['deliveryCharge' => 60, 'codCharge' => 0].
+     */
+    public function calculateCharge(array $data): array
+    {
+        $this->requireFields($data, [
+            'delivery_area_id', 'pickup_area_id', 'cash_collection_amount', 'weight',
+        ]);
+
+        return $this->json(
+            $this->http
+                ->withHeaders($this->headers())
+                ->acceptJson()
+                ->get($this->buildUrl($this->baseUrl(), 'charge/charge_calculator'), $data),
+        );
+    }
+
+    /**
+     * Create a parcel (consignment) with Redx.
+     *
+     * Payload shape follows Redx's merchant "Create Parcel" API: recipient details,
+     * delivery area id (from Redx's own area lookup — not provided by this package),
+     * cash-on-delivery amount, parcel weight/value, and a details breakdown.
+     */
+    public function createParcel(array $data): array
+    {
+        $this->requireFields($data, [
+            'customer_name', 'customer_phone', 'delivery_area_id', 'pickup_area_id',
+            'customer_address', 'merchant_invoice_id', 'cash_collection_amount',
+            'parcel_weight', 'value', 'parcel_details_json',
+        ]);
+
+        return $this->json(
+            $this->http
+                ->withHeaders($this->headers())
+                ->acceptJson()
+                ->post($this->buildUrl($this->baseUrl(), 'parcel'), $data),
+        );
+    }
+
     public function priceChart(array $filters = []): array
     {
         $path = (string) data_get($this->config('redx', []), 'price_chart_csv', '');

@@ -139,13 +139,4 @@ class PathaoService extends AbstractCourierService
     {
         return $this->config('pathao', []);
     }
-
-    protected function requireFields(array $data, array $requiredFields): void
-    {
-        foreach ($requiredFields as $field) {
-            if (!array_key_exists($field, $data)) {
-                throw new CourierException("Missing required field: {$field}");
-            }
-        }
-    }
 }

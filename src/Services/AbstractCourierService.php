@@ -4,6 +4,7 @@ declare(strict_types = 1);
 
 namespace Centrex\Courier\Services;
 
+use Centrex\Courier\Exceptions\CourierException;
 use Illuminate\Http\Client\{Factory as HttpFactory, Response};
 
 abstract class AbstractCourierService
@@ -21,6 +22,15 @@ abstract class AbstractCourierService
     protected function config(string $key, mixed $default = null): mixed
     {
         return $this->config[$key] ?? config("courier.{$key}", $default);
+    }
+
+    protected function requireFields(array $data, array $requiredFields): void
+    {
+        foreach ($requiredFields as $field) {
+            if (!array_key_exists($field, $data)) {
+                throw new CourierException("Missing required field: {$field}");
+            }
+        }
     }
 
     protected function buildUrl(string $baseUrl, string $suffix = ''): string

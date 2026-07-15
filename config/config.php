@@ -30,7 +30,7 @@ return [
             'sandbox' => env('REDX_SANDBOX_BASE_URL', 'https://sandbox.redx.com.bd/v1.0.0-beta'),
             'live' => env('REDX_LIVE_BASE_URL', 'https://openapi.redx.com.bd/v1.0.0-beta'),
         ],
-        'api_access_token' => env('REDX_API_ACCESS_TOKEN', ''),
+        'api_access_token' => 'sandbox' === true ? env('REDX_SANDBOX_TOKEN', ''): env('REDX_API_ACCESS_TOKEN', ''),
         'price_chart_csv' => __DIR__ . '/../resources/data/redx.csv',
     ],
     'rokomari' => [

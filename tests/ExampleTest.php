@@ -36,6 +36,45 @@ it('tracks redx consignments via package route', function () {
         && $request->hasHeader('API-ACCESS-TOKEN', 'Bearer redx-test-token'));
 });
 
+it('creates a redx parcel with the expected payload and headers', function () {
+    Http::fake([
+        'https://openapi.redx.com.bd/v1.0.0-beta/parcel' => Http::response([
+            'tracking_id' => 'RX-NEW-456',
+        ]),
+    ]);
+
+    config()->set('courier.redx.api_access_token', 'redx-test-token');
+
+    $payload = [
+        'customer_name'          => 'Jane Doe',
+        'customer_phone'         => '01700000000',
+        'delivery_area_id'       => 42,
+        'pickup_area_id'         => 7,
+        'customer_address'       => '123 Test Road, Dhaka',
+        'merchant_invoice_id'    => 'SO-1001',
+        'cash_collection_amount' => '1500',
+        'parcel_weight'          => 500,
+        'value'                  => '1500',
+        'parcel_details_json'    => [
+            ['name' => 'Test item', 'category' => 'Others', 'value' => '1500'],
+        ],
+    ];
+
+    $result = app(RedxService::class)->createParcel($payload);
+
+    expect($result)->toBe(['tracking_id' => 'RX-NEW-456']);
+
+    Http::assertSent(fn (Request $request) => $request->url() === 'https://openapi.redx.com.bd/v1.0.0-beta/parcel'
+        && $request->method() === 'POST'
+        && $request['customer_name'] === 'Jane Doe'
+        && $request['delivery_area_id'] === 42
+        && $request->hasHeader('API-ACCESS-TOKEN', 'Bearer redx-test-token'));
+});
+
+it('rejects a redx parcel payload missing required fields', function () {
+    app(RedxService::class)->createParcel(['customer_name' => 'Jane Doe']);
+})->throws(Centrex\Courier\Exceptions\CourierException::class, 'Missing required field: customer_phone');
+
 it('tracks steadfast consignments via package route', function () {
     Http::fake([
         'https://steadfast.com.bd/track/consignment/ST123' => Http::response([
@@ -170,4 +209,60 @@ it('validates required payloads for phone based couriers', function () {
     $this->postJson(route('courier.rokomari.track'), ['tracking_number' => 'RO123'])
         ->assertUnprocessable()
         ->assertJsonValidationErrors(['phone']);
+});
+
+it('lists redx areas and encodes lookup query parameters', function () {
+    Http::fake([
+        'https://openapi.redx.com.bd/v1.0.0-beta/areas*' => Http::response([
+            'areas' => [['id' => 1, 'name' => 'Banani', 'district_name' => 'Dhaka', 'post_code' => 1213]],
+        ]),
+    ]);
+
+    config()->set('courier.redx.api_access_token', 'redx-test-token');
+
+    $service = app(RedxService::class);
+
+    expect($service->getAreas()['areas'])->toHaveCount(1);
+
+    $service->getAreaByDistrictName("Cox's Bazar");
+
+    Http::assertSent(fn (Request $request) => str_contains($request->url(), 'areas?district_name=Cox%27s+Bazar')
+        || str_contains($request->url(), 'areas?district_name=Cox%27s%20Bazar'));
+});
+
+it('calculates redx charges via get query parameters', function () {
+    Http::fake([
+        'https://openapi.redx.com.bd/v1.0.0-beta/charge/charge_calculator*' => Http::response([
+            'deliveryCharge' => 60,
+            'codCharge'      => 15,
+        ]),
+    ]);
+
+    config()->set('courier.redx.api_access_token', 'redx-test-token');
+
+    $result = app(RedxService::class)->calculateCharge([
+        'delivery_area_id'       => 42,
+        'pickup_area_id'         => 7,
+        'cash_collection_amount' => 1500,
+        'weight'                 => 500,
+    ]);
+
+    expect($result['deliveryCharge'])->toBe(60);
+
+    Http::assertSent(fn (Request $request) => $request->method() === 'GET'
+        && str_contains($request->url(), 'charge/charge_calculator')
+        && str_contains($request->url(), 'delivery_area_id=42')
+        && str_contains($request->url(), 'pickup_area_id=7'));
+});
+
+it('lists redx pickup stores', function () {
+    Http::fake([
+        'https://openapi.redx.com.bd/v1.0.0-beta/pickup/stores' => Http::response([
+            'pickup_stores' => [['id' => 3, 'name' => 'Main Store', 'area_id' => 7, 'area_name' => 'Banani']],
+        ]),
+    ]);
+
+    config()->set('courier.redx.api_access_token', 'redx-test-token');
+
+    expect(app(RedxService::class)->getPickupStores()['pickup_stores'][0]['area_id'])->toBe(7);
 });
