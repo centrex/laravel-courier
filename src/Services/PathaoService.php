@@ -55,7 +55,8 @@ class PathaoService extends AbstractCourierService
     {
         $this->requireFields($data, [
             'store_id', 'recipient_name', 'recipient_phone',
-            'recipient_address', 'delivery_type', 'item_type',
+            'recipient_address', 'recipient_city', 'recipient_zone',
+            'delivery_type', 'item_type',
             'item_quantity', 'item_weight', 'amount_to_collect',
         ]);
 
