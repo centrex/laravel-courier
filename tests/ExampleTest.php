@@ -48,8 +48,9 @@ it('creates a redx parcel with the expected payload and headers', function () {
     $payload = [
         'customer_name'          => 'Jane Doe',
         'customer_phone'         => '01700000000',
+        'delivery_area'          => 'Dhanmondi',
         'delivery_area_id'       => 42,
-        'pickup_area_id'         => 7,
+        'pickup_store_id'        => 7,
         'customer_address'       => '123 Test Road, Dhaka',
         'merchant_invoice_id'    => 'SO-1001',
         'cash_collection_amount' => '1500',
@@ -67,6 +68,7 @@ it('creates a redx parcel with the expected payload and headers', function () {
     Http::assertSent(fn (Request $request) => $request->url() === 'https://openapi.redx.com.bd/v1.0.0-beta/parcel'
         && $request->method() === 'POST'
         && $request['customer_name'] === 'Jane Doe'
+        && $request['delivery_area'] === 'Dhanmondi'
         && $request['delivery_area_id'] === 42
         && $request->hasHeader('API-ACCESS-TOKEN', 'Bearer redx-test-token'));
 });

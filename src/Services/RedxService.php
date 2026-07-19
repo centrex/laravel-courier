@@ -111,13 +111,15 @@ class RedxService extends AbstractCourierService
      * Create a parcel (consignment) with Redx.
      *
      * Payload shape follows Redx's merchant "Create Parcel" API: recipient details,
-     * delivery area id (from Redx's own area lookup — not provided by this package),
-     * cash-on-delivery amount, parcel weight/value, and a details breakdown.
+     * delivery area name + id (from Redx's own area lookup — not provided by this
+     * package), cash-on-delivery amount, parcel weight/value, and a details
+     * breakdown. An optional pickup_store_id selects a specific registered pickup
+     * store; without it Redx uses the merchant's default store.
      */
     public function createParcel(array $data): array
     {
         $this->requireFields($data, [
-            'customer_name', 'customer_phone', 'delivery_area_id', 'pickup_area_id',
+            'customer_name', 'customer_phone', 'delivery_area', 'delivery_area_id',
             'customer_address', 'merchant_invoice_id', 'cash_collection_amount',
             'parcel_weight', 'value', 'parcel_details_json',
         ]);
