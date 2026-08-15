@@ -18,4 +18,9 @@ class RokomariService extends AbstractCourierService
             ->throw()
             ->body();
     }
+
+    public function trackingLink(string $trackingNumber, string $phone = ''): string
+    {
+        return $this->trackingLinkFromTemplate('rokomari', $trackingNumber, $phone);
+    }
 }

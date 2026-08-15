@@ -20,4 +20,9 @@ class SundarbanService extends AbstractCourierService
                 ]),
         );
     }
+
+    public function trackingLink(string $trackingNumber): string
+    {
+        return $this->trackingLinkFromTemplate('sundarban', $trackingNumber);
+    }
 }

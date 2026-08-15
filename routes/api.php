@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-use Centrex\Courier\Http\Controllers\{PathaoController, RedxController, RokomariController, SteadfastController, SundarbanController};
+use Centrex\Courier\Http\Controllers\{PathaoController, RedxController, RokomariController, SteadfastController, SundarbanController, TrackingLinkController};
 use Illuminate\Support\Facades\Route;
 
 $apiPrefix = trim((string) config('courier.api_prefix', 'api'), '/');
@@ -24,4 +24,5 @@ $routes->group(function (): void {
     Route::post('/pathao', [PathaoController::class, 'track'])->name('pathao.track');
     Route::post('/rokomari', [RokomariController::class, 'track'])->name('rokomari.track');
     Route::post('/sundarban', [SundarbanController::class, 'track'])->name('sundarban.track');
+    Route::get('/{provider}/{tracking_number}/link', [TrackingLinkController::class, 'show'])->name('tracking-link');
 });

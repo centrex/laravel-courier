@@ -18,6 +18,11 @@ class RedxService extends AbstractCourierService
         );
     }
 
+    public function trackingLink(string $trackingNumber): string
+    {
+        return $this->trackingLinkFromTemplate('redx', $trackingNumber);
+    }
+
     public function parcelInfo(string $trackingNumber): array
     {
         return $this->json(

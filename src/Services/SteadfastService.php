@@ -16,4 +16,9 @@ class SteadfastService extends AbstractCourierService
                 ->get($this->buildUrl($trackingUrl, $trackingNumber)),
         );
     }
+
+    public function trackingLink(string $trackingNumber): string
+    {
+        return $this->trackingLinkFromTemplate('steadfast', $trackingNumber);
+    }
 }

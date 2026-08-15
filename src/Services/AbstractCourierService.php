@@ -43,4 +43,22 @@ abstract class AbstractCourierService
 
         return sprintf('%s/%s', $baseUrl, ltrim($suffix, '/'));
     }
+
+    /**
+     * Build the public, customer-facing tracking-page URL for a provider from its
+     * `tracking_link` config template (placeholders: `{tracking_number}`, `{phone}`).
+     */
+    protected function trackingLinkFromTemplate(string $providerKey, string $trackingNumber, string $phone = ''): string
+    {
+        $template = (string) data_get($this->config($providerKey, []), 'tracking_link', '');
+
+        if ($template === '') {
+            throw new CourierException("No tracking link is configured for the [{$providerKey}] courier.");
+        }
+
+        return strtr($template, [
+            '{tracking_number}' => rawurlencode($trackingNumber),
+            '{phone}'           => rawurlencode($phone),
+        ]);
+    }
 }

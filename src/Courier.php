@@ -4,6 +4,7 @@ declare(strict_types = 1);
 
 namespace Centrex\Courier;
 
+use Centrex\Courier\Exceptions\CourierException;
 use Centrex\Courier\Services\{PathaoService, RedxService, RokomariService, SteadfastService, SundarbanService};
 
 class Courier
@@ -44,5 +45,21 @@ class Courier
     public function sundarban(string $trackingNumber): array
     {
         return $this->sundarbanService->track($trackingNumber);
+    }
+
+    /**
+     * Public, customer-facing tracking-page URL for the given provider — for redirecting
+     * a customer to the courier's own tracking page rather than calling its API.
+     */
+    public function trackingLink(string $provider, string $trackingNumber, ?string $phone = null): string
+    {
+        return match ($provider) {
+            'pathao'    => $this->pathaoService->trackingLink($trackingNumber, (string) $phone),
+            'redx'      => $this->redxService->trackingLink($trackingNumber),
+            'rokomari'  => $this->rokomariService->trackingLink($trackingNumber, (string) $phone),
+            'steadfast' => $this->steadfastService->trackingLink($trackingNumber),
+            'sundarban' => $this->sundarbanService->trackingLink($trackingNumber),
+            default     => throw new CourierException("Unsupported courier provider [{$provider}]."),
+        };
     }
 }

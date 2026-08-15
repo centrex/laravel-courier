@@ -52,6 +52,7 @@ return [
 
     'pathao' => [
         'tracking_url' => 'https://merchant.pathao.com/api/v1/user/tracking',
+        'tracking_link' => env('PATHAO_TRACKING_LINK', 'https://merchant.pathao.com/tracking?consignment_id={tracking_number}&phone={phone}'),
         'sandbox' => env('PATHAO_SANDBOX', true),
         'base_urls' => [
             'sandbox' => env('PATHAO_SANDBOX_BASE_URL', 'https://courier-api-sandbox.pathao.com/'),
@@ -79,18 +80,26 @@ return [
             'live' => env('REDX_LIVE_BASE_URL', 'https://openapi.redx.com.bd/v1.0.0-beta'),
         ],
         'api_access_token' => env('REDX_API_ACCESS_TOKEN', ''),
+        // Redx has no documented public tracking page — set this to your merchant
+        // panel's consumer tracking URL before calling trackingLink('redx', ...).
+        'tracking_link' => env('REDX_TRACKING_LINK', ''),
     ],
 
     'rokomari' => [
         'tracking_url' => 'https://www.rokomari.com/ordertrack',
+        'tracking_link' => env('ROKOMARI_TRACKING_LINK', 'https://www.rokomari.com/ordertrack?orderId={tracking_number}&countryISOCode=BD&phn={phone}'),
     ],
 
     'steadfast' => [
         'tracking_url' => 'https://steadfast.com.bd/track/consignment',
+        'tracking_link' => env('STEADFAST_TRACKING_LINK', 'https://steadfast.com.bd/track/consignment/{tracking_number}'),
     ],
 
     'sundarban' => [
         'tracking_url' => 'https://tracking.sundarbancourierltd.com/Home/getDatabyCN',
+        // Sundarban's tracker is a POST-driven AJAX form, not a deep-linkable GET page —
+        // set this to the correct public URL for your account before use.
+        'tracking_link' => env('SUNDARBAN_TRACKING_LINK', ''),
     ],
 ];
 ```
@@ -120,6 +129,7 @@ By default the package exposes these endpoints:
 | `/api/pathao` | `POST` | Track Pathao parcel |
 | `/api/rokomari` | `POST` | Track Rokomari parcel |
 | `/api/sundarban` | `POST` | Track Sundarban parcel |
+| `/api/{provider}/{tracking_number}/link?phone=` | `GET` | Public tracking-page URL for the given provider |
 
 Named routes:
 
@@ -130,6 +140,7 @@ Named routes:
 | `courier.pathao.track` | Pathao tracking |
 | `courier.rokomari.track` | Rokomari tracking |
 | `courier.sundarban.track` | Sundarban tracking |
+| `courier.tracking-link` | Public tracking-page URL for any provider |
 
 ### Route Prefix Example
 
@@ -149,6 +160,7 @@ That produces:
 - `/api/courier/pathao`
 - `/api/courier/rokomari`
 - `/api/courier/sundarban`
+- `/api/courier/{provider}/{tracking_number}/link`
 
 ## Basic Usage
 
@@ -172,6 +184,34 @@ $sundarban = $courier->sundarban('CN123456');
 use Centrex\Courier\Facades\Courier;
 
 $tracking = Courier::redx('RX123456789');
+```
+
+### Tracking links
+
+Instead of calling a courier's API, generate the public, customer-facing tracking-page
+URL so you can redirect a customer or show a "Track on courier site" link:
+
+```php
+use Centrex\Courier\Facades\Courier;
+
+Courier::trackingLink('steadfast', 'ST123456789');
+// https://steadfast.com.bd/track/consignment/ST123456789
+
+Courier::trackingLink('pathao', 'PTH123456', '01700000000');
+// https://merchant.pathao.com/tracking?consignment_id=PTH123456&phone=01700000000
+```
+
+`phone` is only used by providers whose tracking page requires it (`pathao`, `rokomari`) and
+is ignored otherwise. Each provider's URL is built from its `tracking_link` config template
+(placeholders `{tracking_number}` and `{phone}`) — see [Configuration](#configuration). A
+provider with no template configured (`redx` and `sundarban` ship blank by default — see the
+comments in the config above) throws `CourierException`.
+
+```bash
+curl --request GET "http://localhost:8000/api/steadfast/ST123456789/link"
+# {"url": "https://steadfast.com.bd/track/consignment/ST123456789"}
+
+curl --request GET "http://localhost:8000/api/pathao/PTH123456/link?phone=01700000000"
 ```
 
 ## API Examples

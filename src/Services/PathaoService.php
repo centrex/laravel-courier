@@ -26,6 +26,11 @@ class PathaoService extends AbstractCourierService
         );
     }
 
+    public function trackingLink(string $trackingNumber, string $phone = ''): string
+    {
+        return $this->trackingLinkFromTemplate('pathao', $trackingNumber, $phone);
+    }
+
     public function cities(): array
     {
         return $this->get('aladdin/api/v1/city-list')['data']['data'] ?? [];
