@@ -100,7 +100,9 @@ class TokenManager
 
     protected static function sendTokenRequest(HttpFactory $http, array $config): \Illuminate\Http\Client\Response
     {
-        $method = strtolower((string) data_get($config, 'auth.method', 'post'));
+        // HTTP methods are case-sensitive; Cloudflare-fronted APIs (e.g. Pathao)
+        // reject a lowercase "post" with a 400.
+        $method = strtoupper((string) data_get($config, 'auth.method', 'post'));
         $bodyType = strtolower((string) data_get($config, 'auth.body_type', 'json'));
         $headers = (array) data_get($config, 'auth.headers', []);
         $payload = (array) data_get($config, 'auth.payload', self::defaultPayload($config));

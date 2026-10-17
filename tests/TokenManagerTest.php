@@ -39,6 +39,7 @@ it('can fetch and cache a token for pathao style configs', function () {
 
     Http::assertSentCount(1);
     Http::assertSent(fn (Request $request) => $request->url() === 'https://courier-api-sandbox.pathao.com/aladdin/api/v1/issue-token'
+        && $request->method() === 'POST'
         && $request['client_id'] === 'client-id'
         && $request['grant_type'] === 'password');
 });
@@ -73,7 +74,10 @@ it('supports custom auth shapes for other platforms', function () {
         ->and(TokenManager::authorizationHeader($http, 'generic-platform', $config))
         ->toBe(['X-Access-Token' => 'generic-token']);
 
+    // A lowercase configured method is still sent uppercase. guzzlehttp/psr7 2.x
+    // uppercased methods itself; 3.x sends them as given, which Cloudflare rejects.
     Http::assertSent(fn (Request $request) => $request->url() === 'https://auth.example.com/token'
+        && $request->method() === 'POST'
         && $request->hasHeader('Content-Type', 'application/x-www-form-urlencoded')
         && $request['api_key'] === 'abc123');
 });
