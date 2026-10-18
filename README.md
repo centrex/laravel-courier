@@ -56,7 +56,7 @@ return [
         'sandbox' => env('PATHAO_SANDBOX', true),
         'base_urls' => [
             'sandbox' => env('PATHAO_SANDBOX_BASE_URL', 'https://courier-api-sandbox.pathao.com/'),
-            'live' => env('PATHAO_LIVE_BASE_URL', 'https://courier-api.pathao.com/'),
+            'live' => env('PATHAO_LIVE_BASE_URL', 'https://api-hermes.pathao.com/'),
         ],
         'client_id' => env('PATHAO_CLIENT_ID', ''),
         'client_secret' => env('PATHAO_CLIENT_SECRET', ''),

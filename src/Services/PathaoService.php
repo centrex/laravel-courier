@@ -133,7 +133,7 @@ class PathaoService extends AbstractCourierService
         $config = $this->pathaoConfig();
         $baseUrls = $config['base_urls'] ?? [
             'sandbox' => 'https://courier-api-sandbox.pathao.com/',
-            'live'    => 'https://courier-api.pathao.com/',
+            'live'    => 'https://api-hermes.pathao.com/',
         ];
 
         return ($config['sandbox'] ?? true)
